@@ -390,7 +390,7 @@ def _tarjetas_jugadas(jugadas, edades: dict | None = None, ahora: datetime | Non
 <div class="leyenda"><span><i style="background:var(--brass)"></i>lo que creemos</span>
 <span><i style="background:var(--amber)"></i>lo que la casa cree</span></div>
 <div class="det">
-<div class="ok"><b>+{ev * 100:.1f}%</b><small>ganancia esperada</small></div>
+<div class="ok"><b>{ev * 100:+.1f}%</b><small>ganancia esperada</small></div>
 <div><b>{round(p * 100)} de 100</b><small>veces que gana</small></div>
 <div><b>${(j.momio_dec - 1) * 100:,.0f}</b><small>cobras por cada $100</small></div>
 <div><b>{d["stake_pct"]:.1f}%</b><small>de tu banca (${banca:,.0f} por cada $1,000)</small></div>
@@ -555,7 +555,7 @@ def escribir_html(r: dict, ruta: Path, ruta_registro: Path | None = None) -> Non
         stats = f"""<div class="stats">
 <div><span class="n">{len(jugadas)}</span><span class="l">jugadas de hoy</span></div>
 <div><span class="n">{_pct(sum(probs) / len(probs))}</span><span class="l">probabilidad promedio</span></div>
-<div><span class="n pos">+{sum(evs) / len(evs) * 100:.1f}%</span><span class="l">ganancia esperada promedio</span></div>
+<div><span class="n pos">{sum(evs) / len(evs) * 100:+.1f}%</span><span class="l">ganancia esperada promedio</span></div>
 <div><span class="n">{sum(j.stake for j in jugadas) * 100:.1f}%</span><span class="l">de tu banca en total</span></div>
 </div>"""
     else:
