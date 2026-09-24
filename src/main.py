@@ -257,6 +257,31 @@ def verificar() -> int:
     return fallos
 
 
+def rehacer_pagina(salida: Path) -> None:
+    """
+    Vuelve a dibujar la página con las jugadas vigentes de la última revisión.
+    No gasta créditos: sirve para estrenar un cambio de diseño sin esperar a
+    la revisión del día siguiente.
+    """
+    ahora = datetime.now(timezone.utc)
+    try:
+        previo = json.loads((salida / "jugadas.json").read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        previo = {}
+    try:
+        generado = datetime.fromisoformat(previo["generado"])
+    except (KeyError, ValueError):
+        generado = ahora
+    vigentes = cartelera.cargar(RAIZ / "datos" / "activas.json", ahora)
+    jugadas = sorted((cartelera._a_jugada(d) for d in vigentes.values()),
+                     key=lambda j: j.ev, reverse=True)
+    r = {"ahora": generado, "jugadas": jugadas, "avisos": previo.get("avisos", []),
+         "eventos": previo.get("eventos", 0), "consulto": previo.get("eventos", 1) > 0,
+         "movimientos": [], "arbitrajes": [], "middles": []}
+    escribir_html(r, salida / "index.html", RAIZ / "datos" / "registro.csv")
+    print(f"Página rehecha con {len(jugadas)} jugada(s) vigentes.")
+
+
 def main() -> int:
     ap = argparse.ArgumentParser(description="Detector de valor en apuestas")
     ap.add_argument("--config", type=Path, default=None)
@@ -266,7 +291,13 @@ def main() -> int:
     ap.add_argument("--forzar", action="store_true",
                     help="revisa ya, sin esperar los intervalos de la agenda")
     ap.add_argument("--salida", type=Path, default=RAIZ / "docs")
+    ap.add_argument("--rehacer", action="store_true",
+                    help="rehace la página con lo último guardado, sin consultar momios")
     args = ap.parse_args()
+
+    if args.rehacer:
+        rehacer_pagina(args.salida)
+        return 0
 
     if args.verificar:
         print("Verificando fuentes de datos\n")

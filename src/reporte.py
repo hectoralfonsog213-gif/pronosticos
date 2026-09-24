@@ -12,10 +12,10 @@ from __future__ import annotations
 import csv
 import html
 import json
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
-from .mercado import Jugada
+from .mercado import Jugada, fmt_am
 from .motor import resumen
 
 CAMPOS = [
@@ -31,6 +31,7 @@ def escribir_json(r: dict, ruta: Path) -> None:
         "generado": r["ahora"].isoformat(),
         "resumen": resumen(r["jugadas"]),
         "avisos": r["avisos"],
+        "eventos": r.get("eventos", 0),
         "jugadas": [j.dict() for j in r["jugadas"]],
         "movimientos": [m.dict() for m in r.get("movimientos", [])],
         "arbitrajes": [a.dict() for a in r.get("arbitrajes", [])],
@@ -107,59 +108,129 @@ def estadisticas_registro(ruta: Path) -> dict:
 
 # ------------------------------------------------------------------- HTML
 _CSS = """
-:root{--bg:#E9ECF0;--panel:#F5F7F9;--ink:#16202B;--slate:#5A6D80;--rule:#C2CCD6;
---soft:#D8E0E7;--brass:#7E5F12;--brass-bg:#EFE6CE;--brick:#93383C}
-@media(prefers-color-scheme:dark){:root{--bg:#111820;--panel:#18212B;--ink:#DCE4EC;
---slate:#8B9CAD;--rule:#2B3946;--soft:#222E3A;--brass:#D2A945;--brass-bg:#2A2617;--brick:#D98287}}
+:root{--bg:#0A0E13;--panel:#111821;--panel2:#16202B;--ink:#E8EEF4;--slate:#8898AA;
+--rule:#1E2935;--soft:#18222D;--brass:#2BD98A;--brass-bg:rgba(43,217,138,.12);
+--brick:#FF5F6D;--amber:#F7B84B;--blue:#4DA8FF;
+--mlb:#FF6B57;--nfl:#4DA8FF;--futbol:#2BD98A}
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 Archivo,system-ui,sans-serif}
-.w{max-width:940px;margin:0 auto;padding:32px 18px 70px}
-h1{font-size:30px;font-weight:700;letter-spacing:-.02em;margin:0 0 6px}
-.sub{color:var(--slate);font-size:14.5px;margin:0 0 26px}
-.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:14px;
-background:var(--panel);border:1px solid var(--rule);border-radius:5px;padding:18px;margin-bottom:24px}
-.n{font:600 25px/1.1 "IBM Plex Mono",ui-monospace,monospace;font-variant-numeric:tabular-nums;
-display:block;letter-spacing:-.02em}
-.l{font-size:12.5px;color:var(--slate);margin-top:4px}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);
+font:16px/1.55 "Space Grotesk",system-ui,sans-serif;
+background-image:radial-gradient(1000px 500px at 85% -10%,rgba(43,217,138,.10),transparent 60%),
+radial-gradient(800px 400px at -10% 0%,rgba(77,168,255,.08),transparent 60%);
+background-repeat:no-repeat}
+.w{max-width:980px;margin:0 auto;padding:28px 16px 80px}
+.mono,.n,.ev,.det b{font-family:"JetBrains Mono",ui-monospace,monospace;font-variant-numeric:tabular-nums}
+/* encabezado */
+.hero{display:flex;justify-content:space-between;align-items:flex-end;gap:16px;flex-wrap:wrap;margin-bottom:20px}
+.kicker{font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--brass);font-weight:600}
+h1{font-size:clamp(30px,6vw,44px);font-weight:700;letter-spacing:-.03em;margin:4px 0 2px;line-height:1.05}
+.sub{color:var(--slate);font-size:14.5px;margin:0}
+.live{display:inline-flex;align-items:center;gap:8px;font-size:13px;color:var(--slate);
+border:1px solid var(--rule);background:var(--panel);padding:7px 12px;border-radius:999px}
+.live i{width:8px;height:8px;border-radius:50%;background:var(--brass);box-shadow:0 0 0 4px var(--brass-bg)}
+.prueba{border:1px solid rgba(247,184,75,.35);background:rgba(247,184,75,.08);color:var(--amber);
+border-radius:12px;padding:11px 14px;font-size:13.5px;margin:0 0 20px;line-height:1.5}
+.prueba b{color:var(--ink)}
+/* tarjetas resumen */
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-bottom:22px}
+.stats>div{background:var(--panel);border:1px solid var(--rule);border-radius:14px;padding:14px 16px}
+.n{font-weight:600;font-size:26px;line-height:1.1;display:block;letter-spacing:-.02em}
+.l{font-size:12.5px;color:var(--slate);margin-top:4px;display:block}
 .pos{color:var(--brass)}.neg{color:var(--brick)}
-.j{background:var(--panel);border:1px solid var(--rule);border-left:3px solid var(--brass);
-border-radius:5px;padding:15px 17px;margin-bottom:11px}
-.j.modelo{border-left-color:var(--slate)}
-.top{display:flex;justify-content:space-between;gap:14px;flex-wrap:wrap;align-items:baseline}
-.sel{font-weight:600;font-size:17px}
-.meta{color:var(--slate);font-size:13.5px;margin-top:3px}
-.ev{font:600 21px/1 "IBM Plex Mono",ui-monospace,monospace;color:var(--brass);white-space:nowrap}
-.det{display:flex;gap:20px;flex-wrap:wrap;margin-top:11px;padding-top:11px;
-border-top:1px solid var(--soft);font-size:13.5px;color:var(--slate)}
-.det b{font-family:"IBM Plex Mono",ui-monospace,monospace;color:var(--ink);font-weight:600}
-.tag{display:inline-block;font-size:11.5px;padding:2px 7px;border-radius:3px;
-background:var(--brass-bg);color:var(--brass);margin-left:7px;vertical-align:1px}
-.edad{color:var(--slate);font-style:italic}
-.vacio b{color:var(--ink);font-weight:600}
-.vacio{background:var(--panel);border:1px solid var(--rule);border-radius:5px;
-padding:26px;text-align:left;color:var(--slate);line-height:1.6}
-.avisos{margin-top:28px;font-size:13px;color:var(--slate);border-top:1px solid var(--rule);padding-top:14px}
-.avisos div{margin-bottom:4px;font-family:"IBM Plex Mono",ui-monospace,monospace}
-.demo{background:var(--brass-bg);border:1px solid var(--brass);color:var(--brass);
-border-radius:5px;padding:12px 15px;font-size:13.5px;margin-bottom:22px;line-height:1.5}
-.minimo{margin-top:10px;padding-top:9px;border-top:1px dashed var(--rule);
-font-size:13px;color:var(--slate)}
-.minimo b{font-family:"IBM Plex Mono",ui-monospace,monospace;color:var(--brass)}
-.nota{margin-top:26px;font-size:13.5px;color:var(--slate);line-height:1.6;max-width:70ch}
-h2{font-size:20px;font-weight:600;margin:34px 0 4px;letter-spacing:-.015em}
-.sub2{color:var(--slate);font-size:13.5px;margin:0 0 14px;max-width:70ch}
-.j.mov{border-left-color:#2F6F8F}.j.arb{border-left-color:#2E7D52}.j.mid{border-left-color:#6B4E9B}
-.tag.alt{background:transparent;border:1px solid var(--rule);color:var(--slate)}
-.tag.mv{background:#DCE8EF;color:#2F6F8F}
+/* filtros */
+.chips{display:flex;gap:8px;flex-wrap:wrap;margin:0 0 16px}
+.chip{appearance:none;border:1px solid var(--rule);background:var(--panel);color:var(--ink);
+font:inherit;font-size:14px;padding:8px 14px;border-radius:999px;cursor:pointer}
+.chip span{color:var(--slate);margin-left:4px}
+.chip.on{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.chip.on span{color:var(--bg);opacity:.6}
+/* jugada */
+.card{position:relative;background:linear-gradient(180deg,var(--panel2),var(--panel));
+border:1px solid var(--rule);border-radius:18px;padding:18px;margin-bottom:14px;overflow:hidden}
+.card::before{content:"";position:absolute;left:0;top:0;bottom:0;width:4px;background:var(--c,var(--brass))}
+.card[data-dep=mlb]{--c:var(--mlb)}.card[data-dep=nfl]{--c:var(--nfl)}.card[data-dep=futbol]{--c:var(--futbol)}
+.cab{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;font-size:13px;color:var(--slate)}
+.dep{display:inline-flex;gap:7px;align-items:center;color:var(--ink);font-weight:600}
+.dep em{font-style:normal;color:var(--c);font-weight:600}
+.hora{font-family:"JetBrains Mono",monospace}
+.partido{font-size:14.5px;color:var(--slate);margin:10px 0 2px}
+.pick{display:flex;justify-content:space-between;align-items:flex-start;gap:14px;flex-wrap:wrap}
+.apuesta{font-size:clamp(21px,4.6vw,26px);font-weight:700;letter-spacing:-.02em;line-height:1.2}
+.aclara{font-size:13.5px;color:var(--slate);margin-top:3px}
+.precio{text-align:right}
+.momio{font:700 30px/1 "JetBrains Mono",monospace;letter-spacing:-.03em}
+.casa{font-size:13px;color:var(--slate);margin-top:5px}
+.casa b{color:var(--ink)}
+.tag{display:inline-block;font-size:11.5px;font-weight:600;padding:3px 8px;border-radius:999px;
+background:var(--brass-bg);color:var(--brass);margin-left:8px;vertical-align:3px;letter-spacing:.02em}
+.tag.alt{background:rgba(247,184,75,.12);color:var(--amber)}
+/* barra de probabilidad */
+.barra{margin:16px 0 6px}
+.barra .t{display:flex;justify-content:space-between;font-size:12.5px;color:var(--slate);margin-bottom:6px}
+.barra .t b{color:var(--brass);font-family:"JetBrains Mono",monospace}
+.pista{position:relative;height:12px;border-radius:999px;background:var(--soft);overflow:visible}
+.lleno{height:100%;border-radius:999px;background:linear-gradient(90deg,rgba(43,217,138,.45),var(--brass))}
+.marca{position:absolute;top:-5px;bottom:-5px;width:2px;background:var(--amber);border-radius:2px}
+.marca::after{content:attr(data-l);position:absolute;top:20px;transform:translateX(-50%);
+white-space:nowrap;font-size:11.5px;color:var(--amber);font-family:"JetBrains Mono",monospace}
+.leyenda{display:flex;gap:16px;flex-wrap:wrap;font-size:12px;color:var(--slate);margin-top:24px}
+.leyenda i{display:inline-block;width:10px;height:10px;border-radius:3px;margin-right:6px;vertical-align:-1px}
+/* datos */
+.det{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:8px;margin-top:14px}
+.det>div{background:var(--bg);border:1px solid var(--rule);border-radius:12px;padding:10px 12px}
+.det b{display:block;font-size:18px;font-weight:600;color:var(--ink)}
+.det small{font-size:12px;color:var(--slate)}
+.det .ok b{color:var(--brass)}
+/* explicacion */
+details.por{margin-top:12px;border-top:1px solid var(--rule);padding-top:10px}
+details.por summary{cursor:pointer;list-style:none;font-weight:600;font-size:14.5px;color:var(--brass);
+display:flex;align-items:center;gap:8px}
+details.por summary::-webkit-details-marker{display:none}
+details.por summary::before{content:"+";display:inline-grid;place-items:center;width:20px;height:20px;
+border-radius:6px;background:var(--brass-bg);font-family:"JetBrains Mono",monospace}
+details.por[open] summary::before{content:"–"}
+.por p{margin:10px 0 0;font-size:14.5px;line-height:1.65;color:#C9D4DF}
+.por p b{color:var(--ink)}
+.minimo{margin-top:12px;padding:10px 12px;border-radius:12px;background:var(--brass-bg);
+font-size:13.5px;color:var(--ink)}
+.minimo b{font-family:"JetBrains Mono",monospace;color:var(--brass)}
+.edad{color:var(--amber)}
+/* secciones secundarias (lineas, arbitrajes, middles) */
+h2{font-size:22px;font-weight:700;margin:38px 0 4px;letter-spacing:-.02em}
+.sub2{color:var(--slate);font-size:14px;margin:0 0 14px;max-width:70ch}
+.j{background:var(--panel);border:1px solid var(--rule);border-left:4px solid var(--brass);
+border-radius:14px;padding:15px 17px;margin-bottom:11px}
+.j.mov{border-left-color:var(--blue)}.j.arb{border-left-color:var(--brass)}.j.mid{border-left-color:#A77BFF}
+.j .top{display:flex;justify-content:space-between;gap:14px;flex-wrap:wrap;align-items:baseline}
+.j .sel{font-weight:600;font-size:17px}
+.j .meta{color:var(--slate);font-size:13.5px;margin-top:3px}
+.ev{font-weight:600;font-size:20px;color:var(--brass);white-space:nowrap}
 .ev.gris{color:var(--slate);font-size:14px;font-weight:400}
+.j .det{display:flex;gap:18px;flex-wrap:wrap;margin-top:10px;padding-top:10px;border-top:1px solid var(--rule);
+font-size:13.5px;color:var(--slate)}
+.j .det b{display:inline;font-size:inherit}
+.tag.mv{background:rgba(77,168,255,.14);color:var(--blue)}
+.vacio{background:var(--panel);border:1px dashed var(--rule);border-radius:18px;padding:28px;
+color:var(--slate);line-height:1.65;text-align:center}
+.vacio b{color:var(--ink);display:block;font-size:18px;margin-bottom:6px}
+.vacio .big{font-size:40px;display:block;margin-bottom:6px}
 table{border-collapse:collapse;width:100%;font-size:13.5px;margin-top:8px}
-th,td{padding:7px 9px;text-align:left;border-bottom:1px solid var(--soft)}
+th,td{padding:8px 9px;text-align:left;border-bottom:1px solid var(--rule)}
 th{font-size:12px;color:var(--slate);font-weight:500}
-td.m,th.m{text-align:right;font-family:"IBM Plex Mono",ui-monospace,monospace;
-font-variant-numeric:tabular-nums}
-@media(prefers-color-scheme:dark){.tag.mv{background:#1D3542;color:#7FB3CE}}
+td.m,th.m{text-align:right;font-family:"JetBrains Mono",monospace;font-variant-numeric:tabular-nums}
+.guia{margin-top:34px;background:var(--panel);border:1px solid var(--rule);border-radius:18px;padding:6px 18px}
+.guia summary{cursor:pointer;font-weight:700;font-size:17px;padding:12px 0}
+.guia dl{margin:0 0 14px;font-size:14px;line-height:1.6}
+.guia dt{font-weight:600;margin-top:12px}
+.guia dd{margin:2px 0 0;color:var(--slate)}
+.nota{margin-top:22px;font-size:13px;color:var(--slate);line-height:1.6;max-width:75ch}
+.avisos{margin-top:22px;font-size:12px;color:var(--slate);border-top:1px solid var(--rule);padding-top:12px}
+.avisos div{margin-bottom:3px;font-family:"JetBrains Mono",monospace}
+.demo{background:rgba(247,184,75,.1);border:1px solid var(--amber);color:var(--amber);
+border-radius:12px;padding:12px 15px;font-size:13.5px;margin-bottom:22px;line-height:1.5}
+@media(max-width:560px){.precio{text-align:left}.card{padding:16px 14px}}
 """
-
 
 def _estado_vacio(r: dict) -> str:
     """
@@ -170,43 +241,165 @@ def _estado_vacio(r: dict) -> str:
     hace pensar que el sistema no encuentra nada cuando en realidad no miró.
     """
     if not r.get("consulto", True):
-        return ('<div class="vacio"><b>Nada que revisar en este momento.</b><br>'
-                'Ninguna liga tenía partidos dentro de la ventana de consulta, o ya '
-                'se habían revisado hace poco. El sistema no gastó créditos y volverá '
-                'a mirar en la próxima corrida. Si quieres una revisión ahora mismo, '
-                'corre el flujo a mano con la opción de forzar.</div>')
+        return ('<div class="vacio"><span class="big">😴</span><b>Hoy no hay partidos que revisar.</b>'
+                'Ninguna liga tenía juegos en las próximas horas, así que no se gastaron '
+                'créditos. Mañana a las 8 am se vuelve a revisar.</div>')
 
     n = r.get("eventos", 0)
-    return (f'<div class="vacio"><b>Sin jugadas: revisamos {n} '
-            f'{"evento" if n == 1 else "eventos"} y ninguno pasó el filtro.</b><br>'
-            'Es lo normal y es buena señal. El sistema prefiere no darte nada antes '
-            'que inventarte una apuesta para justificar la corrida.</div>')
+    return (f'<div class="vacio"><span class="big">🧐</span><b>Revisamos {n} '
+            f'{"partido" if n == 1 else "partidos"} y ninguno pasó el filtro.</b>'
+            'Ninguna apuesta de hoy tiene 50% o más de probabilidad y además paga más de lo '
+            'justo. Es normal: el sistema prefiere no darte nada antes que inventarte una apuesta.</div>')
 
 
-def _tarjetas_jugadas(jugadas, edades: dict | None = None) -> str:
+# Mexico centro no tiene horario de verano desde 2022: UTC-6 fijo. Se evita
+# zoneinfo porque en Windows sin tzdata no existe America/Mexico_City.
+MX = timezone(timedelta(hours=-6))
+DIAS = ["lunes", "martes", "miércoles", "jueves", "viernes", "sábado", "domingo"]
+MESES = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto",
+         "septiembre", "octubre", "noviembre", "diciembre"]
+DEPORTES = {"mlb": ("⚾", "MLB"), "nfl": ("🏈", "NFL"), "futbol": ("⚽", "Fútbol")}
+UNIDAD = {"mlb": "carreras", "nfl": "puntos", "futbol": "goles"}
+MODELO = {
+    "mlb": "nuestro modelo de béisbol (carreras anotadas y permitidas, más el abridor)",
+    "nfl": "nuestro modelo de NFL (Elo con los resultados de la temporada)",
+    "futbol": "nuestro modelo de fútbol (Elo de clubes con Poisson)",
+}
+
+
+def _hora_mx(iso: str, ahora: datetime) -> str:
+    try:
+        d = datetime.fromisoformat(str(iso).replace("Z", "+00:00")).astimezone(MX)
+    except ValueError:
+        return ""
+    hoy = ahora.astimezone(MX).date()
+    dia = ("Hoy" if d.date() == hoy else "Mañana" if d.date() == hoy + timedelta(days=1)
+           else f"{DIAS[d.weekday()].capitalize()} {d.day}")
+    return f"{dia} · {d.strftime('%H:%M')}"
+
+
+def _fecha_larga(ahora: datetime) -> str:
+    d = ahora.astimezone(MX)
+    return f"{DIAS[d.weekday()]} {d.day} de {MESES[d.month - 1]}, {d.strftime('%H:%M')}"
+
+
+def _pct(p: float) -> str:
+    return f"{p * 100:.1f}%"
+
+
+def _describir(j: Jugada) -> tuple[str, str]:
+    """(la apuesta en español llano, una aclaración de qué tiene que pasar)."""
+    sel, u = j.seleccion, UNIDAD.get(j.deporte, "puntos")
+    partes = sel.rsplit(" ", 1)
+    try:
+        punto = float(partes[1]) if len(partes) == 2 else None
+    except ValueError:
+        punto = None
+    nombre = partes[0] if punto is not None else sel
+
+    if nombre in ("Over", "Under"):
+        linea = f"{abs(punto):g}"
+        if nombre == "Over":
+            return f"Más de {linea} {u}", f"Entre los dos equipos deben sumar más de {linea} {u}."
+        return f"Menos de {linea} {u}", f"Entre los dos equipos deben sumar menos de {linea} {u}."
+    if nombre == "Draw":
+        return "Empate", "El partido tiene que terminar empatado."
+    if punto is not None:
+        if punto < 0:
+            if punto == int(punto):
+                acl = f"Tiene que ganar por más de {abs(punto):g}. Si gana por exactamente {abs(punto):g}, te devuelven tu dinero."
+            elif abs(punto * 2) != int(abs(punto * 2)):
+                acl = "Hándicap asiático con cuarto de punto: la mitad de la apuesta va a cada línea vecina."
+            else:
+                acl = f"Tiene que ganar por {int(abs(punto)) + 1} o más."
+        else:
+            if punto == int(punto):
+                acl = f"Gana si {nombre} gana, o si pierde por menos de {punto:g}. Si pierde por exactamente {punto:g}, te devuelven tu dinero."
+            elif abs(punto * 2) != int(abs(punto * 2)):
+                acl = "Hándicap asiático con cuarto de punto: la mitad de la apuesta va a cada línea vecina."
+            else:
+                acl = (f"Gana si {nombre} gana o empata." if j.deporte == "futbol" and punto < 1
+                       else f"Gana si {nombre} gana, o si pierde por {int(punto)} o menos.")
+        return f"{nombre} {punto:+g}", acl
+    fin = " (en fútbol, si empatan pierdes)" if j.deporte == "futbol" else ""
+    return f"Gana {nombre}", f"Solo tiene que ganar el partido{fin}."
+
+
+def _explicar(j: Jugada, apuesta: str) -> str:
+    """El porqué de la jugada, en palabras."""
+    p, imp, dec = j.p_apuesta, 1 / j.momio_dec, j.momio_dec
+    ev = p * dec - 1
+    otras = max(1, j.n_casas - 1)
+    txt = []
+    if j.fuente != "modelo":
+        txt.append(
+            f"Juntamos los momios de las otras <b>{otras} casas</b>, les quitamos su comisión "
+            f"y el consenso le da a <b>{html.escape(apuesta)}</b> una probabilidad real de "
+            f"<b>{_pct(j.p_justa)}</b>. <b>{html.escape(j.casa)}</b> la paga a "
+            f"<b>{fmt_am(j.momio_am)}</b>, que es el precio de algo con solo <b>{_pct(imp)}</b> "
+            f"de probabilidad. O sea, la está pagando como si fuera menos probable de lo que es: "
+            f"esa diferencia de <b>{(j.p_justa - imp) * 100:.1f} puntos</b> es la ventaja.")
+    if j.p_modelo is not None:
+        nombre = MODELO.get(j.deporte, "nuestro modelo")
+        if j.fuente == "modelo":
+            txt.append(
+                f"Esta jugada la ve <b>solo {nombre}</b>, que le da <b>{_pct(j.p_modelo)}</b> "
+                f"contra el <b>{_pct(imp)}</b> que paga {html.escape(j.casa)}. El resto del "
+                f"mercado no la ve así, y por eso es la categoría con más riesgo de estar equivocada.")
+        elif j.p_modelo >= j.p_justa:
+            txt.append(f"Además, {nombre} está de acuerdo: le da <b>{_pct(j.p_modelo)}</b>. "
+                       f"Dos métodos distintos llegan a la misma conclusión.")
+        else:
+            txt.append(f"Por su lado, {nombre} le da <b>{_pct(j.p_modelo)}</b>, un poco menos. "
+                       f"Para ir a lo seguro, todos los números de esta tarjeta usan esa cifra más baja.")
+    txt.append(
+        f"En números: gana más o menos <b>{round(p * 100)} de cada 100</b> veces. Cuando gana, "
+        f"cobras <b>${(dec - 1) * 100:,.0f}</b> de ganancia por cada $100. Repitiendo "
+        f"esta misma apuesta muchas veces, lo esperado es ganar <b>${ev * 100:,.2f} por cada "
+        f"$100</b> apostados. No es una garantía para hoy: es lo que pasa en promedio.")
+    return "".join(f"<p>{t}</p>" for t in txt)
+
+
+def _tarjetas_jugadas(jugadas, edades: dict | None = None, ahora: datetime | None = None) -> str:
     e = html.escape
     edades = edades or {}
+    ahora = ahora or datetime.now(timezone.utc)
     out = []
     for j in jugadas:
         d = j.dict()
+        emoji, nombre_dep = DEPORTES.get(j.deporte, ("🎯", j.deporte))
+        apuesta, aclara = _describir(j)
+        p, imp = j.p_apuesta, 1 / j.momio_dec
+        ev = p * j.momio_dec - 1
         edad = edades.get(f"{j.evento}|{j.mercado}|{j.seleccion}|{j.casa}", 0)
-        sello = (f'<span class="edad">precio visto hace {edad} min</span>'
-                 if edad >= 20 else "")
+        sello = f' · <span class="edad">precio visto hace {edad} min</span>' if edad >= 20 else ""
         etiqueta = {"mercado": "", "modelo": '<span class="tag alt">solo modelo</span>',
-                    "ambos": '<span class="tag">modelo + mercado</span>'}[j.fuente]
-        p_mod = f'<span>modelo <b>{d["p_modelo"] * 100:.1f}%</b></span>' if d["p_modelo"] else ""
-        out.append(f"""<div class="j{' modelo' if j.fuente == 'modelo' else ''}">
-<div class="top"><div>
-<div class="sel">{e(d["seleccion"])}{etiqueta}</div>
-<div class="meta">{e(d["evento"])} · {e(d["mercado"])} · {e(d["liga"])}</div>
-</div><div class="ev">+{d["ev"] * 100:.2f}%</div></div>
-<div class="det"><span>casa <b>{e(d["casa"])}</b></span>
-<span>momio <b>{e(d["momio_am"])}</b></span>
-<span>justa <b>{d["p_justa"] * 100:.1f}%</b></span>{p_mod}
-<span>riesgo <b>{d["stake_pct"]:.2f}%</b></span>
-<span>{d["n_casas"]} casas</span>{sello}</div>
-<div class="minimo">En tu casa, apuesta solo si paga <b>{e(d["momio_minimo_am"])}</b> o mejor.
-Debajo de {e(d["momio_empate_am"])} pierdes dinero.</div></div>""")
+                    "ambos": '<span class="tag">mercado + modelo</span>'}[j.fuente]
+        banca = j.stake * 1000
+        out.append(f"""<article class="card" data-dep="{e(j.deporte)}">
+<div class="cab"><span class="dep">{emoji} <em>{e(nombre_dep)}</em> · {e(d["liga"])}</span>
+<span class="hora">{e(_hora_mx(j.inicio, ahora))}{sello}</span></div>
+<div class="partido">{e(d["evento"])} · {e(d["mercado"])}</div>
+<div class="pick"><div><div class="apuesta">{e(apuesta)}{etiqueta}</div>
+<div class="aclara">{e(aclara)}</div></div>
+<div class="precio"><div class="momio">{e(d["momio_am"])}</div>
+<div class="casa">en <b>{e(d["casa"])}</b> · {j.momio_dec:.2f}</div></div></div>
+<div class="barra"><div class="t"><span>Probabilidad real de ganar</span><b>{_pct(p)}</b></div>
+<div class="pista"><div class="lleno" style="width:{p * 100:.1f}%"></div>
+<div class="marca" style="left:{imp * 100:.1f}%" data-l="la casa paga como {_pct(imp)}"></div></div></div>
+<div class="leyenda"><span><i style="background:var(--brass)"></i>lo que creemos</span>
+<span><i style="background:var(--amber)"></i>lo que la casa cree</span></div>
+<div class="det">
+<div class="ok"><b>+{ev * 100:.1f}%</b><small>ganancia esperada</small></div>
+<div><b>{round(p * 100)} de 100</b><small>veces que gana</small></div>
+<div><b>${(j.momio_dec - 1) * 100:,.0f}</b><small>cobras por cada $100</small></div>
+<div><b>{d["stake_pct"]:.1f}%</b><small>de tu banca (${banca:,.0f} por cada $1,000)</small></div>
+</div>
+<details class="por"><summary>¿Por qué esta apuesta?</summary>{_explicar(j, apuesta)}
+<p style="font-size:13px;color:var(--slate)">Comparado contra {d["n_casas"]} casas.</p></details>
+<div class="minimo">¿La vas a poner en otra casa? Hazlo solo si paga <b>{e(d["momio_minimo_am"])}</b> o mejor.
+Si paga peor que <b>{e(d["momio_empate_am"])}</b>, a la larga pierdes dinero.</div>
+</article>""")
     return "\n".join(out)
 
 
@@ -304,14 +497,49 @@ def _seccion_calibracion(ruta_registro: Path) -> str:
             f'<p class="nota">{html.escape(inf.veredicto)}</p>')
 
 
+_GUIA = """<details class="guia"><summary>📖 Cómo leer esta página</summary><dl>
+<dt>Probabilidad real</dt><dd>Qué tan seguido creemos que pasa. Sale del consenso de
+varias casas sin su comisión, y cuando hay modelo propio se usa la cifra más baja de las dos.</dd>
+<dt>Lo que la casa cree</dt><dd>La probabilidad que corresponde al momio que paga. Si es
+menor que la real, la casa está pagando de más: ahí está el valor.</dd>
+<dt>Ganancia esperada</dt><dd>Lo que ganarías en promedio por cada $100 si hicieras esta
+misma apuesta muchas veces. Una sola apuesta se gana o se pierde completa.</dd>
+<dt>% de tu banca</dt><dd>Cuánto apostar según tu dinero total para apuestas. Es un
+cuarto de Kelly con techo de 2%: pequeño a propósito, para aguantar las rachas malas.</dd>
+<dt>Momio mínimo</dt><dd>Si tu casa paga menos que eso, ya no es la misma apuesta y no
+conviene.</dd>
+<dt>Por qué no salen las más seguras primero</dt><dd>Se ordenan por ganancia esperada.
+Un favorito a -1200 gana casi siempre, pero paga tan poco que una sola derrota se lleva
+lo de doce victorias.</dd></dl></details>"""
+
+_FILTRO_JS = """<script>
+document.querySelectorAll('.chip').forEach(function(b){b.addEventListener('click',function(){
+document.querySelectorAll('.chip').forEach(function(x){x.classList.toggle('on',x===b)});
+var d=b.dataset.dep;document.querySelectorAll('.card').forEach(function(c){
+c.style.display=(d==='todos'||c.dataset.dep===d)?'':'none'})})});
+</script>"""
+
+
+def _chips(jugadas) -> str:
+    if len({j.deporte for j in jugadas}) < 2:
+        return ""
+    cuenta: dict[str, int] = {}
+    for j in jugadas:
+        cuenta[j.deporte] = cuenta.get(j.deporte, 0) + 1
+    botones = [f'<button class="chip on" data-dep="todos">Todas<span>{len(jugadas)}</span></button>']
+    for dep, (emoji, nombre) in DEPORTES.items():
+        if dep in cuenta:
+            botones.append(f'<button class="chip" data-dep="{dep}">{emoji} {nombre}'
+                           f'<span>{cuenta[dep]}</span></button>')
+    return f'<div class="chips">{"".join(botones)}</div>'
+
+
 def escribir_html(r: dict, ruta: Path, ruta_registro: Path | None = None) -> None:
     jugadas = r["jugadas"]
-    res = resumen(jugadas)
-    fecha = r["ahora"].strftime("%d/%m/%Y %H:%M UTC")
     e = html.escape
 
-    cuerpo = (_tarjetas_jugadas(jugadas, r.get("edades", {})) if jugadas
-              else _estado_vacio(r))
+    cuerpo = (_chips(jugadas) + _tarjetas_jugadas(jugadas, r.get("edades", {}), r["ahora"])
+              if jugadas else _estado_vacio(r))
 
     extras = (_seccion_movimientos(r.get("movimientos", []))
               + _seccion_arbitrajes(r.get("arbitrajes", []))
@@ -319,9 +547,19 @@ def escribir_html(r: dict, ruta: Path, ruta_registro: Path | None = None) -> Non
     calib = _seccion_calibracion(ruta_registro) if ruta_registro else ""
 
     banner = ('<div class="demo">Vista previa con datos de ejemplo. Ninguna de estas '
-              'jugadas es real: sirven para mostrar cómo se verá el tablero cuando '
-              'conectes tu llave de API.</div>') if r.get("demo") else ""
-    refresco = "" if r.get("demo") else '<meta http-equiv="refresh" content="300">'
+              'jugadas es real.</div>') if r.get("demo") else ""
+
+    if jugadas:
+        probs = [j.p_apuesta for j in jugadas]
+        evs = [j.p_apuesta * j.momio_dec - 1 for j in jugadas]
+        stats = f"""<div class="stats">
+<div><span class="n">{len(jugadas)}</span><span class="l">jugadas de hoy</span></div>
+<div><span class="n">{_pct(sum(probs) / len(probs))}</span><span class="l">probabilidad promedio</span></div>
+<div><span class="n pos">+{sum(evs) / len(evs) * 100:.1f}%</span><span class="l">ganancia esperada promedio</span></div>
+<div><span class="n">{sum(j.stake for j in jugadas) * 100:.1f}%</span><span class="l">de tu banca en total</span></div>
+</div>"""
+    else:
+        stats = ""
 
     avisos = ""
     if r.get("avisos"):
@@ -332,30 +570,25 @@ def escribir_html(r: dict, ruta: Path, ruta_registro: Path | None = None) -> Non
     ruta.write_text(f"""<!DOCTYPE html>
 <html lang="es"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-{refresco}
+<meta name="theme-color" content="#0A0E13">
 <title>Jugadas del día</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎯</text></svg>">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600;700&display=swap" rel="stylesheet">
 <style>{_CSS}</style></head><body><div class="w">
 {banner}
+<header class="hero"><div><div class="kicker">Detector de valor</div>
 <h1>Jugadas del día</h1>
-<p class="sub">Actualizado {fecha}. Ordenadas por valor esperado, no por probabilidad.</p>
-<div class="stats">
-<div><span class="n">{res["n"]}</span><span class="l">jugadas sobre el umbral</span></div>
-<div><span class="n pos">+{res["ev_promedio"] * 100:.2f}%</span><span class="l">valor esperado promedio</span></div>
-<div><span class="n">{res["exposicion"] * 100:.2f}%</span><span class="l">exposición de banca</span></div>
-<div><span class="n">{len(r.get("movimientos", []))}</span><span class="l">líneas rezagadas</span></div>
-<div><span class="n">{len(r.get("arbitrajes", []))}</span><span class="l">arbitrajes</span></div>
-<div><span class="n">{len(r.get("middles", []))}</span><span class="l">middles</span></div>
-</div>
+<p class="sub">Revisado el {e(_fecha_larga(r["ahora"]))} (hora del centro de México)</p></div>
+<div class="live"><i></i>MLB · NFL · Fútbol</div></header>
+<div class="prueba"><b>Periodo de prueba.</b> Estamos registrando jugadas sin apostar para
+medir si el sistema de verdad le gana al mercado. Nada aquí es garantía.</div>
+{stats}
 {cuerpo}
 {extras}
 {calib}
+{_GUIA}
 {avisos}
-<p class="nota">El valor esperado se calcula contra el consenso de las demás casas,
-excluyendo siempre a la casa evaluada. Una jugada marcada "solo modelo" no tiene
-respaldo del mercado: es tu pronóstico contra el de todos los demás, y ahí el riesgo
-de estar equivocado es mucho más alto. Los arbitrajes son ganancia matemática y no
-dependen de ningún pronóstico. Anota el momio que tomaste: el CLV es lo único que te
-dice pronto si esto sirve.</p>
-</div></body></html>""", encoding="utf-8")
+<p class="nota">Solo se muestran jugadas con al menos 50% de probabilidad y que pagan más
+de lo justo, ordenadas por ganancia esperada. El consenso excluye siempre a la casa evaluada.</p>
+</div>{_FILTRO_JS}</body></html>""", encoding="utf-8")

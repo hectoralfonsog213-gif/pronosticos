@@ -17,6 +17,10 @@ on:
         description: "Revisar ahora mismo, ignorando los intervalos de la agenda"
         type: boolean
         default: true
+      solo_pagina:
+        description: "Solo rehacer la página con lo último guardado (no gasta créditos)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -46,7 +50,7 @@ jobs:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python -m src.main ${{ (github.event_name == 'schedule' || inputs.forzar) && '--forzar' || '' }}
+        run: python -m src.main ${{ inputs.solo_pagina && '--rehacer' || ((github.event_name == 'schedule' || inputs.forzar) && '--forzar' || '') }}
 
       - name: Capturar líneas de cierre
         if: github.event.schedule == '15,45 * * * *'
