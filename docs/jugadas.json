@@ -1,40 +1,16 @@
 {
-  "generado": "2026-09-24T02:36:37.704775+00:00",
+  "generado": "2026-09-24T03:05:36.621510+00:00",
   "resumen": {
-    "n": 1,
-    "ev_promedio": 0.027539204438635112,
-    "exposicion": 0.0026480004267918377,
-    "por_deporte": {
-      "futbol": 1
-    }
+    "n": 0,
+    "ev_promedio": 0.0,
+    "exposicion": 0.0,
+    "por_deporte": {}
   },
   "avisos": [
-    "modelo futbol: 502 Server Error: Bad Gateway for url: http://api.clubelo.com/2026-09-24 (sigue el detector de mercado)",
-    "créditos: 154/500 del mes (esta corrida gastó 3)"
+    "ningún partido en ventana: esta corrida no gastó créditos",
+    "créditos: 154/500 del mes (esta corrida gastó 0)"
   ],
-  "jugadas": [
-    {
-      "deporte": "futbol",
-      "liga": "Liga MX",
-      "evento": "Cruz Azul vs Toluca",
-      "inicio": "2026-09-26T22:50:00Z",
-      "mercado": "Ganador",
-      "seleccion": "Draw",
-      "casa": "FanDuel",
-      "momio_dec": 3.6,
-      "momio_am": "+260",
-      "p_justa": 0.2854,
-      "p_modelo": null,
-      "ev": 0.0275,
-      "ev_modelo": null,
-      "stake_pct": 0.265,
-      "n_casas": 6,
-      "fuente": "mercado",
-      "momio_minimo_dec": 3.574,
-      "momio_minimo_am": "+257",
-      "momio_empate_am": "+250"
-    }
-  ],
+  "jugadas": [],
   "movimientos": [],
   "arbitrajes": [],
   "middles": []
