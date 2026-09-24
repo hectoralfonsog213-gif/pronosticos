@@ -187,6 +187,10 @@ def correr(cfg: dict, sin_modelos: bool = False, seco: bool = False,
         finales = [unica] if unica else []
     elif modo == "una_por_deporte":
         finales = mejor_por_deporte(finales, exigir)
+    elif exigir:
+        # En "todas" tambien: una jugada que solo ve el modelo, con el mercado en
+        # contra, es la categoria con mas riesgo de ser un error del modelo.
+        finales = [j for j in finales if j.fuente != "modelo"]
 
     tope_ev = cfg.get("exposicion", {}).get("tope_evento", 0.03)
     for j in finales:
@@ -275,6 +279,8 @@ def rehacer_pagina(salida: Path) -> None:
     vigentes = cartelera.cargar(RAIZ / "datos" / "activas.json", ahora)
     jugadas = sorted((cartelera._a_jugada(d) for d in vigentes.values()),
                      key=lambda j: j.ev, reverse=True)
+    if cargar_config().get("exigir_respaldo_mercado", True):
+        jugadas = [j for j in jugadas if j.fuente != "modelo"]
     r = {"ahora": generado, "jugadas": jugadas, "avisos": previo.get("avisos", []),
          "eventos": previo.get("eventos", 0), "consulto": previo.get("eventos", 1) > 0,
          "movimientos": [], "arbitrajes": [], "middles": []}

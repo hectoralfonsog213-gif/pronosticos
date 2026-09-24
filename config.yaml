@@ -110,7 +110,7 @@ deportes:
 # pongas en tu propia casa a un precio distinto del que aquí aparece.
 modo: todas
 
-# Con true, la jugada única nunca puede ser de las que solo sostiene el modelo.
+# Con true, nunca se publica una jugada que solo sostiene el modelo (en los tres modos).
 # Si vas a hacer una sola apuesta, no conviene gastarla en la categoría con más
 # riesgo de estar equivocada.
 exigir_respaldo_mercado: true
