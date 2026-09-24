@@ -113,20 +113,21 @@ class ClienteOdds:
             return []
 
     def momios(self, liga: str, mercados: list[str], regiones: list[str],
-               formato: str = "decimal") -> list[Evento]:
+               formato: str = "decimal", hasta: datetime | None = None) -> list[Evento]:
+        """`hasta` deja fuera los partidos que empiezan despues de esa hora."""
         costo = len(mercados) * len(regiones)
         if self.restantes is not None and self.restantes < costo:
             raise RuntimeError(f"Quedan {self.restantes} creditos y esta llamada cuesta {costo}.")
 
-        crudo = self._get(
-            f"/sports/{liga}/odds/",
-            {
-                "regions": ",".join(regiones),
-                "markets": ",".join(mercados),
-                "oddsFormat": formato,
-                "dateFormat": "iso",
-            },
-        )
+        params = {
+            "regions": ",".join(regiones),
+            "markets": ",".join(mercados),
+            "oddsFormat": formato,
+            "dateFormat": "iso",
+        }
+        if hasta is not None:
+            params["commenceTimeTo"] = hasta.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+        crudo = self._get(f"/sports/{liga}/odds/", params)
 
         # /odds/ tambien devuelve partidos en juego, con momios en vivo. Compararlos
         # contra momios previos da arbitrajes y "valor" falsos (Red Sox a 1.05 vs 34).

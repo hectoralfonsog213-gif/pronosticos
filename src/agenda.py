@@ -182,7 +182,11 @@ def decidir(cliente, cfg: dict, presupuesto: Presupuesto,
         avisos.append("ningún partido en ventana: esta corrida no gastó créditos")
         return {}, avisos
 
-    candidatas.sort(key=lambda c: c[0])
+    # "cercania": primero el partido que esta por empezar (revision continua).
+    # "config": en el orden en que aparecen en config.yaml, para que con una sola
+    # revision al dia el presupuesto se gaste primero en las ligas que importan.
+    if cfg.get("prioridad", "cercania") != "config":
+        candidatas.sort(key=lambda c: c[0])
 
     disponible = min(
         presupuesto.permitido_hoy(ahora) - presupuesto.gastado_hoy(ahora),

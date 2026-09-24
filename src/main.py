@@ -26,7 +26,7 @@ import argparse
 import json
 import sys
 import traceback
-from datetime import date, datetime, timezone
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 import yaml
@@ -88,6 +88,10 @@ def correr(cfg: dict, sin_modelos: bool = False, seco: bool = False,
     plan, avisos_agenda = agenda.decidir(cliente, cfg, presupuesto, ahora, forzar)
     avisos += avisos_agenda
     costo = agenda.costo_estimado(plan, cfg)
+    # Con revision diaria solo interesan los partidos de ese dia: los de manana
+    # se revisan manana, con momios mas frescos.
+    horizonte = cfg.get("horizonte_horas")
+    hasta = ahora + timedelta(hours=horizonte) if horizonte else None
 
     if seco:
         return {"plan": plan, "costo": costo, "avisos": avisos, "jugadas": [],
@@ -103,7 +107,7 @@ def correr(cfg: dict, sin_modelos: bool = False, seco: bool = False,
         for liga in ligas:
             try:
                 eventos += cliente.momios(liga, conf.get("mercados", ["h2h"]),
-                                          cfg.get("regiones", ["us"]))
+                                          cfg.get("regiones", ["us"]), hasta=hasta)
             except Exception as e:
                 avisos.append(f"momios {liga}: {e}")
         if not eventos:

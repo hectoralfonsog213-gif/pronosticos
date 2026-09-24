@@ -19,12 +19,19 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from .main import cargar_config
+from .motor import NOMBRES_MERCADO
 from .sources.odds import ClienteOdds
 
 RAIZ = Path(__file__).resolve().parent.parent
 
 
-def actualizar(ruta: Path, horas: int = 3) -> int:
+def actualizar(ruta: Path, minutos: int = 45) -> int:
+    """
+    Corre cada 30 min. Solo toca las jugadas cuyo partido empieza en los
+    proximos `minutos`, y solo pide la liga y el mercado de esas jugadas: con
+    una revision diaria de muchas ligas, pedir todo aqui gastaria mas creditos
+    que la revision misma.
+    """
     if not ruta.exists():
         print("No hay registro todavia.")
         return 0
@@ -41,7 +48,7 @@ def actualizar(ruta: Path, horas: int = 3) -> int:
             inicio = datetime.fromisoformat(f["inicio"].replace("Z", "+00:00"))
         except (ValueError, KeyError):
             continue
-        if ahora <= inicio <= ahora + timedelta(hours=horas):
+        if ahora <= inicio <= ahora + timedelta(minutes=minutos):
             pendientes.append(f)
 
     if not pendientes:
@@ -50,24 +57,29 @@ def actualizar(ruta: Path, horas: int = 3) -> int:
 
     cfg = cargar_config()
     cliente = ClienteOdds()
-    precios: dict[tuple[str, str], float] = {}
+    # El registro guarda el titulo de la liga ("Liga MX") y el nombre del
+    # mercado en espanol; la API pide la clave ("soccer_mexico_ligamx", "h2h").
+    clave_liga = {d.get("title"): d.get("key") for d in cliente.deportes()}
+    clave_mercado = {v: k for k, v in NOMBRES_MERCADO.items()}
+    pedidos: dict[str, set[str]] = {}
+    for f in pendientes:
+        liga = clave_liga.get(f.get("liga"))
+        if liga:
+            pedidos.setdefault(liga, set()).add(clave_mercado.get(f["mercado"], f["mercado"]))
 
-    for deporte, conf in cfg.get("deportes", {}).items():
-        if not conf.get("activo", True):
-            continue
-        for liga in conf.get("ligas", []):
-            try:
-                for ev in cliente.momios(liga, conf.get("mercados", ["h2h"]),
-                                         cfg.get("regiones", ["us"])):
-                    for por_casa in ev.libros.values():
-                        for casa, salidas in por_casa.items():
-                            for nombre, dec, punto in salidas:
-                                sel = f"{nombre} {punto:+g}" if punto is not None else nombre
-                                clave = (ev.nombre, sel)
-                                # El cierre es el mejor precio disponible en el mercado
-                                precios[clave] = max(precios.get(clave, 0), dec)
-            except Exception as e:
-                print(f"  aviso: {liga}: {e}")
+    precios: dict[tuple[str, str], float] = {}
+    for liga, mercados in pedidos.items():
+        try:
+            for ev in cliente.momios(liga, sorted(mercados), cfg.get("regiones", ["us"])):
+                for por_casa in ev.libros.values():
+                    for casa, salidas in por_casa.items():
+                        for nombre, dec, punto in salidas:
+                            sel = f"{nombre} {punto:+g}" if punto is not None else nombre
+                            clave = (ev.nombre, sel)
+                            # El cierre es el mejor precio disponible en el mercado
+                            precios[clave] = max(precios.get(clave, 0), dec)
+        except Exception as e:
+            print(f"  aviso: {liga}: {e}")
 
     n = 0
     for f in pendientes:

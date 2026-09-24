@@ -2,18 +2,13 @@ name: Detector de valor
 
 on:
   schedule:
-    # Cada 30 min en el horario donde hay deporte (14:00-05:59 UTC = 8am-medianoche
-    # del centro de México). Fuera de esa ventana casi no hay partidos y sería
-    # gastar minutos de GitHub para nada.
-    #
-    # CUIDADO CON LOS MINUTOS DE ACTIONS: un repositorio privado trae 2,000 min
-    # gratis al mes y cada corrida gasta ~1.5. Esta configuración usa ~1,800.
-    # Si quieres cada 15 min, haz el repositorio público (minutos ilimitados) o
-    # paga minutos extra. No cambies el cron sin sacar la cuenta.
-    - cron: "*/30 14-23 * * *"
-    - cron: "*/30 0-5 * * *"
-    # Captura de líneas de cierre antes del grueso de los partidos.
-    - cron: "50 23 * * *"
+    # Revisión diaria: 8:00 am del centro de México (UTC-6, sin horario de
+    # verano desde 2022) = 14:00 UTC. Una sola consulta de momios al día.
+    - cron: "0 14 * * *"
+    # Captura de cierre: cada 30 min revisa si alguna jugada del registro empieza
+    # en los próximos 45 min. Si no hay, no gasta créditos. Los minutos de
+    # Actions son ilimitados porque el repositorio es público.
+    - cron: "15,45 * * * *"
   # Este es el botón: Actions -> Detector de valor -> "Run workflow".
   # Deja "forzar" en true y revisa en ese momento, sin esperar los intervalos.
   workflow_dispatch:
@@ -46,15 +41,15 @@ jobs:
       - run: pip install -r requirements.txt
 
       - name: Buscar valor
-        if: github.event.schedule != '50 23 * * *'
+        if: github.event.schedule != '15,45 * * * *'
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python -m src.main ${{ (github.event_name == 'workflow_dispatch' && inputs.forzar) && '--forzar' || '' }}
+        run: python -m src.main ${{ (github.event_name == 'schedule' || inputs.forzar) && '--forzar' || '' }}
 
       - name: Capturar líneas de cierre
-        if: github.event.schedule == '50 23 * * *'
+        if: github.event.schedule == '15,45 * * * *'
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
         run: python -m src.cierre
@@ -69,11 +64,13 @@ jobs:
           git push
 
       - uses: actions/upload-pages-artifact@v3
+        if: github.event.schedule != '15,45 * * * *'
         with:
           path: docs
 
   publicar:
     needs: correr
+    if: github.event.schedule != '15,45 * * * *'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
