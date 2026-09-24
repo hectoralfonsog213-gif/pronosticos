@@ -2155,3 +2155,833 @@ ts,evento_id,evento,mercado,punto,casa,seleccion,decimal
 2026-09-24T02:36:37+00:00,84024442d39419a738d8c2382d3ff73e,Necaxa vs América,h2h,,BetOnline.ag,América,1.8900
 2026-09-24T02:36:37+00:00,84024442d39419a738d8c2382d3ff73e,Necaxa vs América,h2h,,BetOnline.ag,Necaxa,3.8600
 2026-09-24T02:36:37+00:00,84024442d39419a738d8c2382d3ff73e,Necaxa vs América,h2h,,BetOnline.ag,Draw,3.8000
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,h2h,,FanDuel,Pittsburgh Pirates,1.6200
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,h2h,,FanDuel,St. Louis Cardinals,2.3600
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,h2h,,BetOnline.ag,Pittsburgh Pirates,1.6400
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,h2h,,BetOnline.ag,St. Louis Cardinals,2.4100
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,h2h,,LowVig.ag,Pittsburgh Pirates,1.6400
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,h2h,,LowVig.ag,St. Louis Cardinals,2.4100
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,h2h,,DraftKings,Pittsburgh Pirates,1.6000
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,h2h,,DraftKings,St. Louis Cardinals,2.3700
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,h2h,,Bovada,Pittsburgh Pirates,1.6300
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,h2h,,Bovada,St. Louis Cardinals,2.3300
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,h2h,,BetMGM,Pittsburgh Pirates,1.6100
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,h2h,,BetMGM,St. Louis Cardinals,2.3500
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,h2h,,BetRivers,Pittsburgh Pirates,1.6200
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,h2h,,BetRivers,St. Louis Cardinals,2.3500
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,h2h,,MyBookie.ag,Pittsburgh Pirates,1.6200
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,h2h,,MyBookie.ag,St. Louis Cardinals,2.3700
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,h2h,,BetUS,Pittsburgh Pirates,1.6400
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,h2h,,BetUS,St. Louis Cardinals,2.3900
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,spreads,-1.5,FanDuel,Pittsburgh Pirates -1.5,2.5200
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,spreads,1.5,FanDuel,St. Louis Cardinals +1.5,1.5400
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,spreads,-1.5,BetOnline.ag,Pittsburgh Pirates -1.5,2.4700
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,spreads,1.5,BetOnline.ag,St. Louis Cardinals +1.5,1.6000
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,spreads,-1.5,LowVig.ag,Pittsburgh Pirates -1.5,2.4800
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,spreads,1.5,LowVig.ag,St. Louis Cardinals +1.5,1.6000
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,spreads,-1.5,DraftKings,Pittsburgh Pirates -1.5,2.4300
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,spreads,1.5,DraftKings,St. Louis Cardinals +1.5,1.5700
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,spreads,-1.5,Bovada,Pittsburgh Pirates -1.5,2.4500
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,spreads,1.5,Bovada,St. Louis Cardinals +1.5,1.5900
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,spreads,-1.5,BetMGM,Pittsburgh Pirates -1.5,2.4000
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,spreads,1.5,BetMGM,St. Louis Cardinals +1.5,1.5900
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,spreads,-1.5,BetRivers,Pittsburgh Pirates -1.5,2.4000
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,spreads,1.5,BetRivers,St. Louis Cardinals +1.5,1.5700
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,spreads,-1.5,MyBookie.ag,Pittsburgh Pirates -1.5,2.4300
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,spreads,1.5,MyBookie.ag,St. Louis Cardinals +1.5,1.6000
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,spreads,-1.5,BetUS,Pittsburgh Pirates -1.5,2.4400
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,spreads,1.5,BetUS,St. Louis Cardinals +1.5,1.6100
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,totals,6.5,FanDuel,Over +6.5,1.7600
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,totals,6.5,FanDuel,Under +6.5,2.0800
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,totals,7.0,BetOnline.ag,Over +7,1.9600
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,totals,7.0,BetOnline.ag,Under +7,1.8600
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,totals,7.0,LowVig.ag,Over +7,1.9900
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,totals,7.0,LowVig.ag,Under +7,1.8800
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,totals,7.0,DraftKings,Over +7,1.9500
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,totals,7.0,DraftKings,Under +7,1.8700
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,totals,7.0,Bovada,Over +7,1.9500
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,totals,7.0,Bovada,Under +7,1.8700
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,totals,6.5,BetMGM,Over +6.5,1.7700
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,totals,6.5,BetMGM,Under +6.5,2.0000
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,totals,7.0,BetRivers,Over +7,1.9300
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,totals,7.0,BetRivers,Under +7,1.7500
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,totals,7.0,MyBookie.ag,Over +7,1.9400
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,totals,7.0,MyBookie.ag,Under +7,1.8600
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,totals,7.0,BetUS,Over +7,1.8700
+2026-09-24T14:04:58+00:00,ca2c6af9c65d99ec92728e8b8c76fae9,Pittsburgh Pirates vs St. Louis Cardinals,totals,7.0,BetUS,Under +7,1.9500
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,h2h,,FanDuel,Chicago White Sox,1.7900
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,h2h,,FanDuel,Kansas City Royals,2.0800
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,h2h,,Bovada,Chicago White Sox,1.7700
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,h2h,,Bovada,Kansas City Royals,2.0800
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,h2h,,MyBookie.ag,Chicago White Sox,1.8100
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,h2h,,MyBookie.ag,Kansas City Royals,2.0600
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,h2h,,DraftKings,Chicago White Sox,1.7800
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,h2h,,DraftKings,Kansas City Royals,2.0700
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,h2h,,BetMGM,Chicago White Sox,1.7700
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,h2h,,BetMGM,Kansas City Royals,2.0500
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,h2h,,BetRivers,Chicago White Sox,1.7500
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,h2h,,BetRivers,Kansas City Royals,2.1200
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,h2h,,BetOnline.ag,Chicago White Sox,1.8100
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,h2h,,BetOnline.ag,Kansas City Royals,2.1200
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,h2h,,LowVig.ag,Chicago White Sox,1.8100
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,h2h,,LowVig.ag,Kansas City Royals,2.1200
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,h2h,,BetUS,Chicago White Sox,1.8100
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,h2h,,BetUS,Kansas City Royals,2.1200
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,spreads,-1.5,FanDuel,Chicago White Sox -1.5,2.2800
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,spreads,1.5,FanDuel,Kansas City Royals +1.5,1.6500
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,spreads,-1.5,Bovada,Chicago White Sox -1.5,2.3000
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,spreads,1.5,Bovada,Kansas City Royals +1.5,1.6700
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,spreads,-1.5,MyBookie.ag,Chicago White Sox -1.5,2.3000
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,spreads,1.5,MyBookie.ag,Kansas City Royals +1.5,1.6500
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,spreads,-1.5,DraftKings,Chicago White Sox -1.5,2.3100
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,spreads,1.5,DraftKings,Kansas City Royals +1.5,1.6300
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,spreads,-1.5,BetMGM,Chicago White Sox -1.5,2.2500
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,spreads,1.5,BetMGM,Kansas City Royals +1.5,1.6500
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,spreads,-1.5,BetRivers,Chicago White Sox -1.5,2.2300
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,spreads,1.5,BetRivers,Kansas City Royals +1.5,1.6700
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,spreads,-1.5,BetOnline.ag,Chicago White Sox -1.5,2.3600
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,spreads,1.5,BetOnline.ag,Kansas City Royals +1.5,1.6400
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,spreads,-1.5,LowVig.ag,Chicago White Sox -1.5,2.3700
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,spreads,1.5,LowVig.ag,Kansas City Royals +1.5,1.6500
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,spreads,-1.5,BetUS,Chicago White Sox -1.5,2.3500
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,spreads,1.5,BetUS,Kansas City Royals +1.5,1.6500
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,totals,8.5,FanDuel,Over +8.5,1.7700
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,totals,8.5,FanDuel,Under +8.5,2.0600
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,totals,9.0,Bovada,Over +9,2.0000
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,totals,9.0,Bovada,Under +9,1.8300
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,totals,8.5,MyBookie.ag,Over +8.5,1.8300
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,totals,8.5,MyBookie.ag,Under +8.5,1.9800
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,totals,8.5,DraftKings,Over +8.5,1.8200
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,totals,8.5,DraftKings,Under +8.5,2.0100
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,totals,8.5,BetMGM,Over +8.5,1.8300
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,totals,8.5,BetMGM,Under +8.5,2.0000
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,totals,9.0,BetRivers,Over +9,1.9300
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,totals,9.0,BetRivers,Under +9,1.7600
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,totals,8.5,BetOnline.ag,Over +8.5,1.8500
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,totals,8.5,BetOnline.ag,Under +8.5,1.9700
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,totals,8.5,LowVig.ag,Over +8.5,1.8700
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,totals,8.5,LowVig.ag,Under +8.5,2.0000
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,totals,8.5,BetUS,Over +8.5,1.8300
+2026-09-24T14:04:58+00:00,f8c72a46effedf3f04b037fb99849fe6,Kansas City Royals vs Chicago White Sox,totals,8.5,BetUS,Under +8.5,2.0000
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,h2h,,FanDuel,Chicago Cubs,1.5000
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,h2h,,FanDuel,Miami Marlins,2.6800
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,h2h,,MyBookie.ag,Chicago Cubs,1.4700
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,h2h,,MyBookie.ag,Miami Marlins,2.7700
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,h2h,,DraftKings,Chicago Cubs,1.4800
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,h2h,,DraftKings,Miami Marlins,2.6900
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,h2h,,Bovada,Chicago Cubs,1.4600
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,h2h,,Bovada,Miami Marlins,2.7600
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,h2h,,BetRivers,Chicago Cubs,1.4500
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,h2h,,BetRivers,Miami Marlins,2.8000
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,h2h,,LowVig.ag,Chicago Cubs,1.5100
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,h2h,,LowVig.ag,Miami Marlins,2.7500
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,h2h,,BetOnline.ag,Chicago Cubs,1.5100
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,h2h,,BetOnline.ag,Miami Marlins,2.7500
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,h2h,,BetUS,Chicago Cubs,1.5100
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,h2h,,BetUS,Miami Marlins,2.7000
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,h2h,,BetMGM,Chicago Cubs,1.4800
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,h2h,,BetMGM,Miami Marlins,2.7000
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,spreads,-1.5,FanDuel,Chicago Cubs -1.5,2.1500
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,spreads,1.5,FanDuel,Miami Marlins +1.5,1.7200
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,spreads,-1.5,MyBookie.ag,Chicago Cubs -1.5,2.0800
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,spreads,1.5,MyBookie.ag,Miami Marlins +1.5,1.7900
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,spreads,-1.5,DraftKings,Chicago Cubs -1.5,2.0900
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,spreads,1.5,DraftKings,Miami Marlins +1.5,1.7600
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,spreads,-1.5,Bovada,Chicago Cubs -1.5,2.0500
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,spreads,1.5,Bovada,Miami Marlins +1.5,1.8000
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,spreads,-1.5,BetRivers,Chicago Cubs -1.5,2.1000
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,spreads,1.5,BetRivers,Miami Marlins +1.5,1.7500
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,spreads,-1.5,LowVig.ag,Chicago Cubs -1.5,2.1300
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,spreads,1.5,LowVig.ag,Miami Marlins +1.5,1.7800
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,spreads,-1.5,BetOnline.ag,Chicago Cubs -1.5,2.1000
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,spreads,1.5,BetOnline.ag,Miami Marlins +1.5,1.7700
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,spreads,-1.5,BetUS,Chicago Cubs -1.5,2.1000
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,spreads,1.5,BetUS,Miami Marlins +1.5,1.7700
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,spreads,-1.5,BetMGM,Chicago Cubs -1.5,2.1000
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,spreads,1.5,BetMGM,Miami Marlins +1.5,1.7400
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,totals,7.5,FanDuel,Over +7.5,2.1600
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,totals,7.5,FanDuel,Under +7.5,1.7000
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,totals,7.0,MyBookie.ag,Over +7,1.9500
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,totals,7.0,MyBookie.ag,Under +7,1.8600
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,totals,7.0,DraftKings,Over +7,1.9300
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,totals,7.0,DraftKings,Under +7,1.8900
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,totals,7.0,Bovada,Over +7,1.9100
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,totals,7.0,Bovada,Under +7,1.9100
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,totals,7.0,BetRivers,Over +7,1.8900
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,totals,7.0,BetRivers,Under +7,1.8000
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,totals,7.0,LowVig.ag,Over +7,1.9800
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,totals,7.0,LowVig.ag,Under +7,1.8800
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,totals,7.0,BetOnline.ag,Over +7,1.9500
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,totals,7.0,BetOnline.ag,Under +7,1.8700
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,totals,7.0,BetUS,Over +7,1.9500
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,totals,7.0,BetUS,Under +7,1.8700
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,totals,7.0,BetMGM,Over +7,1.8500
+2026-09-24T14:04:58+00:00,1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs vs Miami Marlins,totals,7.0,BetMGM,Under +7,1.9800
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,h2h,,FanDuel,New York Mets,2.1200
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,h2h,,FanDuel,Texas Rangers,1.7600
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,h2h,,Bovada,New York Mets,2.1200
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,h2h,,Bovada,Texas Rangers,1.7500
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,h2h,,DraftKings,New York Mets,2.1200
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,h2h,,DraftKings,Texas Rangers,1.7400
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,h2h,,MyBookie.ag,New York Mets,2.1100
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,h2h,,MyBookie.ag,Texas Rangers,1.7600
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,h2h,,BetMGM,New York Mets,2.1000
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,h2h,,BetMGM,Texas Rangers,1.7400
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,h2h,,BetRivers,New York Mets,2.0800
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,h2h,,BetRivers,Texas Rangers,1.7800
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,h2h,,BetOnline.ag,New York Mets,2.1600
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,h2h,,BetOnline.ag,Texas Rangers,1.7800
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,h2h,,LowVig.ag,New York Mets,2.1600
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,h2h,,LowVig.ag,Texas Rangers,1.7800
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,h2h,,BetUS,New York Mets,2.1700
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,h2h,,BetUS,Texas Rangers,1.7800
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,spreads,1.5,FanDuel,New York Mets +1.5,1.5000
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,spreads,-1.5,FanDuel,Texas Rangers -1.5,2.6400
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,spreads,1.5,Bovada,New York Mets +1.5,1.5400
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,spreads,-1.5,Bovada,Texas Rangers -1.5,2.6000
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,spreads,1.5,DraftKings,New York Mets +1.5,1.5200
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,spreads,-1.5,DraftKings,Texas Rangers -1.5,2.5900
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,spreads,1.5,MyBookie.ag,New York Mets +1.5,1.5300
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,spreads,-1.5,MyBookie.ag,Texas Rangers -1.5,2.6000
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,spreads,1.5,BetMGM,New York Mets +1.5,1.5300
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,spreads,-1.5,BetMGM,Texas Rangers -1.5,2.5500
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,spreads,1.5,BetRivers,New York Mets +1.5,1.5300
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,spreads,-1.5,BetRivers,Texas Rangers -1.5,2.5500
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,spreads,1.5,BetOnline.ag,New York Mets +1.5,1.5300
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,spreads,-1.5,BetOnline.ag,Texas Rangers -1.5,2.6500
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,spreads,1.5,LowVig.ag,New York Mets +1.5,1.5300
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,spreads,-1.5,LowVig.ag,Texas Rangers -1.5,2.6600
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,spreads,1.5,BetUS,New York Mets +1.5,1.5300
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,spreads,-1.5,BetUS,Texas Rangers -1.5,2.6400
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,totals,8.5,FanDuel,Over +8.5,2.0000
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,totals,8.5,FanDuel,Under +8.5,1.8200
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,totals,8.5,Bovada,Over +8.5,2.0000
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,totals,8.5,Bovada,Under +8.5,1.8300
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,totals,8.0,DraftKings,Over +8,1.8700
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,totals,8.0,DraftKings,Under +8,1.9500
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,totals,8.0,MyBookie.ag,Over +8,1.8600
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,totals,8.0,MyBookie.ag,Under +8,1.9400
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,totals,8.0,BetMGM,Over +8,1.8500
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,totals,8.0,BetMGM,Under +8,1.9800
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,totals,8.0,BetRivers,Over +8,1.8100
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,totals,8.0,BetRivers,Under +8,1.8700
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,totals,8.0,BetOnline.ag,Over +8,1.8700
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,totals,8.0,BetOnline.ag,Under +8,1.9500
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,totals,8.0,LowVig.ag,Over +8,1.8800
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,totals,8.0,LowVig.ag,Under +8,1.9800
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,totals,8.0,BetUS,Over +8,1.8700
+2026-09-24T14:04:58+00:00,132107ced3ea1aec8e5cc920a6c36c02,Texas Rangers vs New York Mets,totals,8.0,BetUS,Under +8,1.9500
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,h2h,,FanDuel,Arizona Diamondbacks,1.5200
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,h2h,,FanDuel,Colorado Rockies,2.6200
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,h2h,,MyBookie.ag,Arizona Diamondbacks,1.5100
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,h2h,,MyBookie.ag,Colorado Rockies,2.6400
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,h2h,,DraftKings,Arizona Diamondbacks,1.5200
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,h2h,,DraftKings,Colorado Rockies,2.5800
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,h2h,,Bovada,Arizona Diamondbacks,1.5200
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,h2h,,Bovada,Colorado Rockies,2.5900
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,h2h,,BetMGM,Arizona Diamondbacks,1.5300
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,h2h,,BetMGM,Colorado Rockies,2.5400
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,h2h,,LowVig.ag,Arizona Diamondbacks,1.5500
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,h2h,,LowVig.ag,Colorado Rockies,2.6500
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,h2h,,BetOnline.ag,Arizona Diamondbacks,1.5500
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,h2h,,BetOnline.ag,Colorado Rockies,2.6500
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,h2h,,BetRivers,Arizona Diamondbacks,1.5000
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,h2h,,BetRivers,Colorado Rockies,2.6300
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,h2h,,BetUS,Arizona Diamondbacks,1.5500
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,h2h,,BetUS,Colorado Rockies,2.6100
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,spreads,-1.5,FanDuel,Arizona Diamondbacks -1.5,1.8000
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,spreads,1.5,FanDuel,Colorado Rockies +1.5,2.0400
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,spreads,-1.5,MyBookie.ag,Arizona Diamondbacks -1.5,1.8300
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,spreads,1.5,MyBookie.ag,Colorado Rockies +1.5,2.0300
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,spreads,-1.5,DraftKings,Arizona Diamondbacks -1.5,1.8300
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,spreads,1.5,DraftKings,Colorado Rockies +1.5,2.0000
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,spreads,-1.5,Bovada,Arizona Diamondbacks -1.5,1.8000
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,spreads,1.5,Bovada,Colorado Rockies +1.5,2.0500
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,spreads,-1.5,BetMGM,Arizona Diamondbacks -1.5,1.8300
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,spreads,1.5,BetMGM,Colorado Rockies +1.5,2.0000
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,spreads,-1.5,LowVig.ag,Arizona Diamondbacks -1.5,1.8500
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,spreads,1.5,LowVig.ag,Colorado Rockies +1.5,2.0300
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,spreads,-1.5,BetOnline.ag,Arizona Diamondbacks -1.5,1.8300
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,spreads,1.5,BetOnline.ag,Colorado Rockies +1.5,2.0000
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,spreads,-1.5,BetRivers,Arizona Diamondbacks -1.5,1.8200
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,spreads,1.5,BetRivers,Colorado Rockies +1.5,2.0000
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,spreads,-1.5,BetUS,Arizona Diamondbacks -1.5,1.8300
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,spreads,1.5,BetUS,Colorado Rockies +1.5,2.0000
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,totals,10.5,FanDuel,Over +10.5,2.0800
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,totals,10.5,FanDuel,Under +10.5,1.7600
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,totals,10.0,MyBookie.ag,Over +10,1.9200
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,totals,10.0,MyBookie.ag,Under +10,1.8900
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,totals,10.0,DraftKings,Over +10,1.9000
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,totals,10.0,DraftKings,Under +10,1.9200
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,totals,10.0,Bovada,Over +10,1.9100
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,totals,10.0,Bovada,Under +10,1.9100
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,totals,10.0,BetMGM,Over +10,1.9500
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,totals,10.0,BetMGM,Under +10,1.8700
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,totals,10.0,LowVig.ag,Over +10,1.9300
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,totals,10.0,LowVig.ag,Under +10,1.9300
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,totals,10.0,BetOnline.ag,Over +10,1.9100
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,totals,10.0,BetOnline.ag,Under +10,1.9100
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,totals,10.0,BetRivers,Over +10,1.8100
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,totals,10.0,BetRivers,Under +10,1.8700
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,totals,10.0,BetUS,Over +10,1.9100
+2026-09-24T14:04:58+00:00,c862b8f01d10ebafd1c1ee08cf8ba9ce,Colorado Rockies vs Arizona Diamondbacks,totals,10.0,BetUS,Under +10,1.9100
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,h2h,,FanDuel,Milwaukee Brewers,2.1600
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,h2h,,FanDuel,Philadelphia Phillies,1.7500
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,h2h,,Bovada,Milwaukee Brewers,2.1500
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,h2h,,Bovada,Philadelphia Phillies,1.7200
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,h2h,,BetRivers,Milwaukee Brewers,2.0700
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,h2h,,BetRivers,Philadelphia Phillies,1.7900
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,h2h,,DraftKings,Milwaukee Brewers,2.1300
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,h2h,,DraftKings,Philadelphia Phillies,1.7400
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,h2h,,BetMGM,Milwaukee Brewers,2.1500
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,h2h,,BetMGM,Philadelphia Phillies,1.7100
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,h2h,,LowVig.ag,Milwaukee Brewers,2.1900
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,h2h,,LowVig.ag,Philadelphia Phillies,1.7600
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,h2h,,BetOnline.ag,Milwaukee Brewers,2.1900
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,h2h,,BetOnline.ag,Philadelphia Phillies,1.7600
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,h2h,,BetUS,Milwaukee Brewers,2.1800
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,h2h,,BetUS,Philadelphia Phillies,1.7700
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,spreads,1.5,FanDuel,Milwaukee Brewers +1.5,1.5200
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,spreads,-1.5,FanDuel,Philadelphia Phillies -1.5,2.6200
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,spreads,1.5,Bovada,Milwaukee Brewers +1.5,1.5400
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,spreads,-1.5,Bovada,Philadelphia Phillies -1.5,2.6000
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,spreads,-1.5,BetRivers,Milwaukee Brewers -1.5,2.7000
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,spreads,1.5,BetRivers,Philadelphia Phillies +1.5,1.4700
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,spreads,1.5,DraftKings,Milwaukee Brewers +1.5,1.5200
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,spreads,-1.5,DraftKings,Philadelphia Phillies -1.5,2.5800
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,spreads,1.5,BetMGM,Milwaukee Brewers +1.5,1.5300
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,spreads,-1.5,BetMGM,Philadelphia Phillies -1.5,2.5500
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,spreads,1.5,LowVig.ag,Milwaukee Brewers +1.5,1.5400
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,spreads,-1.5,LowVig.ag,Philadelphia Phillies -1.5,2.6200
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,spreads,1.5,BetOnline.ag,Milwaukee Brewers +1.5,1.5400
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,spreads,-1.5,BetOnline.ag,Philadelphia Phillies -1.5,2.6100
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,spreads,1.5,BetUS,Milwaukee Brewers +1.5,1.5400
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,spreads,-1.5,BetUS,Philadelphia Phillies -1.5,2.6000
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,totals,7.5,FanDuel,Over +7.5,1.7800
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,totals,7.5,FanDuel,Under +7.5,2.0400
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,totals,7.5,Bovada,Over +7.5,1.8300
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,totals,7.5,Bovada,Under +7.5,2.0000
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,totals,7.5,BetRivers,Over +7.5,1.8500
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,totals,7.5,BetRivers,Under +7.5,1.9600
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,totals,8.0,DraftKings,Over +8,1.9800
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,totals,8.0,DraftKings,Under +8,1.8500
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,totals,8.0,BetMGM,Over +8,2.0000
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,totals,8.0,BetMGM,Under +8,1.8300
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,totals,8.0,LowVig.ag,Over +8,2.0600
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,totals,8.0,LowVig.ag,Under +8,1.8300
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,totals,8.0,BetOnline.ag,Over +8,2.0300
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,totals,8.0,BetOnline.ag,Under +8,1.8100
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,totals,8.0,BetUS,Over +8,2.0500
+2026-09-24T14:04:58+00:00,73db56fa7f40cff18d189c5d7dc7d903,Philadelphia Phillies vs Milwaukee Brewers,totals,8.0,BetUS,Under +8,1.8000
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,h2h,,FanDuel,Boston Red Sox,1.7900
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,h2h,,FanDuel,Cleveland Guardians,2.0800
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,h2h,,MyBookie.ag,Boston Red Sox,1.7900
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,h2h,,MyBookie.ag,Cleveland Guardians,2.0800
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,h2h,,Bovada,Boston Red Sox,1.7600
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,h2h,,Bovada,Cleveland Guardians,2.1000
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,h2h,,DraftKings,Boston Red Sox,1.7600
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,h2h,,DraftKings,Cleveland Guardians,2.0800
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,h2h,,BetRivers,Boston Red Sox,1.7200
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,h2h,,BetRivers,Cleveland Guardians,2.1600
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,h2h,,BetMGM,Boston Red Sox,1.7700
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,h2h,,BetMGM,Cleveland Guardians,2.0500
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,h2h,,BetOnline.ag,Boston Red Sox,1.8300
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,h2h,,BetOnline.ag,Cleveland Guardians,2.1000
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,h2h,,LowVig.ag,Boston Red Sox,1.8300
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,h2h,,LowVig.ag,Cleveland Guardians,2.1000
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,h2h,,BetUS,Boston Red Sox,1.8000
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,h2h,,BetUS,Cleveland Guardians,2.1400
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,spreads,-1.5,FanDuel,Boston Red Sox -1.5,2.6200
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,spreads,1.5,FanDuel,Cleveland Guardians +1.5,1.5100
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,spreads,-1.5,MyBookie.ag,Boston Red Sox -1.5,2.8200
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,spreads,1.5,MyBookie.ag,Cleveland Guardians +1.5,1.4600
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,spreads,-1.5,Bovada,Boston Red Sox -1.5,2.6500
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,spreads,1.5,Bovada,Cleveland Guardians +1.5,1.5100
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,spreads,-1.5,DraftKings,Boston Red Sox -1.5,2.6900
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,spreads,1.5,DraftKings,Cleveland Guardians +1.5,1.4800
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,spreads,-1.5,BetRivers,Boston Red Sox -1.5,2.5500
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,spreads,1.5,BetRivers,Cleveland Guardians +1.5,1.5100
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,spreads,-1.5,BetMGM,Boston Red Sox -1.5,2.6500
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,spreads,1.5,BetMGM,Cleveland Guardians +1.5,1.5000
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,spreads,-1.5,BetOnline.ag,Boston Red Sox -1.5,2.7400
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,spreads,1.5,BetOnline.ag,Cleveland Guardians +1.5,1.5000
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,spreads,-1.5,LowVig.ag,Boston Red Sox -1.5,2.7500
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,spreads,1.5,LowVig.ag,Cleveland Guardians +1.5,1.5000
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,spreads,-1.5,BetUS,Boston Red Sox -1.5,2.7200
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,spreads,1.5,BetUS,Cleveland Guardians +1.5,1.5000
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,totals,6.5,FanDuel,Over +6.5,1.7800
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,totals,6.5,FanDuel,Under +6.5,2.0400
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,totals,7.0,MyBookie.ag,Over +7,2.0000
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,totals,7.0,MyBookie.ag,Under +7,1.8200
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,totals,6.5,Bovada,Over +6.5,1.8000
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,totals,6.5,Bovada,Under +6.5,2.0500
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,totals,7.0,DraftKings,Over +7,2.0100
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,totals,7.0,DraftKings,Under +7,1.8300
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,totals,7.0,BetRivers,Over +7,1.9200
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,totals,7.0,BetRivers,Under +7,1.7700
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,totals,6.5,BetMGM,Over +6.5,1.8000
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,totals,6.5,BetMGM,Under +6.5,2.0500
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,totals,7.0,BetOnline.ag,Over +7,2.0000
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,totals,7.0,BetOnline.ag,Under +7,1.8300
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,totals,7.0,LowVig.ag,Over +7,2.0300
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,totals,7.0,LowVig.ag,Under +7,1.8500
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,totals,7.0,BetUS,Over +7,2.0000
+2026-09-24T14:04:58+00:00,d0e9c7cf726e88320154be5ef2ccf0a1,Boston Red Sox vs Cleveland Guardians,totals,7.0,BetUS,Under +7,1.8300
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,h2h,,FanDuel,New York Yankees,1.6600
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,h2h,,FanDuel,Tampa Bay Rays,2.2800
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,h2h,,BetOnline.ag,New York Yankees,1.6900
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,h2h,,BetOnline.ag,Tampa Bay Rays,2.3100
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,h2h,,LowVig.ag,New York Yankees,1.6900
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,h2h,,LowVig.ag,Tampa Bay Rays,2.3100
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,h2h,,MyBookie.ag,New York Yankees,1.6600
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,h2h,,MyBookie.ag,Tampa Bay Rays,2.2900
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,h2h,,DraftKings,New York Yankees,1.6400
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,h2h,,DraftKings,Tampa Bay Rays,2.2900
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,h2h,,Bovada,New York Yankees,1.6400
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,h2h,,Bovada,Tampa Bay Rays,2.3100
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,h2h,,BetMGM,New York Yankees,1.6500
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,h2h,,BetMGM,Tampa Bay Rays,2.2500
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,h2h,,BetUS,New York Yankees,1.6900
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,h2h,,BetUS,Tampa Bay Rays,2.3000
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,h2h,,BetRivers,New York Yankees,1.6800
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,h2h,,BetRivers,Tampa Bay Rays,2.2300
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,spreads,-1.5,FanDuel,New York Yankees -1.5,2.5800
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,spreads,1.5,FanDuel,Tampa Bay Rays +1.5,1.5200
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,spreads,-1.5,BetOnline.ag,New York Yankees -1.5,2.5700
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,spreads,1.5,BetOnline.ag,Tampa Bay Rays +1.5,1.5600
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,spreads,-1.5,LowVig.ag,New York Yankees -1.5,2.5800
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,spreads,1.5,LowVig.ag,Tampa Bay Rays +1.5,1.5600
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,spreads,-1.5,MyBookie.ag,New York Yankees -1.5,2.5500
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,spreads,1.5,MyBookie.ag,Tampa Bay Rays +1.5,1.5500
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,spreads,-1.5,DraftKings,New York Yankees -1.5,2.5300
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,spreads,1.5,DraftKings,Tampa Bay Rays +1.5,1.5400
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,spreads,-1.5,Bovada,New York Yankees -1.5,2.5500
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,spreads,1.5,Bovada,Tampa Bay Rays +1.5,1.5600
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,spreads,-1.5,BetMGM,New York Yankees -1.5,2.5000
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,spreads,1.5,BetMGM,Tampa Bay Rays +1.5,1.5400
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,spreads,-1.5,BetUS,New York Yankees -1.5,2.5600
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,spreads,1.5,BetUS,Tampa Bay Rays +1.5,1.5600
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,spreads,-1.5,BetRivers,New York Yankees -1.5,2.6000
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,spreads,1.5,BetRivers,Tampa Bay Rays +1.5,1.5000
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,totals,6.5,FanDuel,Over +6.5,2.0000
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,totals,6.5,FanDuel,Under +6.5,1.8200
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,totals,6.0,BetOnline.ag,Over +6,1.9100
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,totals,6.0,BetOnline.ag,Under +6,1.9100
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,totals,6.0,LowVig.ag,Over +6,1.9300
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,totals,6.0,LowVig.ag,Under +6,1.9300
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,totals,6.0,MyBookie.ag,Over +6,1.9200
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,totals,6.0,MyBookie.ag,Under +6,1.8900
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,totals,6.0,DraftKings,Over +6,1.8800
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,totals,6.0,DraftKings,Under +6,1.9400
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,totals,6.0,Bovada,Over +6,1.8700
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,totals,6.0,Bovada,Under +6,1.9500
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,totals,6.0,BetMGM,Over +6,1.8500
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,totals,6.0,BetMGM,Under +6,1.9800
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,totals,6.0,BetUS,Over +6,1.9100
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,totals,6.0,BetUS,Under +6,1.9100
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,totals,6.0,BetRivers,Over +6,1.8000
+2026-09-24T14:04:58+00:00,db3b790ee721c10b3644dbeef61f370c,New York Yankees vs Tampa Bay Rays,totals,6.0,BetRivers,Under +6,1.8800
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,h2h,,FanDuel,Atlanta Braves,1.4700
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,h2h,,FanDuel,Cincinnati Reds,2.8000
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,h2h,,LowVig.ag,Atlanta Braves,1.4600
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,h2h,,LowVig.ag,Cincinnati Reds,2.9400
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,h2h,,BetOnline.ag,Atlanta Braves,1.4600
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,h2h,,BetOnline.ag,Cincinnati Reds,2.9400
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,h2h,,MyBookie.ag,Atlanta Braves,1.4700
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,h2h,,MyBookie.ag,Cincinnati Reds,2.7900
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,h2h,,DraftKings,Atlanta Braves,1.4400
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,h2h,,DraftKings,Cincinnati Reds,2.8300
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,h2h,,Bovada,Atlanta Braves,1.4300
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,h2h,,Bovada,Cincinnati Reds,2.9000
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,h2h,,BetMGM,Atlanta Braves,1.4500
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,h2h,,BetMGM,Cincinnati Reds,2.8000
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,h2h,,BetUS,Atlanta Braves,1.4800
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,h2h,,BetUS,Cincinnati Reds,2.8100
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,h2h,,BetRivers,Atlanta Braves,1.4700
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,h2h,,BetRivers,Cincinnati Reds,2.7500
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,spreads,-1.5,FanDuel,Atlanta Braves -1.5,2.0500
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,spreads,1.5,FanDuel,Cincinnati Reds +1.5,1.7900
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,spreads,-1.5,LowVig.ag,Atlanta Braves -1.5,2.0100
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,spreads,1.5,LowVig.ag,Cincinnati Reds +1.5,1.8700
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,spreads,-1.5,BetOnline.ag,Atlanta Braves -1.5,1.9800
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,spreads,1.5,BetOnline.ag,Cincinnati Reds +1.5,1.8500
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,spreads,-1.5,MyBookie.ag,Atlanta Braves -1.5,1.9700
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,spreads,1.5,MyBookie.ag,Cincinnati Reds +1.5,1.8800
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,spreads,-1.5,DraftKings,Atlanta Braves -1.5,2.0000
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,spreads,1.5,DraftKings,Cincinnati Reds +1.5,1.8300
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,spreads,-1.5,Bovada,Atlanta Braves -1.5,2.0000
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,spreads,1.5,Bovada,Cincinnati Reds +1.5,1.8300
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,spreads,-1.5,BetMGM,Atlanta Braves -1.5,1.9800
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,spreads,1.5,BetMGM,Cincinnati Reds +1.5,1.8500
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,spreads,-1.5,BetUS,Atlanta Braves -1.5,2.0000
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,spreads,1.5,BetUS,Cincinnati Reds +1.5,1.8300
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,spreads,-1.5,BetRivers,Atlanta Braves -1.5,2.0400
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,spreads,1.5,BetRivers,Cincinnati Reds +1.5,1.8000
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,totals,7.5,FanDuel,Over +7.5,1.8800
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,totals,7.5,FanDuel,Under +7.5,1.9400
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,totals,7.5,LowVig.ag,Over +7.5,1.9500
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,totals,7.5,LowVig.ag,Under +7.5,1.9200
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,totals,7.5,BetOnline.ag,Over +7.5,1.9300
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,totals,7.5,BetOnline.ag,Under +7.5,1.8900
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,totals,7.5,MyBookie.ag,Over +7.5,1.8900
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,totals,7.5,MyBookie.ag,Under +7.5,1.9200
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,totals,7.5,DraftKings,Over +7.5,1.9100
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,totals,7.5,DraftKings,Under +7.5,1.9100
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,totals,7.5,Bovada,Over +7.5,1.8700
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,totals,7.5,Bovada,Under +7.5,1.9500
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,totals,7.5,BetMGM,Over +7.5,1.9100
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,totals,7.5,BetMGM,Under +7.5,1.9100
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,totals,7.5,BetUS,Over +7.5,1.9100
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,totals,7.5,BetUS,Under +7.5,1.9100
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,totals,7.5,BetRivers,Over +7.5,1.8800
+2026-09-24T14:04:58+00:00,78fdc82ac76963c18badf5271be59870,Atlanta Braves vs Cincinnati Reds,totals,7.5,BetRivers,Under +7.5,1.9300
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,h2h,,FanDuel,Athletics,2.3600
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,h2h,,FanDuel,Houston Astros,1.6200
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,h2h,,BetRivers,Athletics,2.3200
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,h2h,,BetRivers,Houston Astros,1.6300
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,h2h,,DraftKings,Athletics,2.3800
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,h2h,,DraftKings,Houston Astros,1.6000
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,h2h,,Bovada,Athletics,2.3900
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,h2h,,Bovada,Houston Astros,1.6100
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,h2h,,BetMGM,Athletics,2.3500
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,h2h,,BetMGM,Houston Astros,1.6200
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,h2h,,MyBookie.ag,Athletics,2.3700
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,h2h,,MyBookie.ag,Houston Astros,1.6200
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,h2h,,BetOnline.ag,Athletics,2.4300
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,h2h,,BetOnline.ag,Houston Astros,1.6300
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,h2h,,LowVig.ag,Athletics,2.4300
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,h2h,,LowVig.ag,Houston Astros,1.6300
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,h2h,,BetUS,Athletics,2.4100
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,h2h,,BetUS,Houston Astros,1.6300
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,spreads,1.5,FanDuel,Athletics +1.5,1.8500
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,spreads,-1.5,FanDuel,Houston Astros -1.5,1.9800
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,spreads,1.5,BetRivers,Athletics +1.5,1.8500
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,spreads,-1.5,BetRivers,Houston Astros -1.5,1.9600
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,spreads,1.5,DraftKings,Athletics +1.5,1.8800
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,spreads,-1.5,DraftKings,Houston Astros -1.5,1.9400
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,spreads,1.5,Bovada,Athletics +1.5,1.9100
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,spreads,-1.5,Bovada,Houston Astros -1.5,1.9100
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,spreads,1.5,BetMGM,Athletics +1.5,1.8700
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,spreads,-1.5,BetMGM,Houston Astros -1.5,1.9500
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,spreads,1.5,MyBookie.ag,Athletics +1.5,1.8800
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,spreads,-1.5,MyBookie.ag,Houston Astros -1.5,1.9600
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,spreads,1.5,BetOnline.ag,Athletics +1.5,1.8900
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,spreads,-1.5,BetOnline.ag,Houston Astros -1.5,1.9300
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,spreads,1.5,LowVig.ag,Athletics +1.5,1.9200
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,spreads,-1.5,LowVig.ag,Houston Astros -1.5,1.9500
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,spreads,1.5,BetUS,Athletics +1.5,1.8700
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,spreads,-1.5,BetUS,Houston Astros -1.5,1.9500
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,totals,10.5,FanDuel,Over +10.5,1.8800
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,totals,10.5,FanDuel,Under +10.5,1.9400
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,totals,10.5,BetRivers,Over +10.5,1.8500
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,totals,10.5,BetRivers,Under +10.5,1.9500
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,totals,10.5,DraftKings,Over +10.5,1.8900
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,totals,10.5,DraftKings,Under +10.5,1.9300
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,totals,10.5,Bovada,Over +10.5,1.8300
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,totals,10.5,Bovada,Under +10.5,2.0000
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,totals,10.5,BetMGM,Over +10.5,1.8700
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,totals,10.5,BetMGM,Under +10.5,1.9500
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,totals,10.5,MyBookie.ag,Over +10.5,1.8800
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,totals,10.5,MyBookie.ag,Under +10.5,1.9300
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,totals,10.5,BetOnline.ag,Over +10.5,1.9100
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,totals,10.5,BetOnline.ag,Under +10.5,1.9100
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,totals,10.5,LowVig.ag,Over +10.5,1.9300
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,totals,10.5,LowVig.ag,Under +10.5,1.9300
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,totals,10.5,BetUS,Over +10.5,1.9100
+2026-09-24T14:04:58+00:00,d1094cf64d0cccf98c76920fd2548c38,Athletics vs Houston Astros,totals,10.5,BetUS,Under +10.5,1.9100
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,h2h,,FanDuel,Los Angeles Angels,2.7600
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,h2h,,FanDuel,Seattle Mariners,1.4800
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,h2h,,Bovada,Los Angeles Angels,2.8500
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,h2h,,Bovada,Seattle Mariners,1.4400
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,h2h,,MyBookie.ag,Los Angeles Angels,2.7400
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,h2h,,MyBookie.ag,Seattle Mariners,1.4800
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,h2h,,DraftKings,Los Angeles Angels,2.7600
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,h2h,,DraftKings,Seattle Mariners,1.4600
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,h2h,,BetRivers,Los Angeles Angels,2.6500
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,h2h,,BetRivers,Seattle Mariners,1.5000
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,h2h,,BetMGM,Los Angeles Angels,2.7000
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,h2h,,BetMGM,Seattle Mariners,1.4800
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,h2h,,BetOnline.ag,Los Angeles Angels,2.8000
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,h2h,,BetOnline.ag,Seattle Mariners,1.5000
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,h2h,,LowVig.ag,Los Angeles Angels,2.8000
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,h2h,,LowVig.ag,Seattle Mariners,1.5000
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,h2h,,BetUS,Los Angeles Angels,2.7400
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,h2h,,BetUS,Seattle Mariners,1.5000
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,spreads,1.5,FanDuel,Los Angeles Angels +1.5,1.7500
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,spreads,-1.5,FanDuel,Seattle Mariners -1.5,2.1200
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,spreads,1.5,Bovada,Los Angeles Angels +1.5,1.8000
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,spreads,-1.5,Bovada,Seattle Mariners -1.5,2.0500
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,spreads,1.5,MyBookie.ag,Los Angeles Angels +1.5,1.7900
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,spreads,-1.5,MyBookie.ag,Seattle Mariners -1.5,2.0800
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,spreads,1.5,DraftKings,Los Angeles Angels +1.5,1.7600
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,spreads,-1.5,DraftKings,Seattle Mariners -1.5,2.0800
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,spreads,1.5,BetRivers,Los Angeles Angels +1.5,1.7600
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,spreads,-1.5,BetRivers,Seattle Mariners -1.5,2.0800
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,spreads,1.5,BetMGM,Los Angeles Angels +1.5,1.7700
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,spreads,-1.5,BetMGM,Seattle Mariners -1.5,2.0500
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,spreads,1.5,BetOnline.ag,Los Angeles Angels +1.5,1.7900
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,spreads,-1.5,BetOnline.ag,Seattle Mariners -1.5,2.0700
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,spreads,1.5,LowVig.ag,Los Angeles Angels +1.5,1.8000
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,spreads,-1.5,LowVig.ag,Seattle Mariners -1.5,2.1000
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,spreads,1.5,BetUS,Los Angeles Angels +1.5,1.8000
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,spreads,-1.5,BetUS,Seattle Mariners -1.5,2.0500
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,totals,6.5,FanDuel,Over +6.5,1.7500
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,totals,6.5,FanDuel,Under +6.5,2.1000
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,totals,7.0,Bovada,Over +7,2.0000
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,totals,7.0,Bovada,Under +7,1.8300
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,totals,7.0,MyBookie.ag,Over +7,1.9500
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,totals,7.0,MyBookie.ag,Under +7,1.8600
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,totals,7.0,DraftKings,Over +7,1.9800
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,totals,7.0,DraftKings,Under +7,1.8500
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,totals,7.0,BetRivers,Over +7,1.8200
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,totals,7.0,BetRivers,Under +7,1.8500
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,totals,7.0,BetMGM,Over +7,2.0000
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,totals,7.0,BetMGM,Under +7,1.7700
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,totals,7.0,BetOnline.ag,Over +7,2.0000
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,totals,7.0,BetOnline.ag,Under +7,1.8300
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,totals,7.0,LowVig.ag,Over +7,2.0300
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,totals,7.0,LowVig.ag,Under +7,1.8500
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,totals,7.0,BetUS,Over +7,2.0000
+2026-09-24T14:04:58+00:00,4984d3511b9db396e1a2c120b9623bbb,Seattle Mariners vs Los Angeles Angels,totals,7.0,BetUS,Under +7,1.8300
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,h2h,,FanDuel,Los Angeles Dodgers,1.5700
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,h2h,,FanDuel,San Diego Padres,2.4600
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,h2h,,BetOnline.ag,Los Angeles Dodgers,1.6000
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,h2h,,BetOnline.ag,San Diego Padres,2.5100
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,h2h,,LowVig.ag,Los Angeles Dodgers,1.6000
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,h2h,,LowVig.ag,San Diego Padres,2.5100
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,h2h,,MyBookie.ag,Los Angeles Dodgers,1.5900
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,h2h,,MyBookie.ag,San Diego Padres,2.4400
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,h2h,,DraftKings,Los Angeles Dodgers,1.5700
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,h2h,,DraftKings,San Diego Padres,2.4400
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,h2h,,Bovada,Los Angeles Dodgers,1.5600
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,h2h,,Bovada,San Diego Padres,2.4500
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,h2h,,BetMGM,Los Angeles Dodgers,1.5700
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,h2h,,BetMGM,San Diego Padres,2.4500
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,h2h,,BetUS,Los Angeles Dodgers,1.6000
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,h2h,,BetUS,San Diego Padres,2.4800
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,h2h,,BetRivers,Los Angeles Dodgers,1.5600
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,h2h,,BetRivers,San Diego Padres,2.4800
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,spreads,-1.5,FanDuel,Los Angeles Dodgers -1.5,2.2600
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,spreads,1.5,FanDuel,San Diego Padres +1.5,1.6600
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,spreads,-1.5,BetOnline.ag,Los Angeles Dodgers -1.5,2.3000
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,spreads,1.5,BetOnline.ag,San Diego Padres +1.5,1.6700
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,spreads,-1.5,LowVig.ag,Los Angeles Dodgers -1.5,2.3200
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,spreads,1.5,LowVig.ag,San Diego Padres +1.5,1.6700
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,spreads,-1.5,MyBookie.ag,Los Angeles Dodgers -1.5,2.2600
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,spreads,1.5,MyBookie.ag,San Diego Padres +1.5,1.6700
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,spreads,-1.5,DraftKings,Los Angeles Dodgers -1.5,2.2800
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,spreads,1.5,DraftKings,San Diego Padres +1.5,1.6500
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,spreads,-1.5,Bovada,Los Angeles Dodgers -1.5,2.3000
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,spreads,1.5,Bovada,San Diego Padres +1.5,1.6700
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,spreads,-1.5,BetMGM,Los Angeles Dodgers -1.5,2.2500
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,spreads,1.5,BetMGM,San Diego Padres +1.5,1.6700
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,spreads,-1.5,BetUS,Los Angeles Dodgers -1.5,2.3000
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,spreads,1.5,BetUS,San Diego Padres +1.5,1.6700
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,spreads,-1.5,BetRivers,Los Angeles Dodgers -1.5,2.1700
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,spreads,1.5,BetRivers,San Diego Padres +1.5,1.7000
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,totals,7.5,FanDuel,Over +7.5,1.7700
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,totals,7.5,FanDuel,Under +7.5,2.0600
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,totals,8.0,BetOnline.ag,Over +8,1.9100
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,totals,8.0,BetOnline.ag,Under +8,1.9100
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,totals,8.0,LowVig.ag,Over +8,1.9300
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,totals,8.0,LowVig.ag,Under +8,1.9300
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,totals,8.0,MyBookie.ag,Over +8,1.9100
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,totals,8.0,MyBookie.ag,Under +8,1.9000
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,totals,8.0,DraftKings,Over +8,1.9300
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,totals,8.0,DraftKings,Under +8,1.8900
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,totals,8.0,Bovada,Over +8,1.9500
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,totals,8.0,Bovada,Under +8,1.8700
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,totals,8.0,BetMGM,Over +8,1.9500
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,totals,8.0,BetMGM,Under +8,1.8700
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,totals,8.0,BetUS,Over +8,1.9100
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,totals,8.0,BetUS,Under +8,1.9100
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,totals,8.0,BetRivers,Over +8,1.8300
+2026-09-24T14:04:58+00:00,a44be11545d471429fd459d4c5740006,Los Angeles Dodgers vs San Diego Padres,totals,8.0,BetRivers,Under +8,1.8300
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,h2h,,DraftKings,Atlanta Falcons,3.0000
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,h2h,,DraftKings,Green Bay Packers,1.4100
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,h2h,,BetUS,Atlanta Falcons,3.0300
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,h2h,,BetUS,Green Bay Packers,1.4200
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,h2h,,FanDuel,Atlanta Falcons,3.0500
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,h2h,,FanDuel,Green Bay Packers,1.4000
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,h2h,,BetRivers,Atlanta Falcons,3.1000
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,h2h,,BetRivers,Green Bay Packers,1.3800
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,h2h,,BetOnline.ag,Atlanta Falcons,3.0600
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,h2h,,BetOnline.ag,Green Bay Packers,1.4000
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,h2h,,LowVig.ag,Atlanta Falcons,3.0600
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,h2h,,LowVig.ag,Green Bay Packers,1.4000
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,h2h,,MyBookie.ag,Atlanta Falcons,3.0400
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,h2h,,MyBookie.ag,Green Bay Packers,1.4100
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,h2h,,BetMGM,Atlanta Falcons,3.0000
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,h2h,,BetMGM,Green Bay Packers,1.4000
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,h2h,,Bovada,Atlanta Falcons,3.0500
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,h2h,,Bovada,Green Bay Packers,1.4100
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,spreads,4.5,DraftKings,Atlanta Falcons +4.5,1.9500
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,spreads,-4.5,DraftKings,Green Bay Packers -4.5,1.8700
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,spreads,4.5,BetUS,Atlanta Falcons +4.5,1.9100
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,spreads,-4.5,BetUS,Green Bay Packers -4.5,1.9100
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,spreads,4.5,FanDuel,Atlanta Falcons +4.5,1.9600
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,spreads,-4.5,FanDuel,Green Bay Packers -4.5,1.8500
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,spreads,5.0,BetRivers,Atlanta Falcons +5,1.9200
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,spreads,-5.0,BetRivers,Green Bay Packers -5,1.8900
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,spreads,4.5,BetOnline.ag,Atlanta Falcons +4.5,1.9500
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,spreads,-4.5,BetOnline.ag,Green Bay Packers -4.5,1.8700
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,spreads,4.5,LowVig.ag,Atlanta Falcons +4.5,2.0000
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,spreads,-4.5,LowVig.ag,Green Bay Packers -4.5,1.9100
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,spreads,5.0,MyBookie.ag,Atlanta Falcons +5,1.9100
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,spreads,-5.0,MyBookie.ag,Green Bay Packers -5,1.9100
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,spreads,4.5,BetMGM,Atlanta Falcons +4.5,1.9300
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,spreads,-4.5,BetMGM,Green Bay Packers -4.5,1.9100
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,spreads,4.5,Bovada,Atlanta Falcons +4.5,1.9100
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,spreads,-4.5,Bovada,Green Bay Packers -4.5,1.9100
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,totals,42.5,DraftKings,Over +42.5,1.8500
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,totals,42.5,DraftKings,Under +42.5,1.9800
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,totals,43.0,BetUS,Over +43,1.9500
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,totals,43.0,BetUS,Under +43,1.8700
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,totals,43.5,FanDuel,Over +43.5,1.9600
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,totals,43.5,FanDuel,Under +43.5,1.8500
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,totals,43.0,BetRivers,Over +43,1.9200
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,totals,43.0,BetRivers,Under +43,1.8900
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,totals,43.0,BetOnline.ag,Over +43,1.9100
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,totals,43.0,BetOnline.ag,Under +43,1.9100
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,totals,43.0,LowVig.ag,Over +43,1.9300
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,totals,43.0,LowVig.ag,Under +43,1.9300
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,totals,43.0,MyBookie.ag,Over +43,1.9100
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,totals,43.0,MyBookie.ag,Under +43,1.9100
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,totals,43.0,BetMGM,Over +43,1.9500
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,totals,43.0,BetMGM,Under +43,1.8900
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,totals,43.0,Bovada,Over +43,1.9100
+2026-09-24T14:04:58+00:00,e5fbd3b3953b896b1bf897ddadb3cc4b,Green Bay Packers vs Atlanta Falcons,totals,43.0,Bovada,Under +43,1.9100
+2026-09-24T14:04:58+00:00,8164f21d418a879733dd141cab8dfb14,Andorra vs Malta,h2h,,BetRivers,Andorra,3.5500
+2026-09-24T14:04:58+00:00,8164f21d418a879733dd141cab8dfb14,Andorra vs Malta,h2h,,BetRivers,Malta,2.3800
+2026-09-24T14:04:58+00:00,8164f21d418a879733dd141cab8dfb14,Andorra vs Malta,h2h,,BetRivers,Draw,2.7000
+2026-09-24T14:04:58+00:00,8164f21d418a879733dd141cab8dfb14,Andorra vs Malta,h2h,,FanDuel,Andorra,3.6000
+2026-09-24T14:04:58+00:00,8164f21d418a879733dd141cab8dfb14,Andorra vs Malta,h2h,,FanDuel,Malta,2.4000
+2026-09-24T14:04:58+00:00,8164f21d418a879733dd141cab8dfb14,Andorra vs Malta,h2h,,FanDuel,Draw,2.6500
+2026-09-24T14:04:58+00:00,8164f21d418a879733dd141cab8dfb14,Andorra vs Malta,h2h,,Bovada,Andorra,3.6000
+2026-09-24T14:04:58+00:00,8164f21d418a879733dd141cab8dfb14,Andorra vs Malta,h2h,,Bovada,Malta,2.4200
+2026-09-24T14:04:58+00:00,8164f21d418a879733dd141cab8dfb14,Andorra vs Malta,h2h,,Bovada,Draw,2.5500
+2026-09-24T14:04:58+00:00,8164f21d418a879733dd141cab8dfb14,Andorra vs Malta,h2h,,DraftKings,Andorra,3.5500
+2026-09-24T14:04:58+00:00,8164f21d418a879733dd141cab8dfb14,Andorra vs Malta,h2h,,DraftKings,Malta,2.4000
+2026-09-24T14:04:58+00:00,8164f21d418a879733dd141cab8dfb14,Andorra vs Malta,h2h,,DraftKings,Draw,2.6000
+2026-09-24T14:04:58+00:00,8164f21d418a879733dd141cab8dfb14,Andorra vs Malta,totals,1.5,BetRivers,Over +1.5,1.6100
+2026-09-24T14:04:58+00:00,8164f21d418a879733dd141cab8dfb14,Andorra vs Malta,totals,1.5,BetRivers,Under +1.5,2.1400
+2026-09-24T14:04:58+00:00,8164f21d418a879733dd141cab8dfb14,Andorra vs Malta,totals,1.75,Bovada,Over +1.75,2.0200
+2026-09-24T14:04:58+00:00,8164f21d418a879733dd141cab8dfb14,Andorra vs Malta,totals,1.75,Bovada,Under +1.75,1.8200
+2026-09-24T14:04:58+00:00,8164f21d418a879733dd141cab8dfb14,Andorra vs Malta,spreads,0.25,Bovada,Andorra +0.25,1.8000
+2026-09-24T14:04:58+00:00,8164f21d418a879733dd141cab8dfb14,Andorra vs Malta,spreads,-0.25,Bovada,Malta -0.25,2.0500
+2026-09-24T14:04:58+00:00,4f880a226d6ab27f137ec39da877e68c,Austria vs Israel,h2h,,BetRivers,Austria,1.4000
+2026-09-24T14:04:58+00:00,4f880a226d6ab27f137ec39da877e68c,Austria vs Israel,h2h,,BetRivers,Israel,6.7500
+2026-09-24T14:04:58+00:00,4f880a226d6ab27f137ec39da877e68c,Austria vs Israel,h2h,,BetRivers,Draw,4.6000
+2026-09-24T14:04:58+00:00,4f880a226d6ab27f137ec39da877e68c,Austria vs Israel,h2h,,FanDuel,Austria,1.4300
+2026-09-24T14:04:58+00:00,4f880a226d6ab27f137ec39da877e68c,Austria vs Israel,h2h,,FanDuel,Israel,6.5000
+2026-09-24T14:04:58+00:00,4f880a226d6ab27f137ec39da877e68c,Austria vs Israel,h2h,,FanDuel,Draw,4.6000
+2026-09-24T14:04:58+00:00,4f880a226d6ab27f137ec39da877e68c,Austria vs Israel,h2h,,DraftKings,Austria,1.4300
+2026-09-24T14:04:58+00:00,4f880a226d6ab27f137ec39da877e68c,Austria vs Israel,h2h,,DraftKings,Israel,6.0000
+2026-09-24T14:04:58+00:00,4f880a226d6ab27f137ec39da877e68c,Austria vs Israel,h2h,,DraftKings,Draw,4.6000
+2026-09-24T14:04:58+00:00,4f880a226d6ab27f137ec39da877e68c,Austria vs Israel,h2h,,Bovada,Austria,1.4700
+2026-09-24T14:04:58+00:00,4f880a226d6ab27f137ec39da877e68c,Austria vs Israel,h2h,,Bovada,Israel,5.7500
+2026-09-24T14:04:58+00:00,4f880a226d6ab27f137ec39da877e68c,Austria vs Israel,h2h,,Bovada,Draw,4.6500
+2026-09-24T14:04:58+00:00,4f880a226d6ab27f137ec39da877e68c,Austria vs Israel,totals,3.5,BetRivers,Over +3.5,2.2500
+2026-09-24T14:04:58+00:00,4f880a226d6ab27f137ec39da877e68c,Austria vs Israel,totals,3.5,BetRivers,Under +3.5,1.6000
+2026-09-24T14:04:58+00:00,4f880a226d6ab27f137ec39da877e68c,Austria vs Israel,totals,3.0,Bovada,Over +3,1.9500
+2026-09-24T14:04:58+00:00,4f880a226d6ab27f137ec39da877e68c,Austria vs Israel,totals,3.0,Bovada,Under +3,1.8700
+2026-09-24T14:04:58+00:00,4f880a226d6ab27f137ec39da877e68c,Austria vs Israel,spreads,-1.25,Bovada,Austria -1.25,2.0500
+2026-09-24T14:04:58+00:00,4f880a226d6ab27f137ec39da877e68c,Austria vs Israel,spreads,1.25,Bovada,Israel +1.25,1.8000
+2026-09-24T14:04:58+00:00,9352e6dce53be8e98217c70a28200e69,Norway vs Denmark,h2h,,FanDuel,Denmark,4.3000
+2026-09-24T14:04:58+00:00,9352e6dce53be8e98217c70a28200e69,Norway vs Denmark,h2h,,FanDuel,Norway,1.7100
+2026-09-24T14:04:58+00:00,9352e6dce53be8e98217c70a28200e69,Norway vs Denmark,h2h,,FanDuel,Draw,3.9000
+2026-09-24T14:04:58+00:00,9352e6dce53be8e98217c70a28200e69,Norway vs Denmark,h2h,,BetRivers,Denmark,4.0000
+2026-09-24T14:04:58+00:00,9352e6dce53be8e98217c70a28200e69,Norway vs Denmark,h2h,,BetRivers,Norway,1.7600
+2026-09-24T14:04:58+00:00,9352e6dce53be8e98217c70a28200e69,Norway vs Denmark,h2h,,BetRivers,Draw,3.7500
+2026-09-24T14:04:58+00:00,9352e6dce53be8e98217c70a28200e69,Norway vs Denmark,h2h,,DraftKings,Denmark,3.9500
+2026-09-24T14:04:58+00:00,9352e6dce53be8e98217c70a28200e69,Norway vs Denmark,h2h,,DraftKings,Norway,1.7700
+2026-09-24T14:04:58+00:00,9352e6dce53be8e98217c70a28200e69,Norway vs Denmark,h2h,,DraftKings,Draw,3.8500
+2026-09-24T14:04:58+00:00,9352e6dce53be8e98217c70a28200e69,Norway vs Denmark,h2h,,Bovada,Denmark,4.0500
+2026-09-24T14:04:58+00:00,9352e6dce53be8e98217c70a28200e69,Norway vs Denmark,h2h,,Bovada,Norway,1.7700
+2026-09-24T14:04:58+00:00,9352e6dce53be8e98217c70a28200e69,Norway vs Denmark,h2h,,Bovada,Draw,3.9500
+2026-09-24T14:04:58+00:00,9352e6dce53be8e98217c70a28200e69,Norway vs Denmark,totals,2.5,BetRivers,Over +2.5,1.5500
+2026-09-24T14:04:58+00:00,9352e6dce53be8e98217c70a28200e69,Norway vs Denmark,totals,2.5,BetRivers,Under +2.5,2.3500
+2026-09-24T14:04:58+00:00,9352e6dce53be8e98217c70a28200e69,Norway vs Denmark,totals,3.0,Bovada,Over +3,1.8700
+2026-09-24T14:04:58+00:00,9352e6dce53be8e98217c70a28200e69,Norway vs Denmark,totals,3.0,Bovada,Under +3,1.9500
+2026-09-24T14:04:58+00:00,9352e6dce53be8e98217c70a28200e69,Norway vs Denmark,spreads,0.75,Bovada,Denmark +0.75,1.8300
+2026-09-24T14:04:58+00:00,9352e6dce53be8e98217c70a28200e69,Norway vs Denmark,spreads,-0.75,Bovada,Norway -0.75,2.0000
+2026-09-24T14:04:58+00:00,1b126f4039aa0e37f54d3142212702b7,Netherlands vs Germany,h2h,,FanDuel,Germany,2.4500
+2026-09-24T14:04:58+00:00,1b126f4039aa0e37f54d3142212702b7,Netherlands vs Germany,h2h,,FanDuel,Netherlands,2.6500
+2026-09-24T14:04:58+00:00,1b126f4039aa0e37f54d3142212702b7,Netherlands vs Germany,h2h,,FanDuel,Draw,3.7000
+2026-09-24T14:04:58+00:00,1b126f4039aa0e37f54d3142212702b7,Netherlands vs Germany,h2h,,BetRivers,Germany,2.4800
+2026-09-24T14:04:58+00:00,1b126f4039aa0e37f54d3142212702b7,Netherlands vs Germany,h2h,,BetRivers,Netherlands,2.4800
+2026-09-24T14:04:58+00:00,1b126f4039aa0e37f54d3142212702b7,Netherlands vs Germany,h2h,,BetRivers,Draw,3.6000
+2026-09-24T14:04:58+00:00,1b126f4039aa0e37f54d3142212702b7,Netherlands vs Germany,h2h,,DraftKings,Germany,2.4000
+2026-09-24T14:04:58+00:00,1b126f4039aa0e37f54d3142212702b7,Netherlands vs Germany,h2h,,DraftKings,Netherlands,2.5500
+2026-09-24T14:04:58+00:00,1b126f4039aa0e37f54d3142212702b7,Netherlands vs Germany,h2h,,DraftKings,Draw,3.6000
+2026-09-24T14:04:58+00:00,1b126f4039aa0e37f54d3142212702b7,Netherlands vs Germany,h2h,,Bovada,Germany,2.4400
+2026-09-24T14:04:58+00:00,1b126f4039aa0e37f54d3142212702b7,Netherlands vs Germany,h2h,,Bovada,Netherlands,2.6100
+2026-09-24T14:04:58+00:00,1b126f4039aa0e37f54d3142212702b7,Netherlands vs Germany,h2h,,Bovada,Draw,3.7000
+2026-09-24T14:04:58+00:00,1b126f4039aa0e37f54d3142212702b7,Netherlands vs Germany,totals,3.5,BetRivers,Over +3.5,2.0500
+2026-09-24T14:04:58+00:00,1b126f4039aa0e37f54d3142212702b7,Netherlands vs Germany,totals,3.5,BetRivers,Under +3.5,1.7200
+2026-09-24T14:04:58+00:00,1b126f4039aa0e37f54d3142212702b7,Netherlands vs Germany,totals,3.25,Bovada,Over +3.25,1.8700
+2026-09-24T14:04:58+00:00,1b126f4039aa0e37f54d3142212702b7,Netherlands vs Germany,totals,3.25,Bovada,Under +3.25,1.9500
+2026-09-24T14:04:58+00:00,1b126f4039aa0e37f54d3142212702b7,Netherlands vs Germany,spreads,0.0,Bovada,Germany +0,1.8500
+2026-09-24T14:04:58+00:00,1b126f4039aa0e37f54d3142212702b7,Netherlands vs Germany,spreads,0.0,Bovada,Netherlands +0,1.9800
+2026-09-24T14:04:58+00:00,8f5c39e163f06383d2c06d0b7769963f,Serbia vs Greece,h2h,,FanDuel,Greece,2.5500
+2026-09-24T14:04:58+00:00,8f5c39e163f06383d2c06d0b7769963f,Serbia vs Greece,h2h,,FanDuel,Serbia,2.8000
+2026-09-24T14:04:58+00:00,8f5c39e163f06383d2c06d0b7769963f,Serbia vs Greece,h2h,,FanDuel,Draw,3.1000
+2026-09-24T14:04:58+00:00,8f5c39e163f06383d2c06d0b7769963f,Serbia vs Greece,h2h,,BetRivers,Greece,2.5500
+2026-09-24T14:04:58+00:00,8f5c39e163f06383d2c06d0b7769963f,Serbia vs Greece,h2h,,BetRivers,Serbia,2.7000
+2026-09-24T14:04:58+00:00,8f5c39e163f06383d2c06d0b7769963f,Serbia vs Greece,h2h,,BetRivers,Draw,3.2500
+2026-09-24T14:04:58+00:00,8f5c39e163f06383d2c06d0b7769963f,Serbia vs Greece,h2h,,DraftKings,Greece,2.5000
+2026-09-24T14:04:58+00:00,8f5c39e163f06383d2c06d0b7769963f,Serbia vs Greece,h2h,,DraftKings,Serbia,2.8000
+2026-09-24T14:04:58+00:00,8f5c39e163f06383d2c06d0b7769963f,Serbia vs Greece,h2h,,DraftKings,Draw,3.1000
+2026-09-24T14:04:58+00:00,8f5c39e163f06383d2c06d0b7769963f,Serbia vs Greece,h2h,,Bovada,Greece,2.5400
+2026-09-24T14:04:58+00:00,8f5c39e163f06383d2c06d0b7769963f,Serbia vs Greece,h2h,,Bovada,Serbia,2.8500
+2026-09-24T14:04:58+00:00,8f5c39e163f06383d2c06d0b7769963f,Serbia vs Greece,h2h,,Bovada,Draw,3.1200
+2026-09-24T14:04:58+00:00,8f5c39e163f06383d2c06d0b7769963f,Serbia vs Greece,totals,2.5,BetRivers,Over +2.5,2.0800
+2026-09-24T14:04:58+00:00,8f5c39e163f06383d2c06d0b7769963f,Serbia vs Greece,totals,2.5,BetRivers,Under +2.5,1.6400
+2026-09-24T14:04:58+00:00,8f5c39e163f06383d2c06d0b7769963f,Serbia vs Greece,totals,2.25,Bovada,Over +2.25,2.0500
+2026-09-24T14:04:58+00:00,8f5c39e163f06383d2c06d0b7769963f,Serbia vs Greece,totals,2.25,Bovada,Under +2.25,1.8000
+2026-09-24T14:04:58+00:00,8f5c39e163f06383d2c06d0b7769963f,Serbia vs Greece,spreads,0.0,Bovada,Greece +0,1.8000
+2026-09-24T14:04:58+00:00,8f5c39e163f06383d2c06d0b7769963f,Serbia vs Greece,spreads,0.0,Bovada,Serbia +0,2.0500
+2026-09-24T14:04:58+00:00,153ad245de40be77011a5ffff62e0302,Kosovo vs Republic of Ireland,h2h,,BetRivers,Kosovo,2.4500
+2026-09-24T14:04:58+00:00,153ad245de40be77011a5ffff62e0302,Kosovo vs Republic of Ireland,h2h,,BetRivers,Republic of Ireland,3.0000
+2026-09-24T14:04:58+00:00,153ad245de40be77011a5ffff62e0302,Kosovo vs Republic of Ireland,h2h,,BetRivers,Draw,3.1000
+2026-09-24T14:04:58+00:00,153ad245de40be77011a5ffff62e0302,Kosovo vs Republic of Ireland,h2h,,FanDuel,Kosovo,2.4000
+2026-09-24T14:04:58+00:00,153ad245de40be77011a5ffff62e0302,Kosovo vs Republic of Ireland,h2h,,FanDuel,Republic of Ireland,3.1000
+2026-09-24T14:04:58+00:00,153ad245de40be77011a5ffff62e0302,Kosovo vs Republic of Ireland,h2h,,FanDuel,Draw,3.0000
+2026-09-24T14:04:58+00:00,153ad245de40be77011a5ffff62e0302,Kosovo vs Republic of Ireland,totals,2.5,BetRivers,Over +2.5,2.2300
+2026-09-24T14:04:58+00:00,153ad245de40be77011a5ffff62e0302,Kosovo vs Republic of Ireland,totals,2.5,BetRivers,Under +2.5,1.6100
+2026-09-24T14:04:58+00:00,7eba39bc18096e656826ebb2792e95ab,Liechtenstein vs Lithuania,h2h,,BetRivers,Liechtenstein,12.0000
+2026-09-24T14:04:58+00:00,7eba39bc18096e656826ebb2792e95ab,Liechtenstein vs Lithuania,h2h,,BetRivers,Lithuania,1.2900
+2026-09-24T14:04:58+00:00,7eba39bc18096e656826ebb2792e95ab,Liechtenstein vs Lithuania,h2h,,BetRivers,Draw,4.8000
+2026-09-24T14:04:58+00:00,7eba39bc18096e656826ebb2792e95ab,Liechtenstein vs Lithuania,h2h,,FanDuel,Liechtenstein,14.0000
+2026-09-24T14:04:58+00:00,7eba39bc18096e656826ebb2792e95ab,Liechtenstein vs Lithuania,h2h,,FanDuel,Lithuania,1.2800
+2026-09-24T14:04:58+00:00,7eba39bc18096e656826ebb2792e95ab,Liechtenstein vs Lithuania,h2h,,FanDuel,Draw,4.6000
+2026-09-24T14:04:58+00:00,7eba39bc18096e656826ebb2792e95ab,Liechtenstein vs Lithuania,h2h,,Bovada,Liechtenstein,12.0000
+2026-09-24T14:04:58+00:00,7eba39bc18096e656826ebb2792e95ab,Liechtenstein vs Lithuania,h2h,,Bovada,Lithuania,1.2700
+2026-09-24T14:04:58+00:00,7eba39bc18096e656826ebb2792e95ab,Liechtenstein vs Lithuania,h2h,,Bovada,Draw,4.6500
+2026-09-24T14:04:58+00:00,7eba39bc18096e656826ebb2792e95ab,Liechtenstein vs Lithuania,h2h,,DraftKings,Liechtenstein,12.0000
+2026-09-24T14:04:58+00:00,7eba39bc18096e656826ebb2792e95ab,Liechtenstein vs Lithuania,h2h,,DraftKings,Lithuania,1.2900
+2026-09-24T14:04:58+00:00,7eba39bc18096e656826ebb2792e95ab,Liechtenstein vs Lithuania,h2h,,DraftKings,Draw,4.6000
+2026-09-24T14:04:58+00:00,7eba39bc18096e656826ebb2792e95ab,Liechtenstein vs Lithuania,totals,2.5,BetRivers,Over +2.5,2.1200
+2026-09-24T14:04:58+00:00,7eba39bc18096e656826ebb2792e95ab,Liechtenstein vs Lithuania,totals,2.5,BetRivers,Under +2.5,1.6200
+2026-09-24T14:04:58+00:00,7eba39bc18096e656826ebb2792e95ab,Liechtenstein vs Lithuania,totals,2.0,Bovada,Over +2,1.8900
+2026-09-24T14:04:58+00:00,7eba39bc18096e656826ebb2792e95ab,Liechtenstein vs Lithuania,totals,2.0,Bovada,Under +2,1.9300
+2026-09-24T14:04:58+00:00,7eba39bc18096e656826ebb2792e95ab,Liechtenstein vs Lithuania,spreads,1.5,Bovada,Liechtenstein +1.5,1.8000
+2026-09-24T14:04:58+00:00,7eba39bc18096e656826ebb2792e95ab,Liechtenstein vs Lithuania,spreads,-1.5,Bovada,Lithuania -1.5,2.0500
+2026-09-24T14:04:58+00:00,4ab9287a169d5efd8818d7487d6e0f03,Portugal vs Wales,h2h,,FanDuel,Portugal,1.1400
+2026-09-24T14:04:58+00:00,4ab9287a169d5efd8818d7487d6e0f03,Portugal vs Wales,h2h,,FanDuel,Wales,15.0000
+2026-09-24T14:04:58+00:00,4ab9287a169d5efd8818d7487d6e0f03,Portugal vs Wales,h2h,,FanDuel,Draw,7.5000
+2026-09-24T14:04:58+00:00,4ab9287a169d5efd8818d7487d6e0f03,Portugal vs Wales,h2h,,BetRivers,Portugal,1.1500
+2026-09-24T14:04:58+00:00,4ab9287a169d5efd8818d7487d6e0f03,Portugal vs Wales,h2h,,BetRivers,Wales,15.0000
+2026-09-24T14:04:58+00:00,4ab9287a169d5efd8818d7487d6e0f03,Portugal vs Wales,h2h,,BetRivers,Draw,7.0000
+2026-09-24T14:04:58+00:00,4ab9287a169d5efd8818d7487d6e0f03,Portugal vs Wales,h2h,,DraftKings,Portugal,1.1500
+2026-09-24T14:04:58+00:00,4ab9287a169d5efd8818d7487d6e0f03,Portugal vs Wales,h2h,,DraftKings,Wales,14.0000
+2026-09-24T14:04:58+00:00,4ab9287a169d5efd8818d7487d6e0f03,Portugal vs Wales,h2h,,DraftKings,Draw,7.0000
+2026-09-24T14:04:58+00:00,4ab9287a169d5efd8818d7487d6e0f03,Portugal vs Wales,h2h,,Bovada,Portugal,1.1700
+2026-09-24T14:04:58+00:00,4ab9287a169d5efd8818d7487d6e0f03,Portugal vs Wales,h2h,,Bovada,Wales,15.0000
+2026-09-24T14:04:58+00:00,4ab9287a169d5efd8818d7487d6e0f03,Portugal vs Wales,h2h,,Bovada,Draw,7.2500
+2026-09-24T14:04:58+00:00,4ab9287a169d5efd8818d7487d6e0f03,Portugal vs Wales,totals,3.5,BetRivers,Over +3.5,1.9700
+2026-09-24T14:04:58+00:00,4ab9287a169d5efd8818d7487d6e0f03,Portugal vs Wales,totals,3.5,BetRivers,Under +3.5,1.7700
+2026-09-24T14:04:58+00:00,4ab9287a169d5efd8818d7487d6e0f03,Portugal vs Wales,totals,3.5,Bovada,Over +3.5,1.8900
+2026-09-24T14:04:58+00:00,4ab9287a169d5efd8818d7487d6e0f03,Portugal vs Wales,totals,3.5,Bovada,Under +3.5,1.9300
+2026-09-24T14:04:58+00:00,4ab9287a169d5efd8818d7487d6e0f03,Portugal vs Wales,spreads,-2.25,Bovada,Portugal -2.25,1.9500
+2026-09-24T14:04:58+00:00,4ab9287a169d5efd8818d7487d6e0f03,Portugal vs Wales,spreads,2.25,Bovada,Wales +2.25,1.8700
