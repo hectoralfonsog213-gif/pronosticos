@@ -40,6 +40,10 @@ class Umbrales:
     tope_stake: float = 0.02             # nunca mas del 2% de la banca en una jugada
     momio_minimo: float = 1.30           # -333
     momio_maximo: float = 6.00           # +500
+    # Probabilidad minima de ganar. Es un filtro, no un orden: entre las que lo
+    # pasan se sigue eligiendo por valor esperado. Se filtra por probabilidad y
+    # no por momio para no tirar un 50% que alguna casa paga a +108.
+    p_minima: float = 0.0
     metodo_devig: str = "power"
 
 
@@ -117,6 +121,9 @@ def analizar_evento(ev: Evento, u: Umbrales,
                         p_apuesta, fuente = p_justa, "mercado"
                     else:
                         p_apuesta, fuente = p_mod, "modelo"
+
+                    if p_apuesta < u.p_minima:
+                        continue
 
                     stake = kelly(p_apuesta, d, u.fraccion_kelly, u.tope_stake)
                     if stake <= 0:

@@ -125,6 +125,10 @@ umbrales:
   tope_stake: 0.02            # techo duro: 2% de banca por jugada
   momio_minimo: 1.30          # -333
   momio_maximo: 6.00          # +500
+  # Solo jugadas que ganan al menos la mitad de las veces. Entre esas se sigue
+  # eligiendo la de mayor valor esperado, NO la más probable: ordenar por
+  # probabilidad da puros favoritos a -1200 que no pagan lo que arriesgan.
+  p_minima: 0.50
   metodo_devig: power
 
 max_por_evento: 2             # más de 2 jugadas en un partido casi siempre es error
