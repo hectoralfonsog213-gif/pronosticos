@@ -3,6 +3,6 @@ fecha_registro,inicio,deporte,liga,evento,mercado,seleccion,casa,momio_dec,momio
 2026-09-24T14:04:58+00:00,2026-09-24T22:46:00Z,mlb,MLB,Boston Red Sox vs Cleveland Guardians,Ganador,Boston Red Sox,BetOnline.ag,1.83,-120,0.5425,0.5748,-0.0073,1.564,9,modelo,,,
 2026-09-24T14:04:58+00:00,2026-09-25T01:41:00Z,mlb,MLB,Athletics vs Houston Astros,Total,Under +10.5,Bovada,2.0,+100,0.4954,0.6233,-0.0091,2.0,9,modelo,,,
 2026-09-24T14:04:58+00:00,2026-09-24T23:16:00Z,mlb,MLB,Atlanta Braves vs Cincinnati Reds,Total,Over +7.5,LowVig.ag,1.95,-105,0.502,0.6151,-0.0212,2.0,9,modelo,,,
-2026-09-24T14:04:58+00:00,2026-09-24T18:21:00Z,mlb,MLB,Chicago Cubs vs Miami Marlins,Total,Over +7,LowVig.ag,1.98,-102,0.4941,0.7393,-0.0217,2.0,8,modelo,,,
+2026-09-24T14:04:58+00:00,2026-09-24T18:21:00Z,mlb,MLB,Chicago Cubs vs Miami Marlins,Total,Over +7,LowVig.ag,1.98,-102,0.4941,0.7393,-0.0217,2.0,8,modelo,1.980,0.0000,
 2026-09-24T14:04:58+00:00,2026-09-24T22:06:00Z,mlb,MLB,Philadelphia Phillies vs Milwaukee Brewers,Ganador,Milwaukee Brewers,LowVig.ag,2.19,+119,0.4454,0.546,-0.0246,2.0,8,modelo,,,
 2026-09-24T14:04:58+00:00,2026-09-24T19:11:00Z,mlb,MLB,Colorado Rockies vs Arizona Diamondbacks,Total,Under +10,LowVig.ag,1.93,-108,0.5006,0.5765,-0.0338,2.0,8,modelo,,,
