@@ -1,0 +1,162 @@
+#  Configuración del detector diario
+#
+#  CUOTA: la API cobra (mercados x regiones) créditos por liga, por corrida.
+#  El plan gratis da 500 créditos al mes.
+#
+#     costo mensual = ligas x mercados x regiones x corridas_al_día x 30
+#
+#  Lo activo ahora: 5 x 1 x 1 x 2 x 30 = 300 créditos/mes. Entra en el gratis.
+#  Si activas los 3 mercados: 900/mes. Ahí ya necesitas plan de paga.
+#
+#  Claves de liga vigentes:  python -m src.main --verificar   (gratis)
+
+# Cada región extra MULTIPLICA el costo. "eu" trae casas europeas y suele dar
+# mejores líneas en fútbol.
+regiones:
+  - us
+
+deportes:
+
+  mlb:
+    activo: true
+    usar_modelo: true
+    ligas:
+      - baseball_mlb
+    mercados:
+      - h2h              # ganador
+      # - totals         # más/menos carreras — el modelo SÍ opina aquí
+      # - spreads        # línea de carreras (-1.5) — solo detector de mercado
+
+  nfl:
+    activo: true
+    usar_modelo: true
+    ligas:
+      - americanfootball_nfl
+      # - americanfootball_ncaaf   # línea mucho más floja que la NFL
+    mercados:
+      - h2h              # ganador
+      # - spreads        # hándicap — el modelo SÍ opina aquí
+      # - totals         # más/menos puntos — solo detector de mercado
+
+  futbol:
+    activo: true
+    usar_modelo: true
+    ligas:
+      - soccer_mexico_ligamx
+      - soccer_epl
+      - soccer_spain_la_liga
+      # Mientras más chica la liga, más floja la línea:
+      # - soccer_italy_serie_a
+      # - soccer_germany_bundesliga
+      # - soccer_france_ligue_one
+      # - soccer_usa_mls
+      # - soccer_brazil_campeonato
+      # - soccer_argentina_primera_division
+      # - soccer_portugal_primeira_liga
+      # - soccer_netherlands_eredivisie
+      # - soccer_england_efl_champ            # segunda de Inglaterra
+      # - soccer_spain_segunda_division
+      # - soccer_italy_serie_b
+    mercados:
+      - h2h              # 1X2
+      # - totals         # más/menos goles — el modelo SÍ opina aquí
+      # - spreads        # hándicap asiático — el modelo SÍ opina aquí
+
+# --------------------------------------------------------------- salida
+# "una_jugada":      UNA sola apuesta, la mejor del momento, o ninguna si nada
+#                    pasa el filtro.
+# "una_por_deporte": la mejor de cada deporte (NFL, MLB, fútbol). Máximo una
+#                    por deporte, y si un deporte no tiene nada, no aparece.
+# "todas":           todas las que superan el umbral, hasta tope_jugadas.
+#
+# En los tres casos cada jugada trae su momio mínimo aceptable, para cuando la
+# pongas en tu propia casa a un precio distinto del que aquí aparece.
+modo: una_por_deporte
+
+# Con true, la jugada única nunca puede ser de las que solo sostiene el modelo.
+# Si vas a hacer una sola apuesta, no conviene gastarla en la categoría con más
+# riesgo de estar equivocada.
+exigir_respaldo_mercado: true
+
+# ---------------------------------------------------------------- cuota
+# Créditos que tiene tu plan al mes. El sistema raciona solo: calcula cuánto le
+# toca por día, atiende primero los partidos más próximos, y si va pasado de
+# gasto pospone lo lejano. Nunca se queda sin créditos a media quincena.
+#   plan gratis de The Odds API = 500
+presupuesto_mensual: 500
+
+# Cada cuánto revisar cada liga, según qué tan cerca está el partido más próximo.
+# Consultar el calendario es GRATIS, así que una liga sin juegos hoy no cuesta nada.
+# La última hora antes del partido es la más rentable: ahí entran las alineaciones
+# y ahí es donde las casas blandas se quedan atrás.
+escala:
+  - {horas_antes: 1.5,  minutos_entre_consultas: 15}
+  - {horas_antes: 6.0,  minutos_entre_consultas: 60}
+  - {horas_antes: 24.0, minutos_entre_consultas: 240}
+  - {horas_antes: 72.0, minutos_entre_consultas: 720}
+
+# Detector de líneas rezagadas: compara el consenso de hace X minutos contra
+# el de ahora. Si el mercado se movió y una casa no siguió, ahí hay valor.
+movimiento:
+  ventana_min: 120
+  umbral: 0.025          # 2.5 puntos porcentuales de desplazamiento
+  retencion_dias: 3      # historial que se conserva (más días = repo más pesado)
+
+# Arbitrajes y middles. No dependen de ningún pronóstico.
+arbitraje:
+  margen_minimo: 0.005   # 0.5% garantizado para que valga el trámite
+  ancho_minimo: 1.0      # ventana mínima del middle
+  perdida_maxima: 0.06   # cuánto aceptas perder cuando el middle falla
+  ev_minimo_middle: 0.03
+
+# Topes de exposición. Kelly supone apuestas independientes; el ganador y el
+# hándicap del mismo equipo no lo son, ni tres partidos del mismo equipo.
+exposicion:
+  tope_evento: 0.03      # máximo de banca comprometida en un solo partido
+  tope_equipo: 0.04      # máximo ligado al mismo equipo en el día
+  tope_total: 0.15       # máximo en riesgo al mismo tiempo
+
+umbrales:
+  ev_minimo_mercado: 0.02     # 2% contra el consenso de las demás casas
+  ev_minimo_modelo: 0.04      # al modelo propio se le exige el doble
+  casas_minimas: 4            # con menos, el consenso es ruido
+  vig_maximo: 0.09            # ignorar casas con comisión absurda
+  fraccion_kelly: 0.25
+  tope_stake: 0.02            # techo duro: 2% de banca por jugada
+  momio_minimo: 1.30          # -333
+  momio_maximo: 6.00          # +500
+  metodo_devig: power
+
+max_por_evento: 2             # más de 2 jugadas en un partido casi siempre es error
+tope_jugadas: 25
+
+# Peso de cada casa dentro del consenso. Las afiladas mueven la línea primero y
+# deben pesar más; las blandas copian. Si algún día tienes acceso a Pinnacle o
+# Betfair, ponles peso 3 o 4: cambian por completo la calidad del detector.
+pesos_casa:
+  Pinnacle: 4.0
+  Betfair: 3.0
+  BetOnline.ag: 2.0
+  Bookmaker.eu: 2.0
+  DraftKings: 1.2
+  FanDuel: 1.2
+  LowVig.ag: 2.0
+  BetMGM: 1.0
+  Caesars: 1.0
+  BetRivers: 0.8
+  Bovada: 0.8
+
+# Parámetros por liga para el modelo de fútbol. Se calculan con
+# src.models.futbol.calibrar() sobre una temporada de resultados.
+# Sin entrada aquí, se usan los valores por defecto (ligas grandes de Europa).
+parametros_liga:
+  Liga MX:
+    goles_promedio: 2.62
+    ventaja_local: 0.28
+    elo_a_goles: 0.0042
+    rho: -0.11
+
+telegram:
+  activo: false
+  # El token y el chat_id van como secretos del repositorio,
+  # nunca escritos aquí: TELEGRAM_TOKEN y TELEGRAM_CHAT_ID.

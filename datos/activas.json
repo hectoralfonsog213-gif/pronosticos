@@ -1,0 +1,21 @@
+{
+  "Cruz Azul vs Toluca|Ganador|Draw|FanDuel": {
+    "visto": "2026-09-24T01:58:48+00:00",
+    "deporte": "futbol",
+    "liga": "Liga MX",
+    "evento": "Cruz Azul vs Toluca",
+    "inicio": "2026-09-26T22:50:00Z",
+    "mercado": "Ganador",
+    "seleccion": "Draw",
+    "casa": "FanDuel",
+    "momio_dec": 3.6,
+    "p_justa": 0.28542755678850973,
+    "p_modelo": null,
+    "ev": 0.027539204438635112,
+    "ev_modelo": null,
+    "stake": 0.0026480004267918377,
+    "n_casas": 6,
+    "fuente": "mercado",
+    "ev_minimo": 0.02
+  }
+}

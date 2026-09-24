@@ -1,0 +1,12 @@
+{
+  "mes": "2026-09",
+  "gastado": 151,
+  "ultimas": {
+    "baseball_mlb": "2026-09-24T02:01:19+00:00",
+    "americanfootball_nfl": "2026-09-24T02:01:19+00:00",
+    "soccer_mexico_ligamx": "2026-09-24T02:01:19+00:00"
+  },
+  "por_dia": {
+    "2026-09-24": 6
+  }
+}
