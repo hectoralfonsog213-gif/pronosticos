@@ -1,337 +1,85 @@
 {
-  "generado": "2026-09-25T14:05:26.663787+00:00",
+  "generado": "2026-09-26T14:04:41.150057+00:00",
   "resumen": {
-    "n": 1,
-    "ev_promedio": 0.031688107193646786,
-    "exposicion": 0.01277746257808338,
+    "n": 2,
+    "ev_promedio": 0.039619902134454876,
+    "exposicion": 0.027405575124908217,
     "por_deporte": {
-      "mlb": 1
+      "mlb": 2
     }
   },
   "avisos": [
-    "modelo futbol: 502 Server Error: Bad Gateway for url: http://api.clubelo.com/2026-09-25 (sigue el detector de mercado)",
-    "créditos: 190/500 del mes (esta corrida gastó 21)"
+    "modelo futbol: 502 Server Error: Bad Gateway for url: http://api.clubelo.com/2026-09-26 (sigue el detector de mercado)",
+    "créditos: 212/500 del mes (esta corrida gastó 21)"
   ],
-  "eventos": 32,
+  "eventos": 47,
   "jugadas": [
     {
       "deporte": "mlb",
       "liga": "MLB",
-      "evento": "Toronto Blue Jays vs Cincinnati Reds",
-      "inicio": "2026-09-25T23:08:00Z",
+      "evento": "Seattle Mariners vs Los Angeles Angels",
+      "inicio": "2026-09-27T01:41:00Z",
       "mercado": "Hándicap",
-      "seleccion": "Cincinnati Reds +1.5",
+      "seleccion": "Los Angeles Angels +1.5",
       "casa": "BetRivers",
-      "momio_dec": 1.62,
-      "momio_am": "-161",
-      "p_justa": 0.6368,
+      "momio_dec": 1.73,
+      "momio_am": "-137",
+      "p_justa": 0.6077,
       "p_modelo": null,
-      "ev": 0.0317,
+      "ev": 0.0514,
       "ev_modelo": null,
-      "stake_pct": 1.278,
-      "n_casas": 7,
+      "stake_pct": 1.76,
+      "n_casas": 9,
       "fuente": "mercado",
-      "momio_minimo_dec": 1.602,
-      "momio_minimo_am": "-166",
-      "momio_empate_am": "-175"
+      "momio_minimo_dec": 1.678,
+      "momio_minimo_am": "-147",
+      "momio_empate_am": "-155"
+    },
+    {
+      "deporte": "mlb",
+      "liga": "MLB",
+      "evento": "Milwaukee Brewers vs St. Louis Cardinals",
+      "inicio": "2026-09-26T23:11:00Z",
+      "mercado": "Hándicap",
+      "seleccion": "St. Louis Cardinals -1.5",
+      "casa": "BetRivers",
+      "momio_dec": 1.71,
+      "momio_am": "-141",
+      "p_justa": 0.6011,
+      "p_modelo": null,
+      "ev": 0.0278,
+      "ev_modelo": null,
+      "stake_pct": 0.981,
+      "n_casas": 9,
+      "fuente": "mercado",
+      "momio_minimo_dec": 1.697,
+      "momio_minimo_am": "-143",
+      "momio_empate_am": "-151"
     }
   ],
   "movimientos": [],
-  "arbitrajes": [],
-  "middles": [
+  "arbitrajes": [
     {
-      "evento": "San Francisco Giants vs Los Angeles Dodgers",
+      "evento": "Seattle Mariners vs Los Angeles Angels",
       "liga": "MLB",
-      "inicio": "2026-09-26T02:16:00Z",
+      "inicio": "2026-09-27T01:41:00Z",
       "mercado": "spreads",
-      "ventana": "margen del local entre -2.5 y -1.5",
-      "ancho": 1.0,
-      "pata_a": {
-        "seleccion": "San Francisco Giants +2.5",
-        "casa": "MyBookie.ag",
-        "momio_dec": 1.97
-      },
-      "pata_b": {
-        "seleccion": "Los Angeles Dodgers -1.5",
-        "casa": "LowVig.ag",
-        "momio_dec": 1.58
-      },
-      "ganancia": 0.775,
-      "perdida": -0.015,
-      "prob_necesaria": 0.019
-    },
-    {
-      "evento": "San Francisco Giants vs Los Angeles Dodgers",
-      "liga": "MLB",
-      "inicio": "2026-09-26T02:16:00Z",
-      "mercado": "spreads",
-      "ventana": "margen del local entre -2.5 y -1.5",
-      "ancho": 1.0,
-      "pata_a": {
-        "seleccion": "San Francisco Giants +2.5",
-        "casa": "MyBookie.ag",
-        "momio_dec": 1.97
-      },
-      "pata_b": {
-        "seleccion": "Los Angeles Dodgers -1.5",
-        "casa": "BetOnline.ag",
-        "momio_dec": 1.58
-      },
-      "ganancia": 0.775,
-      "perdida": -0.015,
-      "prob_necesaria": 0.019
-    },
-    {
-      "evento": "San Francisco Giants vs Los Angeles Dodgers",
-      "liga": "MLB",
-      "inicio": "2026-09-26T02:16:00Z",
-      "mercado": "spreads",
-      "ventana": "margen del local entre -2.5 y -1.5",
-      "ancho": 1.0,
-      "pata_a": {
-        "seleccion": "San Francisco Giants +2.5",
-        "casa": "MyBookie.ag",
-        "momio_dec": 1.97
-      },
-      "pata_b": {
-        "seleccion": "Los Angeles Dodgers -1.5",
-        "casa": "DraftKings",
-        "momio_dec": 1.57
-      },
-      "ganancia": 0.77,
-      "perdida": -0.015,
-      "prob_necesaria": 0.0191
-    },
-    {
-      "evento": "San Francisco Giants vs Los Angeles Dodgers",
-      "liga": "MLB",
-      "inicio": "2026-09-26T02:16:00Z",
-      "mercado": "spreads",
-      "ventana": "margen del local entre -2.5 y -1.5",
-      "ancho": 1.0,
-      "pata_a": {
-        "seleccion": "San Francisco Giants +2.5",
-        "casa": "MyBookie.ag",
-        "momio_dec": 1.97
-      },
-      "pata_b": {
-        "seleccion": "Los Angeles Dodgers -1.5",
-        "casa": "Bovada",
-        "momio_dec": 1.57
-      },
-      "ganancia": 0.77,
-      "perdida": -0.015,
-      "prob_necesaria": 0.0191
-    },
-    {
-      "evento": "San Francisco Giants vs Los Angeles Dodgers",
-      "liga": "MLB",
-      "inicio": "2026-09-26T02:16:00Z",
-      "mercado": "spreads",
-      "ventana": "margen del local entre -2.5 y -1.5",
-      "ancho": 1.0,
-      "pata_a": {
-        "seleccion": "San Francisco Giants +2.5",
-        "casa": "MyBookie.ag",
-        "momio_dec": 1.97
-      },
-      "pata_b": {
-        "seleccion": "Los Angeles Dodgers -1.5",
-        "casa": "BetUS",
-        "momio_dec": 1.57
-      },
-      "ganancia": 0.77,
-      "perdida": -0.015,
-      "prob_necesaria": 0.0191
-    },
-    {
-      "evento": "San Francisco Giants vs Los Angeles Dodgers",
-      "liga": "MLB",
-      "inicio": "2026-09-26T02:16:00Z",
-      "mercado": "spreads",
-      "ventana": "margen del local entre -2.5 y -1.5",
-      "ancho": 1.0,
-      "pata_a": {
-        "seleccion": "San Francisco Giants +2.5",
-        "casa": "MyBookie.ag",
-        "momio_dec": 1.97
-      },
-      "pata_b": {
-        "seleccion": "Los Angeles Dodgers -1.5",
-        "casa": "BetRivers",
-        "momio_dec": 1.54
-      },
-      "ganancia": 0.755,
-      "perdida": -0.015,
-      "prob_necesaria": 0.0195
-    },
-    {
-      "evento": "San Francisco Giants vs Los Angeles Dodgers",
-      "liga": "MLB",
-      "inicio": "2026-09-26T02:16:00Z",
-      "mercado": "spreads",
-      "ventana": "margen del local entre -2.5 y -1.5",
-      "ancho": 1.0,
-      "pata_a": {
-        "seleccion": "San Francisco Giants +2.5",
-        "casa": "MyBookie.ag",
-        "momio_dec": 1.97
-      },
-      "pata_b": {
-        "seleccion": "Los Angeles Dodgers -1.5",
-        "casa": "FanDuel",
-        "momio_dec": 1.53
-      },
-      "ganancia": 0.75,
-      "perdida": -0.015,
-      "prob_necesaria": 0.0196
-    },
-    {
-      "evento": "San Francisco Giants vs Los Angeles Dodgers",
-      "liga": "MLB",
-      "inicio": "2026-09-26T02:16:00Z",
-      "mercado": "spreads",
-      "ventana": "margen del local entre -2.5 y -1.5",
-      "ancho": 1.0,
-      "pata_a": {
-        "seleccion": "San Francisco Giants +2.5",
-        "casa": "BetMGM",
-        "momio_dec": 1.95
-      },
-      "pata_b": {
-        "seleccion": "Los Angeles Dodgers -1.5",
-        "casa": "LowVig.ag",
-        "momio_dec": 1.58
-      },
-      "ganancia": 0.765,
-      "perdida": -0.025,
-      "prob_necesaria": 0.0316
-    },
-    {
-      "evento": "San Francisco Giants vs Los Angeles Dodgers",
-      "liga": "MLB",
-      "inicio": "2026-09-26T02:16:00Z",
-      "mercado": "spreads",
-      "ventana": "margen del local entre -2.5 y -1.5",
-      "ancho": 1.0,
-      "pata_a": {
-        "seleccion": "San Francisco Giants +2.5",
-        "casa": "BetMGM",
-        "momio_dec": 1.95
-      },
-      "pata_b": {
-        "seleccion": "Los Angeles Dodgers -1.5",
-        "casa": "BetOnline.ag",
-        "momio_dec": 1.58
-      },
-      "ganancia": 0.765,
-      "perdida": -0.025,
-      "prob_necesaria": 0.0316
-    },
-    {
-      "evento": "San Francisco Giants vs Los Angeles Dodgers",
-      "liga": "MLB",
-      "inicio": "2026-09-26T02:16:00Z",
-      "mercado": "spreads",
-      "ventana": "margen del local entre -2.5 y -1.5",
-      "ancho": 1.0,
-      "pata_a": {
-        "seleccion": "San Francisco Giants +2.5",
-        "casa": "BetMGM",
-        "momio_dec": 1.95
-      },
-      "pata_b": {
-        "seleccion": "Los Angeles Dodgers -1.5",
-        "casa": "DraftKings",
-        "momio_dec": 1.57
-      },
-      "ganancia": 0.76,
-      "perdida": -0.025,
-      "prob_necesaria": 0.0318
-    },
-    {
-      "evento": "San Francisco Giants vs Los Angeles Dodgers",
-      "liga": "MLB",
-      "inicio": "2026-09-26T02:16:00Z",
-      "mercado": "spreads",
-      "ventana": "margen del local entre -2.5 y -1.5",
-      "ancho": 1.0,
-      "pata_a": {
-        "seleccion": "San Francisco Giants +2.5",
-        "casa": "BetMGM",
-        "momio_dec": 1.95
-      },
-      "pata_b": {
-        "seleccion": "Los Angeles Dodgers -1.5",
-        "casa": "Bovada",
-        "momio_dec": 1.57
-      },
-      "ganancia": 0.76,
-      "perdida": -0.025,
-      "prob_necesaria": 0.0318
-    },
-    {
-      "evento": "San Francisco Giants vs Los Angeles Dodgers",
-      "liga": "MLB",
-      "inicio": "2026-09-26T02:16:00Z",
-      "mercado": "spreads",
-      "ventana": "margen del local entre -2.5 y -1.5",
-      "ancho": 1.0,
-      "pata_a": {
-        "seleccion": "San Francisco Giants +2.5",
-        "casa": "BetMGM",
-        "momio_dec": 1.95
-      },
-      "pata_b": {
-        "seleccion": "Los Angeles Dodgers -1.5",
-        "casa": "BetUS",
-        "momio_dec": 1.57
-      },
-      "ganancia": 0.76,
-      "perdida": -0.025,
-      "prob_necesaria": 0.0318
-    },
-    {
-      "evento": "San Francisco Giants vs Los Angeles Dodgers",
-      "liga": "MLB",
-      "inicio": "2026-09-26T02:16:00Z",
-      "mercado": "spreads",
-      "ventana": "margen del local entre -2.5 y -1.5",
-      "ancho": 1.0,
-      "pata_a": {
-        "seleccion": "San Francisco Giants +2.5",
-        "casa": "BetMGM",
-        "momio_dec": 1.95
-      },
-      "pata_b": {
-        "seleccion": "Los Angeles Dodgers -1.5",
-        "casa": "BetRivers",
-        "momio_dec": 1.54
-      },
-      "ganancia": 0.745,
-      "perdida": -0.025,
-      "prob_necesaria": 0.0325
-    },
-    {
-      "evento": "San Francisco Giants vs Los Angeles Dodgers",
-      "liga": "MLB",
-      "inicio": "2026-09-26T02:16:00Z",
-      "mercado": "spreads",
-      "ventana": "margen del local entre -2.5 y -1.5",
-      "ancho": 1.0,
-      "pata_a": {
-        "seleccion": "San Francisco Giants +2.5",
-        "casa": "BetMGM",
-        "momio_dec": 1.95
-      },
-      "pata_b": {
-        "seleccion": "Los Angeles Dodgers -1.5",
-        "casa": "FanDuel",
-        "momio_dec": 1.53
-      },
-      "ganancia": 0.74,
-      "perdida": -0.025,
-      "prob_necesaria": 0.0327
+      "margen": 0.0208,
+      "patas": [
+        {
+          "seleccion": "Los Angeles Angels +1.5",
+          "casa": "BetRivers",
+          "momio_dec": 1.73,
+          "reparto": 0.59
+        },
+        {
+          "seleccion": "Seattle Mariners -1.5",
+          "casa": "LowVig.ag",
+          "momio_dec": 2.49,
+          "reparto": 0.41
+        }
+      ]
     }
-  ]
+  ],
+  "middles": []
 }
