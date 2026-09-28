@@ -1,0 +1,271 @@
+ts,evento_id,evento,mercado,punto,casa,seleccion,decimal
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,h2h,,DraftKings,Chicago Bears,2.6000
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,h2h,,DraftKings,Philadelphia Eagles,1.5200
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,h2h,,FanDuel,Chicago Bears,2.7200
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,h2h,,FanDuel,Philadelphia Eagles,1.4800
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,h2h,,BetRivers,Chicago Bears,2.7000
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,h2h,,BetRivers,Philadelphia Eagles,1.4800
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,h2h,,BetUS,Chicago Bears,2.7500
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,h2h,,BetUS,Philadelphia Eagles,1.4900
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,h2h,,LowVig.ag,Chicago Bears,2.7700
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,h2h,,LowVig.ag,Philadelphia Eagles,1.4900
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,h2h,,BetOnline.ag,Chicago Bears,2.7700
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,h2h,,BetOnline.ag,Philadelphia Eagles,1.4900
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,h2h,,MyBookie.ag,Chicago Bears,2.7100
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,h2h,,MyBookie.ag,Philadelphia Eagles,1.4900
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,h2h,,BetMGM,Chicago Bears,2.7000
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,h2h,,BetMGM,Philadelphia Eagles,1.4800
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,h2h,,Bovada,Chicago Bears,2.7000
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,h2h,,Bovada,Philadelphia Eagles,1.5000
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,spreads,3.5,DraftKings,Chicago Bears +3.5,1.9300
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,spreads,-3.5,DraftKings,Philadelphia Eagles -3.5,1.8900
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,spreads,3.5,FanDuel,Chicago Bears +3.5,1.9500
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,spreads,-3.5,FanDuel,Philadelphia Eagles -3.5,1.8700
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,spreads,4.5,BetRivers,Chicago Bears +4.5,1.8800
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,spreads,-4.5,BetRivers,Philadelphia Eagles -4.5,1.9300
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,spreads,3.5,BetUS,Chicago Bears +3.5,1.9500
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,spreads,-3.5,BetUS,Philadelphia Eagles -3.5,1.8700
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,spreads,3.5,LowVig.ag,Chicago Bears +3.5,1.9900
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,spreads,-3.5,LowVig.ag,Philadelphia Eagles -3.5,1.9200
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,spreads,3.5,BetOnline.ag,Chicago Bears +3.5,1.9500
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,spreads,-3.5,BetOnline.ag,Philadelphia Eagles -3.5,1.8700
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,spreads,3.5,MyBookie.ag,Chicago Bears +3.5,1.9100
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,spreads,-3.5,MyBookie.ag,Philadelphia Eagles -3.5,1.9100
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,spreads,4.0,BetMGM,Chicago Bears +4,1.8300
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,spreads,-4.0,BetMGM,Philadelphia Eagles -4,1.9100
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,spreads,3.5,Bovada,Chicago Bears +3.5,1.9500
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,spreads,-3.5,Bovada,Philadelphia Eagles -3.5,1.8700
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,totals,41.5,DraftKings,Over +41.5,1.9100
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,totals,41.5,DraftKings,Under +41.5,1.9100
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,totals,41.5,FanDuel,Over +41.5,1.8900
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,totals,41.5,FanDuel,Under +41.5,1.9300
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,totals,41.5,BetRivers,Over +41.5,1.9100
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,totals,41.5,BetRivers,Under +41.5,1.9100
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,totals,41.5,BetUS,Over +41.5,1.9100
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,totals,41.5,BetUS,Under +41.5,1.9100
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,totals,41.5,LowVig.ag,Over +41.5,1.9300
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,totals,41.5,LowVig.ag,Under +41.5,1.9300
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,totals,41.5,BetOnline.ag,Over +41.5,1.9100
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,totals,41.5,BetOnline.ag,Under +41.5,1.9100
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,totals,41.5,MyBookie.ag,Over +41.5,1.9100
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,totals,41.5,MyBookie.ag,Under +41.5,1.9100
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,totals,41.5,BetMGM,Over +41.5,1.9100
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,totals,41.5,BetMGM,Under +41.5,1.9300
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,totals,41.5,Bovada,Over +41.5,1.8700
+2026-09-28T14:08:16+00:00,47dc7baa254659f3beb2ed2b38c207b6,Chicago Bears vs Philadelphia Eagles,totals,41.5,Bovada,Under +41.5,1.9500
+2026-09-28T14:08:16+00:00,0891f1ff09ec9c814d38c2465c9f53da,Armenia vs Montenegro,h2h,,FanDuel,Armenia,2.8000
+2026-09-28T14:08:16+00:00,0891f1ff09ec9c814d38c2465c9f53da,Armenia vs Montenegro,h2h,,FanDuel,Montenegro,2.5000
+2026-09-28T14:08:16+00:00,0891f1ff09ec9c814d38c2465c9f53da,Armenia vs Montenegro,h2h,,FanDuel,Draw,3.2000
+2026-09-28T14:08:16+00:00,0891f1ff09ec9c814d38c2465c9f53da,Armenia vs Montenegro,h2h,,BetRivers,Armenia,2.8000
+2026-09-28T14:08:16+00:00,0891f1ff09ec9c814d38c2465c9f53da,Armenia vs Montenegro,h2h,,BetRivers,Montenegro,2.5500
+2026-09-28T14:08:16+00:00,0891f1ff09ec9c814d38c2465c9f53da,Armenia vs Montenegro,h2h,,BetRivers,Draw,3.2000
+2026-09-28T14:08:16+00:00,0891f1ff09ec9c814d38c2465c9f53da,Armenia vs Montenegro,h2h,,Bovada,Armenia,2.8500
+2026-09-28T14:08:16+00:00,0891f1ff09ec9c814d38c2465c9f53da,Armenia vs Montenegro,h2h,,Bovada,Montenegro,2.4500
+2026-09-28T14:08:16+00:00,0891f1ff09ec9c814d38c2465c9f53da,Armenia vs Montenegro,h2h,,Bovada,Draw,3.0500
+2026-09-28T14:08:16+00:00,0891f1ff09ec9c814d38c2465c9f53da,Armenia vs Montenegro,h2h,,DraftKings,Armenia,2.8500
+2026-09-28T14:08:16+00:00,0891f1ff09ec9c814d38c2465c9f53da,Armenia vs Montenegro,h2h,,DraftKings,Montenegro,2.4500
+2026-09-28T14:08:16+00:00,0891f1ff09ec9c814d38c2465c9f53da,Armenia vs Montenegro,h2h,,DraftKings,Draw,3.1500
+2026-09-28T14:08:16+00:00,0891f1ff09ec9c814d38c2465c9f53da,Armenia vs Montenegro,totals,2.5,BetRivers,Over +2.5,2.1000
+2026-09-28T14:08:16+00:00,0891f1ff09ec9c814d38c2465c9f53da,Armenia vs Montenegro,totals,2.5,BetRivers,Under +2.5,1.6800
+2026-09-28T14:08:16+00:00,0891f1ff09ec9c814d38c2465c9f53da,Armenia vs Montenegro,totals,2.25,Bovada,Over +2.25,1.8200
+2026-09-28T14:08:16+00:00,0891f1ff09ec9c814d38c2465c9f53da,Armenia vs Montenegro,totals,2.25,Bovada,Under +2.25,2.0200
+2026-09-28T14:08:16+00:00,0891f1ff09ec9c814d38c2465c9f53da,Armenia vs Montenegro,spreads,0.0,Bovada,Armenia +0,2.0800
+2026-09-28T14:08:16+00:00,0891f1ff09ec9c814d38c2465c9f53da,Armenia vs Montenegro,spreads,0.0,Bovada,Montenegro +0,1.7800
+2026-09-28T14:08:16+00:00,e4b63f94de5a52095f9d94be94b2c4aa,Latvia vs Cyprus,h2h,,BetRivers,Cyprus,2.8000
+2026-09-28T14:08:16+00:00,e4b63f94de5a52095f9d94be94b2c4aa,Latvia vs Cyprus,h2h,,BetRivers,Latvia,2.6500
+2026-09-28T14:08:16+00:00,e4b63f94de5a52095f9d94be94b2c4aa,Latvia vs Cyprus,h2h,,BetRivers,Draw,3.0000
+2026-09-28T14:08:16+00:00,e4b63f94de5a52095f9d94be94b2c4aa,Latvia vs Cyprus,h2h,,FanDuel,Cyprus,2.8000
+2026-09-28T14:08:16+00:00,e4b63f94de5a52095f9d94be94b2c4aa,Latvia vs Cyprus,h2h,,FanDuel,Latvia,2.7000
+2026-09-28T14:08:16+00:00,e4b63f94de5a52095f9d94be94b2c4aa,Latvia vs Cyprus,h2h,,FanDuel,Draw,2.8500
+2026-09-28T14:08:16+00:00,e4b63f94de5a52095f9d94be94b2c4aa,Latvia vs Cyprus,h2h,,Bovada,Cyprus,2.8500
+2026-09-28T14:08:16+00:00,e4b63f94de5a52095f9d94be94b2c4aa,Latvia vs Cyprus,h2h,,Bovada,Latvia,2.6800
+2026-09-28T14:08:16+00:00,e4b63f94de5a52095f9d94be94b2c4aa,Latvia vs Cyprus,h2h,,Bovada,Draw,2.7800
+2026-09-28T14:08:16+00:00,e4b63f94de5a52095f9d94be94b2c4aa,Latvia vs Cyprus,h2h,,DraftKings,Cyprus,2.8500
+2026-09-28T14:08:16+00:00,e4b63f94de5a52095f9d94be94b2c4aa,Latvia vs Cyprus,h2h,,DraftKings,Latvia,2.6500
+2026-09-28T14:08:16+00:00,e4b63f94de5a52095f9d94be94b2c4aa,Latvia vs Cyprus,h2h,,DraftKings,Draw,2.8500
+2026-09-28T14:08:16+00:00,e4b63f94de5a52095f9d94be94b2c4aa,Latvia vs Cyprus,totals,2.5,BetRivers,Over +2.5,2.3500
+2026-09-28T14:08:16+00:00,e4b63f94de5a52095f9d94be94b2c4aa,Latvia vs Cyprus,totals,2.5,BetRivers,Under +2.5,1.5600
+2026-09-28T14:08:16+00:00,e4b63f94de5a52095f9d94be94b2c4aa,Latvia vs Cyprus,totals,2.0,Bovada,Over +2,1.9500
+2026-09-28T14:08:16+00:00,e4b63f94de5a52095f9d94be94b2c4aa,Latvia vs Cyprus,totals,2.0,Bovada,Under +2,1.8700
+2026-09-28T14:08:16+00:00,e4b63f94de5a52095f9d94be94b2c4aa,Latvia vs Cyprus,spreads,0.0,Bovada,Cyprus +0,1.9800
+2026-09-28T14:08:16+00:00,e4b63f94de5a52095f9d94be94b2c4aa,Latvia vs Cyprus,spreads,0.0,Bovada,Latvia +0,1.8500
+2026-09-28T14:08:16+00:00,ede91daefcca16990379ab59f170ad5c,Georgia vs Ukraine,h2h,,FanDuel,Georgia,2.7000
+2026-09-28T14:08:16+00:00,ede91daefcca16990379ab59f170ad5c,Georgia vs Ukraine,h2h,,FanDuel,Ukraine,2.6500
+2026-09-28T14:08:16+00:00,ede91daefcca16990379ab59f170ad5c,Georgia vs Ukraine,h2h,,FanDuel,Draw,3.0000
+2026-09-28T14:08:16+00:00,ede91daefcca16990379ab59f170ad5c,Georgia vs Ukraine,h2h,,BetRivers,Georgia,2.6500
+2026-09-28T14:08:16+00:00,ede91daefcca16990379ab59f170ad5c,Georgia vs Ukraine,h2h,,BetRivers,Ukraine,2.6000
+2026-09-28T14:08:16+00:00,ede91daefcca16990379ab59f170ad5c,Georgia vs Ukraine,h2h,,BetRivers,Draw,3.1000
+2026-09-28T14:08:16+00:00,ede91daefcca16990379ab59f170ad5c,Georgia vs Ukraine,h2h,,DraftKings,Georgia,2.6500
+2026-09-28T14:08:16+00:00,ede91daefcca16990379ab59f170ad5c,Georgia vs Ukraine,h2h,,DraftKings,Ukraine,2.6500
+2026-09-28T14:08:16+00:00,ede91daefcca16990379ab59f170ad5c,Georgia vs Ukraine,h2h,,DraftKings,Draw,3.0500
+2026-09-28T14:08:16+00:00,ede91daefcca16990379ab59f170ad5c,Georgia vs Ukraine,h2h,,Bovada,Georgia,2.7500
+2026-09-28T14:08:16+00:00,ede91daefcca16990379ab59f170ad5c,Georgia vs Ukraine,h2h,,Bovada,Ukraine,2.7500
+2026-09-28T14:08:16+00:00,ede91daefcca16990379ab59f170ad5c,Georgia vs Ukraine,h2h,,Bovada,Draw,3.1000
+2026-09-28T14:08:16+00:00,ede91daefcca16990379ab59f170ad5c,Georgia vs Ukraine,totals,2.5,BetRivers,Over +2.5,2.1400
+2026-09-28T14:08:16+00:00,ede91daefcca16990379ab59f170ad5c,Georgia vs Ukraine,totals,2.5,BetRivers,Under +2.5,1.6600
+2026-09-28T14:08:16+00:00,ede91daefcca16990379ab59f170ad5c,Georgia vs Ukraine,totals,2.5,Bovada,Over +2.5,2.2000
+2026-09-28T14:08:16+00:00,ede91daefcca16990379ab59f170ad5c,Georgia vs Ukraine,totals,2.5,Bovada,Under +2.5,1.6900
+2026-09-28T14:08:16+00:00,ede91daefcca16990379ab59f170ad5c,Georgia vs Ukraine,spreads,0.0,Bovada,Georgia +0,1.9500
+2026-09-28T14:08:16+00:00,ede91daefcca16990379ab59f170ad5c,Georgia vs Ukraine,spreads,0.0,Bovada,Ukraine +0,1.8700
+2026-09-28T14:08:16+00:00,bb8c6293badc2a09ec9d7994c4895a6e,Belgium vs France,h2h,,FanDuel,Belgium,3.9000
+2026-09-28T14:08:16+00:00,bb8c6293badc2a09ec9d7994c4895a6e,Belgium vs France,h2h,,FanDuel,France,1.8000
+2026-09-28T14:08:16+00:00,bb8c6293badc2a09ec9d7994c4895a6e,Belgium vs France,h2h,,FanDuel,Draw,3.8000
+2026-09-28T14:08:16+00:00,bb8c6293badc2a09ec9d7994c4895a6e,Belgium vs France,h2h,,BetRivers,Belgium,3.9000
+2026-09-28T14:08:16+00:00,bb8c6293badc2a09ec9d7994c4895a6e,Belgium vs France,h2h,,BetRivers,France,1.7800
+2026-09-28T14:08:16+00:00,bb8c6293badc2a09ec9d7994c4895a6e,Belgium vs France,h2h,,BetRivers,Draw,3.7500
+2026-09-28T14:08:16+00:00,bb8c6293badc2a09ec9d7994c4895a6e,Belgium vs France,h2h,,DraftKings,Belgium,3.7500
+2026-09-28T14:08:16+00:00,bb8c6293badc2a09ec9d7994c4895a6e,Belgium vs France,h2h,,DraftKings,France,1.8300
+2026-09-28T14:08:16+00:00,bb8c6293badc2a09ec9d7994c4895a6e,Belgium vs France,h2h,,DraftKings,Draw,3.7500
+2026-09-28T14:08:16+00:00,bb8c6293badc2a09ec9d7994c4895a6e,Belgium vs France,h2h,,Bovada,Belgium,3.9500
+2026-09-28T14:08:16+00:00,bb8c6293badc2a09ec9d7994c4895a6e,Belgium vs France,h2h,,Bovada,France,1.8300
+2026-09-28T14:08:16+00:00,bb8c6293badc2a09ec9d7994c4895a6e,Belgium vs France,h2h,,Bovada,Draw,3.8000
+2026-09-28T14:08:16+00:00,bb8c6293badc2a09ec9d7994c4895a6e,Belgium vs France,totals,3.5,BetRivers,Over +3.5,2.3200
+2026-09-28T14:08:16+00:00,bb8c6293badc2a09ec9d7994c4895a6e,Belgium vs France,totals,3.5,BetRivers,Under +3.5,1.5600
+2026-09-28T14:08:16+00:00,bb8c6293badc2a09ec9d7994c4895a6e,Belgium vs France,totals,3.0,Bovada,Over +3,1.9500
+2026-09-28T14:08:16+00:00,bb8c6293badc2a09ec9d7994c4895a6e,Belgium vs France,totals,3.0,Bovada,Under +3,1.8700
+2026-09-28T14:08:16+00:00,bb8c6293badc2a09ec9d7994c4895a6e,Belgium vs France,spreads,0.5,Bovada,Belgium +0.5,2.0000
+2026-09-28T14:08:16+00:00,bb8c6293badc2a09ec9d7994c4895a6e,Belgium vs France,spreads,-0.5,Bovada,France -0.5,1.8300
+2026-09-28T14:08:16+00:00,f3f0913d41ae698f82c06ef5ff26187a,Romania vs Bosnia & Herzegovina,h2h,,BetRivers,Bosnia & Herzegovina,3.0000
+2026-09-28T14:08:16+00:00,f3f0913d41ae698f82c06ef5ff26187a,Romania vs Bosnia & Herzegovina,h2h,,BetRivers,Romania,2.3000
+2026-09-28T14:08:16+00:00,f3f0913d41ae698f82c06ef5ff26187a,Romania vs Bosnia & Herzegovina,h2h,,BetRivers,Draw,3.2000
+2026-09-28T14:08:16+00:00,f3f0913d41ae698f82c06ef5ff26187a,Romania vs Bosnia & Herzegovina,h2h,,FanDuel,Bosnia & Herzegovina,2.9500
+2026-09-28T14:08:16+00:00,f3f0913d41ae698f82c06ef5ff26187a,Romania vs Bosnia & Herzegovina,h2h,,FanDuel,Romania,2.4000
+2026-09-28T14:08:16+00:00,f3f0913d41ae698f82c06ef5ff26187a,Romania vs Bosnia & Herzegovina,h2h,,FanDuel,Draw,3.2000
+2026-09-28T14:08:16+00:00,f3f0913d41ae698f82c06ef5ff26187a,Romania vs Bosnia & Herzegovina,h2h,,DraftKings,Bosnia & Herzegovina,2.9000
+2026-09-28T14:08:16+00:00,f3f0913d41ae698f82c06ef5ff26187a,Romania vs Bosnia & Herzegovina,h2h,,DraftKings,Romania,2.3500
+2026-09-28T14:08:16+00:00,f3f0913d41ae698f82c06ef5ff26187a,Romania vs Bosnia & Herzegovina,h2h,,DraftKings,Draw,3.2000
+2026-09-28T14:08:16+00:00,f3f0913d41ae698f82c06ef5ff26187a,Romania vs Bosnia & Herzegovina,h2h,,Bovada,Bosnia & Herzegovina,3.0000
+2026-09-28T14:08:16+00:00,f3f0913d41ae698f82c06ef5ff26187a,Romania vs Bosnia & Herzegovina,h2h,,Bovada,Romania,2.3700
+2026-09-28T14:08:16+00:00,f3f0913d41ae698f82c06ef5ff26187a,Romania vs Bosnia & Herzegovina,h2h,,Bovada,Draw,3.2500
+2026-09-28T14:08:16+00:00,f3f0913d41ae698f82c06ef5ff26187a,Romania vs Bosnia & Herzegovina,totals,2.5,BetRivers,Over +2.5,1.9700
+2026-09-28T14:08:16+00:00,f3f0913d41ae698f82c06ef5ff26187a,Romania vs Bosnia & Herzegovina,totals,2.5,BetRivers,Under +2.5,1.7700
+2026-09-28T14:08:16+00:00,f3f0913d41ae698f82c06ef5ff26187a,Romania vs Bosnia & Herzegovina,totals,2.25,Bovada,Over +2.25,1.8300
+2026-09-28T14:08:16+00:00,f3f0913d41ae698f82c06ef5ff26187a,Romania vs Bosnia & Herzegovina,totals,2.25,Bovada,Under +2.25,2.0000
+2026-09-28T14:08:16+00:00,f3f0913d41ae698f82c06ef5ff26187a,Romania vs Bosnia & Herzegovina,spreads,0.25,Bovada,Bosnia & Herzegovina +0.25,1.8000
+2026-09-28T14:08:16+00:00,f3f0913d41ae698f82c06ef5ff26187a,Romania vs Bosnia & Herzegovina,spreads,-0.25,Bovada,Romania -0.25,2.0500
+2026-09-28T14:08:16+00:00,ca4e66bc4c5b00d3da48863e51527d13,Northern Ireland vs Hungary,h2h,,BetRivers,Hungary,2.6000
+2026-09-28T14:08:16+00:00,ca4e66bc4c5b00d3da48863e51527d13,Northern Ireland vs Hungary,h2h,,BetRivers,Northern Ireland,2.7500
+2026-09-28T14:08:16+00:00,ca4e66bc4c5b00d3da48863e51527d13,Northern Ireland vs Hungary,h2h,,BetRivers,Draw,3.0000
+2026-09-28T14:08:16+00:00,ca4e66bc4c5b00d3da48863e51527d13,Northern Ireland vs Hungary,h2h,,FanDuel,Hungary,2.7000
+2026-09-28T14:08:16+00:00,ca4e66bc4c5b00d3da48863e51527d13,Northern Ireland vs Hungary,h2h,,FanDuel,Northern Ireland,2.8500
+2026-09-28T14:08:16+00:00,ca4e66bc4c5b00d3da48863e51527d13,Northern Ireland vs Hungary,h2h,,FanDuel,Draw,2.8500
+2026-09-28T14:08:16+00:00,ca4e66bc4c5b00d3da48863e51527d13,Northern Ireland vs Hungary,h2h,,DraftKings,Hungary,2.6500
+2026-09-28T14:08:16+00:00,ca4e66bc4c5b00d3da48863e51527d13,Northern Ireland vs Hungary,h2h,,DraftKings,Northern Ireland,2.8500
+2026-09-28T14:08:16+00:00,ca4e66bc4c5b00d3da48863e51527d13,Northern Ireland vs Hungary,h2h,,DraftKings,Draw,2.8500
+2026-09-28T14:08:16+00:00,ca4e66bc4c5b00d3da48863e51527d13,Northern Ireland vs Hungary,h2h,,Bovada,Hungary,2.6700
+2026-09-28T14:08:16+00:00,ca4e66bc4c5b00d3da48863e51527d13,Northern Ireland vs Hungary,h2h,,Bovada,Northern Ireland,2.9500
+2026-09-28T14:08:16+00:00,ca4e66bc4c5b00d3da48863e51527d13,Northern Ireland vs Hungary,h2h,,Bovada,Draw,2.8500
+2026-09-28T14:08:16+00:00,ca4e66bc4c5b00d3da48863e51527d13,Northern Ireland vs Hungary,totals,2.5,BetRivers,Over +2.5,2.3800
+2026-09-28T14:08:16+00:00,ca4e66bc4c5b00d3da48863e51527d13,Northern Ireland vs Hungary,totals,2.5,BetRivers,Under +2.5,1.5400
+2026-09-28T14:08:16+00:00,ca4e66bc4c5b00d3da48863e51527d13,Northern Ireland vs Hungary,totals,2.0,Bovada,Over +2,1.8900
+2026-09-28T14:08:16+00:00,ca4e66bc4c5b00d3da48863e51527d13,Northern Ireland vs Hungary,totals,2.0,Bovada,Under +2,1.9300
+2026-09-28T14:08:16+00:00,ca4e66bc4c5b00d3da48863e51527d13,Northern Ireland vs Hungary,spreads,0.0,Bovada,Hungary +0,1.8200
+2026-09-28T14:08:16+00:00,ca4e66bc4c5b00d3da48863e51527d13,Northern Ireland vs Hungary,spreads,0.0,Bovada,Northern Ireland +0,2.0200
+2026-09-28T14:08:16+00:00,058603d04d090992dc3bbdf040e0f50c,Turkey vs Italy,h2h,,FanDuel,Italy,2.5000
+2026-09-28T14:08:16+00:00,058603d04d090992dc3bbdf040e0f50c,Turkey vs Italy,h2h,,FanDuel,Turkey,2.7000
+2026-09-28T14:08:16+00:00,058603d04d090992dc3bbdf040e0f50c,Turkey vs Italy,h2h,,FanDuel,Draw,3.5000
+2026-09-28T14:08:16+00:00,058603d04d090992dc3bbdf040e0f50c,Turkey vs Italy,h2h,,BetRivers,Italy,2.4800
+2026-09-28T14:08:16+00:00,058603d04d090992dc3bbdf040e0f50c,Turkey vs Italy,h2h,,BetRivers,Turkey,2.6000
+2026-09-28T14:08:16+00:00,058603d04d090992dc3bbdf040e0f50c,Turkey vs Italy,h2h,,BetRivers,Draw,3.4500
+2026-09-28T14:08:16+00:00,058603d04d090992dc3bbdf040e0f50c,Turkey vs Italy,h2h,,DraftKings,Italy,2.4500
+2026-09-28T14:08:16+00:00,058603d04d090992dc3bbdf040e0f50c,Turkey vs Italy,h2h,,DraftKings,Turkey,2.6000
+2026-09-28T14:08:16+00:00,058603d04d090992dc3bbdf040e0f50c,Turkey vs Italy,h2h,,DraftKings,Draw,3.4500
+2026-09-28T14:08:16+00:00,058603d04d090992dc3bbdf040e0f50c,Turkey vs Italy,h2h,,Bovada,Italy,2.4600
+2026-09-28T14:08:16+00:00,058603d04d090992dc3bbdf040e0f50c,Turkey vs Italy,h2h,,Bovada,Turkey,2.7200
+2026-09-28T14:08:16+00:00,058603d04d090992dc3bbdf040e0f50c,Turkey vs Italy,h2h,,Bovada,Draw,3.4500
+2026-09-28T14:08:16+00:00,058603d04d090992dc3bbdf040e0f50c,Turkey vs Italy,totals,2.5,BetRivers,Over +2.5,1.6300
+2026-09-28T14:08:16+00:00,058603d04d090992dc3bbdf040e0f50c,Turkey vs Italy,totals,2.5,BetRivers,Under +2.5,2.2000
+2026-09-28T14:08:16+00:00,058603d04d090992dc3bbdf040e0f50c,Turkey vs Italy,totals,3.0,Bovada,Over +3,2.0000
+2026-09-28T14:08:16+00:00,058603d04d090992dc3bbdf040e0f50c,Turkey vs Italy,totals,3.0,Bovada,Under +3,1.8300
+2026-09-28T14:08:16+00:00,058603d04d090992dc3bbdf040e0f50c,Turkey vs Italy,spreads,0.0,Bovada,Italy +0,1.8200
+2026-09-28T14:08:16+00:00,058603d04d090992dc3bbdf040e0f50c,Turkey vs Italy,spreads,0.0,Bovada,Turkey +0,2.0200
+2026-09-28T14:08:16+00:00,8d7b8ce34cb79368b97c0e14cefe817c,Sweden vs Poland,h2h,,BetRivers,Poland,3.6000
+2026-09-28T14:08:16+00:00,8d7b8ce34cb79368b97c0e14cefe817c,Sweden vs Poland,h2h,,BetRivers,Sweden,1.9200
+2026-09-28T14:08:16+00:00,8d7b8ce34cb79368b97c0e14cefe817c,Sweden vs Poland,h2h,,BetRivers,Draw,3.5000
+2026-09-28T14:08:16+00:00,8d7b8ce34cb79368b97c0e14cefe817c,Sweden vs Poland,h2h,,FanDuel,Poland,3.6000
+2026-09-28T14:08:16+00:00,8d7b8ce34cb79368b97c0e14cefe817c,Sweden vs Poland,h2h,,FanDuel,Sweden,1.9100
+2026-09-28T14:08:16+00:00,8d7b8ce34cb79368b97c0e14cefe817c,Sweden vs Poland,h2h,,FanDuel,Draw,3.6000
+2026-09-28T14:08:16+00:00,8d7b8ce34cb79368b97c0e14cefe817c,Sweden vs Poland,h2h,,DraftKings,Poland,3.6000
+2026-09-28T14:08:16+00:00,8d7b8ce34cb79368b97c0e14cefe817c,Sweden vs Poland,h2h,,DraftKings,Sweden,1.9100
+2026-09-28T14:08:16+00:00,8d7b8ce34cb79368b97c0e14cefe817c,Sweden vs Poland,h2h,,DraftKings,Draw,3.6500
+2026-09-28T14:08:16+00:00,8d7b8ce34cb79368b97c0e14cefe817c,Sweden vs Poland,h2h,,Bovada,Poland,3.7000
+2026-09-28T14:08:16+00:00,8d7b8ce34cb79368b97c0e14cefe817c,Sweden vs Poland,h2h,,Bovada,Sweden,1.9000
+2026-09-28T14:08:16+00:00,8d7b8ce34cb79368b97c0e14cefe817c,Sweden vs Poland,h2h,,Bovada,Draw,3.7500
+2026-09-28T14:08:16+00:00,8d7b8ce34cb79368b97c0e14cefe817c,Sweden vs Poland,totals,2.5,BetRivers,Over +2.5,1.6400
+2026-09-28T14:08:16+00:00,8d7b8ce34cb79368b97c0e14cefe817c,Sweden vs Poland,totals,2.5,BetRivers,Under +2.5,2.1700
+2026-09-28T14:08:16+00:00,8d7b8ce34cb79368b97c0e14cefe817c,Sweden vs Poland,totals,3.0,Bovada,Over +3,2.0200
+2026-09-28T14:08:16+00:00,8d7b8ce34cb79368b97c0e14cefe817c,Sweden vs Poland,totals,3.0,Bovada,Under +3,1.8200
+2026-09-28T14:08:16+00:00,8d7b8ce34cb79368b97c0e14cefe817c,Sweden vs Poland,spreads,0.5,Bovada,Poland +0.5,1.9100
+2026-09-28T14:08:16+00:00,8d7b8ce34cb79368b97c0e14cefe817c,Sweden vs Poland,spreads,-0.5,Bovada,Sweden -0.5,1.9100
+2026-09-28T14:08:16+00:00,52ddb81b6601824c1444b86aac5f8902,Leganés vs CD Castellón,h2h,,FanDuel,CD Castellón,2.2000
+2026-09-28T14:08:16+00:00,52ddb81b6601824c1444b86aac5f8902,Leganés vs CD Castellón,h2h,,FanDuel,Leganés,3.2000
+2026-09-28T14:08:16+00:00,52ddb81b6601824c1444b86aac5f8902,Leganés vs CD Castellón,h2h,,FanDuel,Draw,3.2000
+2026-09-28T14:08:16+00:00,52ddb81b6601824c1444b86aac5f8902,Leganés vs CD Castellón,h2h,,Bovada,CD Castellón,2.2100
+2026-09-28T14:08:16+00:00,52ddb81b6601824c1444b86aac5f8902,Leganés vs CD Castellón,h2h,,Bovada,Leganés,3.1500
+2026-09-28T14:08:16+00:00,52ddb81b6601824c1444b86aac5f8902,Leganés vs CD Castellón,h2h,,Bovada,Draw,3.1500
+2026-09-28T14:08:16+00:00,52ddb81b6601824c1444b86aac5f8902,Leganés vs CD Castellón,h2h,,DraftKings,CD Castellón,2.3000
+2026-09-28T14:08:16+00:00,52ddb81b6601824c1444b86aac5f8902,Leganés vs CD Castellón,h2h,,DraftKings,Leganés,3.1000
+2026-09-28T14:08:16+00:00,52ddb81b6601824c1444b86aac5f8902,Leganés vs CD Castellón,h2h,,DraftKings,Draw,3.3500
+2026-09-28T14:08:16+00:00,52ddb81b6601824c1444b86aac5f8902,Leganés vs CD Castellón,h2h,,BetMGM,CD Castellón,2.2000
+2026-09-28T14:08:16+00:00,52ddb81b6601824c1444b86aac5f8902,Leganés vs CD Castellón,h2h,,BetMGM,Leganés,3.0000
+2026-09-28T14:08:16+00:00,52ddb81b6601824c1444b86aac5f8902,Leganés vs CD Castellón,h2h,,BetMGM,Draw,3.2000
+2026-09-28T14:08:16+00:00,52ddb81b6601824c1444b86aac5f8902,Leganés vs CD Castellón,h2h,,BetOnline.ag,CD Castellón,2.2600
+2026-09-28T14:08:16+00:00,52ddb81b6601824c1444b86aac5f8902,Leganés vs CD Castellón,h2h,,BetOnline.ag,Leganés,3.1500
+2026-09-28T14:08:16+00:00,52ddb81b6601824c1444b86aac5f8902,Leganés vs CD Castellón,h2h,,BetOnline.ag,Draw,3.2500
+2026-09-28T14:08:16+00:00,52ddb81b6601824c1444b86aac5f8902,Leganés vs CD Castellón,h2h,,LowVig.ag,CD Castellón,2.2600
+2026-09-28T14:08:16+00:00,52ddb81b6601824c1444b86aac5f8902,Leganés vs CD Castellón,h2h,,LowVig.ag,Leganés,3.1500
+2026-09-28T14:08:16+00:00,52ddb81b6601824c1444b86aac5f8902,Leganés vs CD Castellón,h2h,,LowVig.ag,Draw,3.2500
+2026-09-28T14:08:16+00:00,52ddb81b6601824c1444b86aac5f8902,Leganés vs CD Castellón,spreads,-0.25,Bovada,CD Castellón -0.25,1.9300
+2026-09-28T14:08:16+00:00,52ddb81b6601824c1444b86aac5f8902,Leganés vs CD Castellón,spreads,0.25,Bovada,Leganés +0.25,1.8900
+2026-09-28T14:08:16+00:00,52ddb81b6601824c1444b86aac5f8902,Leganés vs CD Castellón,spreads,-0.25,BetOnline.ag,CD Castellón -0.25,1.9300
+2026-09-28T14:08:16+00:00,52ddb81b6601824c1444b86aac5f8902,Leganés vs CD Castellón,spreads,0.25,BetOnline.ag,Leganés +0.25,1.8600
+2026-09-28T14:08:16+00:00,52ddb81b6601824c1444b86aac5f8902,Leganés vs CD Castellón,spreads,-0.25,LowVig.ag,CD Castellón -0.25,1.9300
+2026-09-28T14:08:16+00:00,52ddb81b6601824c1444b86aac5f8902,Leganés vs CD Castellón,spreads,0.25,LowVig.ag,Leganés +0.25,1.8600
+2026-09-28T14:08:16+00:00,52ddb81b6601824c1444b86aac5f8902,Leganés vs CD Castellón,totals,2.5,Bovada,Over +2.5,1.8900
+2026-09-28T14:08:16+00:00,52ddb81b6601824c1444b86aac5f8902,Leganés vs CD Castellón,totals,2.5,Bovada,Under +2.5,1.9300
+2026-09-28T14:08:16+00:00,52ddb81b6601824c1444b86aac5f8902,Leganés vs CD Castellón,totals,2.5,BetMGM,Over +2.5,1.8500
+2026-09-28T14:08:16+00:00,52ddb81b6601824c1444b86aac5f8902,Leganés vs CD Castellón,totals,2.5,BetMGM,Under +2.5,1.8300
+2026-09-28T14:08:16+00:00,52ddb81b6601824c1444b86aac5f8902,Leganés vs CD Castellón,totals,2.5,BetOnline.ag,Over +2.5,1.8800
+2026-09-28T14:08:16+00:00,52ddb81b6601824c1444b86aac5f8902,Leganés vs CD Castellón,totals,2.5,BetOnline.ag,Under +2.5,1.8900
+2026-09-28T14:08:16+00:00,52ddb81b6601824c1444b86aac5f8902,Leganés vs CD Castellón,totals,2.5,LowVig.ag,Over +2.5,1.8800
+2026-09-28T14:08:16+00:00,52ddb81b6601824c1444b86aac5f8902,Leganés vs CD Castellón,totals,2.5,LowVig.ag,Under +2.5,1.8900
+2026-09-28T14:08:16+00:00,85d0ae4182e33400225282755274fdb3,América Mineiro vs Juventude,h2h,,BetRivers,América Mineiro,3.9000
+2026-09-28T14:08:16+00:00,85d0ae4182e33400225282755274fdb3,América Mineiro vs Juventude,h2h,,BetRivers,Juventude,1.8800
+2026-09-28T14:08:16+00:00,85d0ae4182e33400225282755274fdb3,América Mineiro vs Juventude,h2h,,BetRivers,Draw,3.2000
+2026-09-28T14:08:16+00:00,85d0ae4182e33400225282755274fdb3,América Mineiro vs Juventude,h2h,,FanDuel,América Mineiro,4.0000
+2026-09-28T14:08:16+00:00,85d0ae4182e33400225282755274fdb3,América Mineiro vs Juventude,h2h,,FanDuel,Juventude,1.8700
+2026-09-28T14:08:16+00:00,85d0ae4182e33400225282755274fdb3,América Mineiro vs Juventude,h2h,,FanDuel,Draw,3.3000
+2026-09-28T14:08:16+00:00,85d0ae4182e33400225282755274fdb3,América Mineiro vs Juventude,h2h,,BetMGM,América Mineiro,3.8000
+2026-09-28T14:08:16+00:00,85d0ae4182e33400225282755274fdb3,América Mineiro vs Juventude,h2h,,BetMGM,Juventude,1.9100
+2026-09-28T14:08:16+00:00,85d0ae4182e33400225282755274fdb3,América Mineiro vs Juventude,h2h,,BetMGM,Draw,3.2500
+2026-09-28T14:08:16+00:00,85d0ae4182e33400225282755274fdb3,América Mineiro vs Juventude,h2h,,DraftKings,América Mineiro,4.2000
+2026-09-28T14:08:16+00:00,85d0ae4182e33400225282755274fdb3,América Mineiro vs Juventude,h2h,,DraftKings,Juventude,1.9100
+2026-09-28T14:08:16+00:00,85d0ae4182e33400225282755274fdb3,América Mineiro vs Juventude,h2h,,DraftKings,Draw,3.4000
+2026-09-28T14:08:16+00:00,85d0ae4182e33400225282755274fdb3,América Mineiro vs Juventude,h2h,,LowVig.ag,América Mineiro,4.4000
+2026-09-28T14:08:16+00:00,85d0ae4182e33400225282755274fdb3,América Mineiro vs Juventude,h2h,,LowVig.ag,Juventude,1.8800
+2026-09-28T14:08:16+00:00,85d0ae4182e33400225282755274fdb3,América Mineiro vs Juventude,h2h,,LowVig.ag,Draw,3.3000
+2026-09-28T14:08:16+00:00,85d0ae4182e33400225282755274fdb3,América Mineiro vs Juventude,h2h,,BetOnline.ag,América Mineiro,4.4000
+2026-09-28T14:08:16+00:00,85d0ae4182e33400225282755274fdb3,América Mineiro vs Juventude,h2h,,BetOnline.ag,Juventude,1.8800
+2026-09-28T14:08:16+00:00,85d0ae4182e33400225282755274fdb3,América Mineiro vs Juventude,h2h,,BetOnline.ag,Draw,3.3000
+2026-09-28T14:08:16+00:00,85d0ae4182e33400225282755274fdb3,América Mineiro vs Juventude,h2h,,BetUS,América Mineiro,4.4000
+2026-09-28T14:08:16+00:00,85d0ae4182e33400225282755274fdb3,América Mineiro vs Juventude,h2h,,BetUS,Juventude,1.8700
+2026-09-28T14:08:16+00:00,85d0ae4182e33400225282755274fdb3,América Mineiro vs Juventude,h2h,,BetUS,Draw,3.3000
+2026-09-28T14:08:16+00:00,85d0ae4182e33400225282755274fdb3,América Mineiro vs Juventude,h2h,,Bovada,América Mineiro,4.2000
+2026-09-28T14:08:16+00:00,85d0ae4182e33400225282755274fdb3,América Mineiro vs Juventude,h2h,,Bovada,Juventude,1.8500
+2026-09-28T14:08:16+00:00,85d0ae4182e33400225282755274fdb3,América Mineiro vs Juventude,h2h,,Bovada,Draw,3.2500
+2026-09-28T14:08:16+00:00,85d0ae4182e33400225282755274fdb3,América Mineiro vs Juventude,totals,2.5,BetRivers,Over +2.5,2.1200
+2026-09-28T14:08:16+00:00,85d0ae4182e33400225282755274fdb3,América Mineiro vs Juventude,totals,2.5,BetRivers,Under +2.5,1.6500
+2026-09-28T14:08:16+00:00,85d0ae4182e33400225282755274fdb3,América Mineiro vs Juventude,totals,2.5,BetMGM,Over +2.5,2.1500
+2026-09-28T14:08:16+00:00,85d0ae4182e33400225282755274fdb3,América Mineiro vs Juventude,totals,2.5,BetMGM,Under +2.5,1.6200
+2026-09-28T14:08:16+00:00,85d0ae4182e33400225282755274fdb3,América Mineiro vs Juventude,totals,2.25,LowVig.ag,Over +2.25,1.8800
+2026-09-28T14:08:16+00:00,85d0ae4182e33400225282755274fdb3,América Mineiro vs Juventude,totals,2.25,LowVig.ag,Under +2.25,1.8100
+2026-09-28T14:08:16+00:00,85d0ae4182e33400225282755274fdb3,América Mineiro vs Juventude,totals,2.25,BetOnline.ag,Over +2.25,1.8800
+2026-09-28T14:08:16+00:00,85d0ae4182e33400225282755274fdb3,América Mineiro vs Juventude,totals,2.25,BetOnline.ag,Under +2.25,1.8100
+2026-09-28T14:08:16+00:00,85d0ae4182e33400225282755274fdb3,América Mineiro vs Juventude,totals,2.25,BetUS,Over +2.25,1.8700
+2026-09-28T14:08:16+00:00,85d0ae4182e33400225282755274fdb3,América Mineiro vs Juventude,totals,2.25,BetUS,Under +2.25,1.9100
+2026-09-28T14:08:16+00:00,85d0ae4182e33400225282755274fdb3,América Mineiro vs Juventude,totals,2.25,Bovada,Over +2.25,1.8900
+2026-09-28T14:08:16+00:00,85d0ae4182e33400225282755274fdb3,América Mineiro vs Juventude,totals,2.25,Bovada,Under +2.25,1.8500
+2026-09-28T14:08:16+00:00,85d0ae4182e33400225282755274fdb3,América Mineiro vs Juventude,spreads,0.5,BetUS,América Mineiro +0.5,1.8900
+2026-09-28T14:08:16+00:00,85d0ae4182e33400225282755274fdb3,América Mineiro vs Juventude,spreads,-0.5,BetUS,Juventude -0.5,1.8500
+2026-09-28T14:08:16+00:00,85d0ae4182e33400225282755274fdb3,América Mineiro vs Juventude,spreads,0.5,Bovada,América Mineiro +0.5,1.8900
+2026-09-28T14:08:16+00:00,85d0ae4182e33400225282755274fdb3,América Mineiro vs Juventude,spreads,-0.5,Bovada,Juventude -0.5,1.8500
