@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-28T14:08:16.277411+00:00",
+  "generado": "2026-09-29T14:07:30.897911+00:00",
   "resumen": {
     "n": 0,
     "ev_promedio": 0.0,
@@ -7,76 +7,12 @@
     "por_deporte": {}
   },
   "avisos": [
-    "modelo futbol: 502 Server Error: Bad Gateway for url: http://api.clubelo.com/2026-09-28 (sigue el detector de mercado)",
-    "créditos: 250/500 del mes (esta corrida gastó 12)"
+    "modelo futbol: 502 Server Error: Bad Gateway for url: http://api.clubelo.com/2026-09-29 (sigue el detector de mercado)",
+    "créditos: 259/500 del mes (esta corrida gastó 9)"
   ],
-  "eventos": 11,
+  "eventos": 15,
   "jugadas": [],
   "movimientos": [],
   "arbitrajes": [],
-  "middles": [
-    {
-      "evento": "Chicago Bears vs Philadelphia Eagles",
-      "liga": "NFL",
-      "inicio": "2026-09-29T00:15:00Z",
-      "mercado": "spreads",
-      "ventana": "margen del local entre -4.5 y -3.5",
-      "ancho": 1.0,
-      "pata_a": {
-        "seleccion": "Chicago Bears +4.5",
-        "casa": "BetRivers",
-        "momio_dec": 1.88
-      },
-      "pata_b": {
-        "seleccion": "Philadelphia Eagles -3.5",
-        "casa": "LowVig.ag",
-        "momio_dec": 1.92
-      },
-      "ganancia": 0.9,
-      "perdida": -0.04,
-      "prob_necesaria": 0.0426
-    },
-    {
-      "evento": "Chicago Bears vs Philadelphia Eagles",
-      "liga": "NFL",
-      "inicio": "2026-09-29T00:15:00Z",
-      "mercado": "spreads",
-      "ventana": "margen del local entre -4.5 y -3.5",
-      "ancho": 1.0,
-      "pata_a": {
-        "seleccion": "Chicago Bears +4.5",
-        "casa": "BetRivers",
-        "momio_dec": 1.88
-      },
-      "pata_b": {
-        "seleccion": "Philadelphia Eagles -3.5",
-        "casa": "MyBookie.ag",
-        "momio_dec": 1.91
-      },
-      "ganancia": 0.895,
-      "perdida": -0.045,
-      "prob_necesaria": 0.0479
-    },
-    {
-      "evento": "Chicago Bears vs Philadelphia Eagles",
-      "liga": "NFL",
-      "inicio": "2026-09-29T00:15:00Z",
-      "mercado": "spreads",
-      "ventana": "margen del local entre -4.5 y -3.5",
-      "ancho": 1.0,
-      "pata_a": {
-        "seleccion": "Chicago Bears +4.5",
-        "casa": "BetRivers",
-        "momio_dec": 1.88
-      },
-      "pata_b": {
-        "seleccion": "Philadelphia Eagles -3.5",
-        "casa": "DraftKings",
-        "momio_dec": 1.89
-      },
-      "ganancia": 0.885,
-      "perdida": -0.055,
-      "prob_necesaria": 0.0585
-    }
-  ]
+  "middles": []
 }
