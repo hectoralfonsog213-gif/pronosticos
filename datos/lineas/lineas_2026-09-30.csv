@@ -1,0 +1,52 @@
+ts,evento_id,evento,mercado,punto,casa,seleccion,decimal
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,h2h,,FanDuel,New York Red Bulls,3.5000
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,h2h,,FanDuel,St. Louis City SC,1.8700
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,h2h,,FanDuel,Draw,4.1000
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,h2h,,LowVig.ag,New York Red Bulls,3.5000
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,h2h,,LowVig.ag,St. Louis City SC,1.9400
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,h2h,,LowVig.ag,Draw,4.2700
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,h2h,,BetOnline.ag,New York Red Bulls,3.5000
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,h2h,,BetOnline.ag,St. Louis City SC,1.9400
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,h2h,,BetOnline.ag,Draw,4.2700
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,h2h,,MyBookie.ag,New York Red Bulls,3.4800
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,h2h,,MyBookie.ag,St. Louis City SC,1.9000
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,h2h,,MyBookie.ag,Draw,4.0000
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,h2h,,BetMGM,New York Red Bulls,3.5000
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,h2h,,BetMGM,St. Louis City SC,1.8900
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,h2h,,BetMGM,Draw,3.9000
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,h2h,,DraftKings,New York Red Bulls,3.4000
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,h2h,,DraftKings,St. Louis City SC,1.8700
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,h2h,,DraftKings,Draw,4.0000
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,h2h,,BetRivers,New York Red Bulls,3.5000
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,h2h,,BetRivers,St. Louis City SC,1.8700
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,h2h,,BetRivers,Draw,3.9000
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,h2h,,BetUS,New York Red Bulls,3.4000
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,h2h,,BetUS,St. Louis City SC,1.9000
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,h2h,,BetUS,Draw,4.2000
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,h2h,,Bovada,New York Red Bulls,3.4500
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,h2h,,Bovada,St. Louis City SC,1.8700
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,h2h,,Bovada,Draw,4.1500
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,spreads,0.5,LowVig.ag,New York Red Bulls +0.5,1.8700
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,spreads,-0.5,LowVig.ag,St. Louis City SC -0.5,1.9400
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,spreads,0.5,BetOnline.ag,New York Red Bulls +0.5,1.8700
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,spreads,-0.5,BetOnline.ag,St. Louis City SC -0.5,1.9400
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,spreads,0.5,MyBookie.ag,New York Red Bulls +0.5,1.8700
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,spreads,-0.5,MyBookie.ag,St. Louis City SC -0.5,1.8700
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,spreads,0.5,BetUS,New York Red Bulls +0.5,1.8700
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,spreads,-0.5,BetUS,St. Louis City SC -0.5,1.8700
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,spreads,0.5,Bovada,New York Red Bulls +0.5,1.9500
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,spreads,-0.5,Bovada,St. Louis City SC -0.5,1.8700
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,totals,3.5,LowVig.ag,Over +3.5,2.0500
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,totals,3.5,LowVig.ag,Under +3.5,1.7400
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,totals,3.5,BetOnline.ag,Over +3.5,2.0500
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,totals,3.5,BetOnline.ag,Under +3.5,1.7400
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,totals,3.0,MyBookie.ag,Over +3,1.7000
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,totals,3.0,MyBookie.ag,Under +3,2.0800
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,totals,3.5,BetMGM,Over +3.5,2.0500
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,totals,3.5,BetMGM,Under +3.5,1.6700
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,totals,3.5,BetRivers,Over +3.5,2.1000
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,totals,3.5,BetRivers,Under +3.5,1.7100
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,totals,3.5,BetUS,Over +3.5,2.0500
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,totals,3.5,BetUS,Under +3.5,1.7400
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,totals,3.25,Bovada,Over +3.25,1.9300
+2026-09-30T14:08:49+00:00,49ef4ef7906ae352c937b46ce34a5493,New York Red Bulls vs St. Louis City SC,totals,3.25,Bovada,Under +3.25,1.8900

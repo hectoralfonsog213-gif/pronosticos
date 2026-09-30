@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-29T14:07:30.897911+00:00",
+  "generado": "2026-09-30T14:08:49.164375+00:00",
   "resumen": {
     "n": 0,
     "ev_promedio": 0.0,
@@ -7,10 +7,11 @@
     "por_deporte": {}
   },
   "avisos": [
-    "modelo futbol: 502 Server Error: Bad Gateway for url: http://api.clubelo.com/2026-09-29 (sigue el detector de mercado)",
-    "créditos: 259/500 del mes (esta corrida gastó 9)"
+    "momios baseball_mlb: Cuota agotada en The Odds API. Espera al proximo ciclo o sube de plan.",
+    "modelo futbol: 502 Server Error: Bad Gateway for url: http://api.clubelo.com/2026-09-30 (sigue el detector de mercado)",
+    "créditos: 262/500 del mes (esta corrida gastó 6)"
   ],
-  "eventos": 15,
+  "eventos": 1,
   "jugadas": [],
   "movimientos": [],
   "arbitrajes": [],
