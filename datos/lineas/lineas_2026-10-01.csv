@@ -1,0 +1,469 @@
+ts,evento_id,evento,mercado,punto,casa,seleccion,decimal
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,h2h,,FanDuel,Atlanta Braves,1.9400
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,h2h,,FanDuel,Philadelphia Phillies,1.9100
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,h2h,,BetMGM,Atlanta Braves,1.9500
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,h2h,,BetMGM,Philadelphia Phillies,1.8700
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,h2h,,Bovada,Atlanta Braves,1.9200
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,h2h,,Bovada,Philadelphia Phillies,1.9000
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,h2h,,LowVig.ag,Atlanta Braves,1.9700
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,h2h,,LowVig.ag,Philadelphia Phillies,1.9300
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,h2h,,BetOnline.ag,Atlanta Braves,1.9700
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,h2h,,BetOnline.ag,Philadelphia Phillies,1.9300
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,h2h,,DraftKings,Atlanta Braves,1.9800
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,h2h,,DraftKings,Philadelphia Phillies,1.8500
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,h2h,,BetRivers,Atlanta Braves,1.9500
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,h2h,,BetRivers,Philadelphia Phillies,1.8800
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,h2h,,MyBookie.ag,Atlanta Braves,1.9700
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,h2h,,MyBookie.ag,Philadelphia Phillies,1.8800
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,h2h,,BetUS,Atlanta Braves,1.9800
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,h2h,,BetUS,Philadelphia Phillies,1.9300
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,spreads,1.5,FanDuel,Atlanta Braves +1.5,1.5100
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,spreads,-1.5,FanDuel,Philadelphia Phillies -1.5,2.6200
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,spreads,1.5,Bovada,Atlanta Braves +1.5,1.5400
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,spreads,-1.5,Bovada,Philadelphia Phillies -1.5,2.6000
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,spreads,1.5,LowVig.ag,Atlanta Braves +1.5,1.5400
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,spreads,-1.5,LowVig.ag,Philadelphia Phillies -1.5,2.6200
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,spreads,1.5,BetOnline.ag,Atlanta Braves +1.5,1.5400
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,spreads,-1.5,BetOnline.ag,Philadelphia Phillies -1.5,2.6100
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,spreads,1.5,DraftKings,Atlanta Braves +1.5,1.5700
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,spreads,-1.5,DraftKings,Philadelphia Phillies -1.5,2.4400
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,spreads,1.5,BetRivers,Atlanta Braves +1.5,1.5600
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,spreads,-1.5,BetRivers,Philadelphia Phillies -1.5,2.4500
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,spreads,1.5,MyBookie.ag,Atlanta Braves +1.5,1.5600
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,spreads,-1.5,MyBookie.ag,Philadelphia Phillies -1.5,2.5400
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,spreads,1.5,BetUS,Atlanta Braves +1.5,1.5400
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,spreads,-1.5,BetUS,Philadelphia Phillies -1.5,2.6000
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,totals,7.5,FanDuel,Over +7.5,1.9600
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,totals,7.5,FanDuel,Under +7.5,1.8500
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,totals,7.5,BetMGM,Over +7.5,2.0000
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,totals,7.5,BetMGM,Under +7.5,1.8300
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,totals,7.5,Bovada,Over +7.5,1.9500
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,totals,7.5,Bovada,Under +7.5,1.8700
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,totals,7.5,LowVig.ag,Over +7.5,2.0300
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,totals,7.5,LowVig.ag,Under +7.5,1.8500
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,totals,7.5,BetOnline.ag,Over +7.5,2.0000
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,totals,7.5,BetOnline.ag,Under +7.5,1.8300
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,totals,7.5,DraftKings,Over +7.5,2.0000
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,totals,7.5,DraftKings,Under +7.5,1.8300
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,totals,7.5,BetRivers,Over +7.5,1.9300
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,totals,7.5,BetRivers,Under +7.5,1.8800
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,totals,7.5,MyBookie.ag,Over +7.5,1.9800
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,totals,7.5,MyBookie.ag,Under +7.5,1.8300
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,totals,7.5,BetUS,Over +7.5,2.0000
+2026-10-01T14:08:06+00:00,5524c44b05e28aa899909c9e001184ec,Atlanta Braves vs Philadelphia Phillies,totals,7.5,BetUS,Under +7.5,1.8300
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,h2h,,DraftKings,Cleveland Browns,2.2400
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,h2h,,DraftKings,Pittsburgh Steelers,1.6800
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,h2h,,BetUS,Cleveland Browns,2.2900
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,h2h,,BetUS,Pittsburgh Steelers,1.6700
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,h2h,,FanDuel,Cleveland Browns,2.2200
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,h2h,,FanDuel,Pittsburgh Steelers,1.6900
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,h2h,,MyBookie.ag,Cleveland Browns,2.2800
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,h2h,,MyBookie.ag,Pittsburgh Steelers,1.6600
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,h2h,,BetOnline.ag,Cleveland Browns,2.3200
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,h2h,,BetOnline.ag,Pittsburgh Steelers,1.6600
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,h2h,,LowVig.ag,Cleveland Browns,2.3200
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,h2h,,LowVig.ag,Pittsburgh Steelers,1.6600
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,h2h,,BetRivers,Cleveland Browns,2.2300
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,h2h,,BetRivers,Pittsburgh Steelers,1.6800
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,h2h,,Bovada,Cleveland Browns,2.2500
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,h2h,,Bovada,Pittsburgh Steelers,1.6900
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,h2h,,BetMGM,Cleveland Browns,2.2500
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,h2h,,BetMGM,Pittsburgh Steelers,1.6700
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,spreads,2.5,DraftKings,Cleveland Browns +2.5,2.0000
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,spreads,-2.5,DraftKings,Pittsburgh Steelers -2.5,1.8300
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,spreads,3.0,BetUS,Cleveland Browns +3,1.8300
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,spreads,-3.0,BetUS,Pittsburgh Steelers -3,2.0000
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,spreads,2.5,FanDuel,Cleveland Browns +2.5,1.9800
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,spreads,-2.5,FanDuel,Pittsburgh Steelers -2.5,1.8300
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,spreads,3.0,MyBookie.ag,Cleveland Browns +3,1.8700
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,spreads,-3.0,MyBookie.ag,Pittsburgh Steelers -3,1.9500
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,spreads,3.0,BetOnline.ag,Cleveland Browns +3,1.8300
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,spreads,-3.0,BetOnline.ag,Pittsburgh Steelers -3,2.0000
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,spreads,2.5,LowVig.ag,Cleveland Browns +2.5,2.0500
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,spreads,-2.5,LowVig.ag,Pittsburgh Steelers -2.5,1.8600
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,spreads,3.0,BetRivers,Cleveland Browns +3,1.8500
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,spreads,-3.0,BetRivers,Pittsburgh Steelers -3,1.9600
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,spreads,2.5,Bovada,Cleveland Browns +2.5,2.0000
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,spreads,-2.5,Bovada,Pittsburgh Steelers -2.5,1.8300
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,spreads,3.0,BetMGM,Cleveland Browns +3,1.8500
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,spreads,-3.0,BetMGM,Pittsburgh Steelers -3,1.9800
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,totals,38.5,DraftKings,Over +38.5,1.9500
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,totals,38.5,DraftKings,Under +38.5,1.8700
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,totals,38.5,BetUS,Over +38.5,1.9100
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,totals,38.5,BetUS,Under +38.5,1.9100
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,totals,38.5,FanDuel,Over +38.5,1.9500
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,totals,38.5,FanDuel,Under +38.5,1.8700
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,totals,38.5,MyBookie.ag,Over +38.5,1.9100
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,totals,38.5,MyBookie.ag,Under +38.5,1.9100
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,totals,38.5,BetOnline.ag,Over +38.5,1.9100
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,totals,38.5,BetOnline.ag,Under +38.5,1.9100
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,totals,38.5,LowVig.ag,Over +38.5,1.9300
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,totals,38.5,LowVig.ag,Under +38.5,1.9300
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,totals,38.0,BetRivers,Over +38,1.9100
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,totals,38.0,BetRivers,Under +38,1.9100
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,totals,38.5,Bovada,Over +38.5,1.9100
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,totals,38.5,Bovada,Under +38.5,1.9100
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,totals,38.5,BetMGM,Over +38.5,1.9300
+2026-10-01T14:08:06+00:00,d55cb69fed50a09170560b5b75d8de86,Cleveland Browns vs Pittsburgh Steelers,totals,38.5,BetMGM,Under +38.5,1.9100
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,h2h,,MyBookie.ag,Seattle Sounders FC,1.5000
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,h2h,,MyBookie.ag,Sporting Kansas City,5.5000
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,h2h,,MyBookie.ag,Draw,4.8000
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,h2h,,FanDuel,Seattle Sounders FC,1.4800
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,h2h,,FanDuel,Sporting Kansas City,5.7000
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,h2h,,FanDuel,Draw,4.6000
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,h2h,,BetMGM,Seattle Sounders FC,1.5000
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,h2h,,BetMGM,Sporting Kansas City,5.2500
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,h2h,,BetMGM,Draw,4.8000
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,h2h,,BetRivers,Seattle Sounders FC,1.4800
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,h2h,,BetRivers,Sporting Kansas City,5.6000
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,h2h,,BetRivers,Draw,4.6000
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,h2h,,LowVig.ag,Seattle Sounders FC,1.4700
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,h2h,,LowVig.ag,Sporting Kansas City,5.6700
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,h2h,,LowVig.ag,Draw,5.1000
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,h2h,,BetOnline.ag,Seattle Sounders FC,1.4700
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,h2h,,BetOnline.ag,Sporting Kansas City,5.6700
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,h2h,,BetOnline.ag,Draw,5.1000
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,h2h,,Bovada,Seattle Sounders FC,1.5000
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,h2h,,Bovada,Sporting Kansas City,5.2500
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,h2h,,Bovada,Draw,4.9000
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,h2h,,DraftKings,Seattle Sounders FC,1.4900
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,h2h,,DraftKings,Sporting Kansas City,5.0000
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,h2h,,DraftKings,Draw,4.7000
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,h2h,,BetUS,Seattle Sounders FC,1.4800
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,h2h,,BetUS,Sporting Kansas City,5.6500
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,h2h,,BetUS,Draw,5.1000
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,spreads,-1.5,MyBookie.ag,Seattle Sounders FC -1.5,2.1500
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,spreads,1.5,MyBookie.ag,Sporting Kansas City +1.5,1.6500
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,spreads,-1.0,LowVig.ag,Seattle Sounders FC -1,1.7400
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,spreads,1.0,LowVig.ag,Sporting Kansas City +1,2.0500
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,spreads,-1.0,BetOnline.ag,Seattle Sounders FC -1,1.7400
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,spreads,1.0,BetOnline.ag,Sporting Kansas City +1,2.0500
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,spreads,-1.25,Bovada,Seattle Sounders FC -1.25,2.0200
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,spreads,1.25,Bovada,Sporting Kansas City +1.25,1.8200
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,spreads,-1.0,BetUS,Seattle Sounders FC -1,1.7400
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,spreads,1.0,BetUS,Sporting Kansas City +1,2.0500
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,totals,3.5,MyBookie.ag,Over +3.5,1.8900
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,totals,3.5,MyBookie.ag,Under +3.5,1.8500
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,totals,3.5,BetMGM,Over +3.5,1.8900
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,totals,3.5,BetMGM,Under +3.5,1.8000
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,totals,3.5,BetRivers,Over +3.5,1.9200
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,totals,3.5,BetRivers,Under +3.5,1.8500
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,totals,3.5,LowVig.ag,Over +3.5,1.9100
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,totals,3.5,LowVig.ag,Under +3.5,1.8600
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,totals,3.5,BetOnline.ag,Over +3.5,1.9100
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,totals,3.5,BetOnline.ag,Under +3.5,1.8600
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,totals,3.5,Bovada,Over +3.5,1.9300
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,totals,3.5,Bovada,Under +3.5,1.8900
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,totals,3.5,BetUS,Over +3.5,1.9100
+2026-10-01T14:08:06+00:00,c68442e0bfc400d8e7ee97ec662e13e0,Seattle Sounders FC vs Sporting Kansas City,totals,3.5,BetUS,Under +3.5,1.8300
+2026-10-01T14:08:06+00:00,0fc933670b2cf487a5ac2878f500492f,Azerbaijan vs Liechtenstein,h2h,,BetRivers,Azerbaijan,1.1200
+2026-10-01T14:08:06+00:00,0fc933670b2cf487a5ac2878f500492f,Azerbaijan vs Liechtenstein,h2h,,BetRivers,Liechtenstein,21.0000
+2026-10-01T14:08:06+00:00,0fc933670b2cf487a5ac2878f500492f,Azerbaijan vs Liechtenstein,h2h,,BetRivers,Draw,8.0000
+2026-10-01T14:08:06+00:00,0fc933670b2cf487a5ac2878f500492f,Azerbaijan vs Liechtenstein,h2h,,Bovada,Azerbaijan,1.0800
+2026-10-01T14:08:06+00:00,0fc933670b2cf487a5ac2878f500492f,Azerbaijan vs Liechtenstein,h2h,,Bovada,Liechtenstein,20.0000
+2026-10-01T14:08:06+00:00,0fc933670b2cf487a5ac2878f500492f,Azerbaijan vs Liechtenstein,h2h,,Bovada,Draw,9.2500
+2026-10-01T14:08:06+00:00,0fc933670b2cf487a5ac2878f500492f,Azerbaijan vs Liechtenstein,h2h,,BetMGM,Azerbaijan,1.0800
+2026-10-01T14:08:06+00:00,0fc933670b2cf487a5ac2878f500492f,Azerbaijan vs Liechtenstein,h2h,,BetMGM,Liechtenstein,36.0000
+2026-10-01T14:08:06+00:00,0fc933670b2cf487a5ac2878f500492f,Azerbaijan vs Liechtenstein,h2h,,BetMGM,Draw,9.7500
+2026-10-01T14:08:06+00:00,0fc933670b2cf487a5ac2878f500492f,Azerbaijan vs Liechtenstein,h2h,,DraftKings,Azerbaijan,1.0700
+2026-10-01T14:08:06+00:00,0fc933670b2cf487a5ac2878f500492f,Azerbaijan vs Liechtenstein,h2h,,DraftKings,Liechtenstein,26.0000
+2026-10-01T14:08:06+00:00,0fc933670b2cf487a5ac2878f500492f,Azerbaijan vs Liechtenstein,h2h,,DraftKings,Draw,9.0000
+2026-10-01T14:08:06+00:00,0fc933670b2cf487a5ac2878f500492f,Azerbaijan vs Liechtenstein,h2h,,MyBookie.ag,Azerbaijan,1.0800
+2026-10-01T14:08:06+00:00,0fc933670b2cf487a5ac2878f500492f,Azerbaijan vs Liechtenstein,h2h,,MyBookie.ag,Liechtenstein,38.0000
+2026-10-01T14:08:06+00:00,0fc933670b2cf487a5ac2878f500492f,Azerbaijan vs Liechtenstein,h2h,,MyBookie.ag,Draw,8.2000
+2026-10-01T14:08:06+00:00,0fc933670b2cf487a5ac2878f500492f,Azerbaijan vs Liechtenstein,totals,2.5,BetRivers,Over +2.5,1.6300
+2026-10-01T14:08:06+00:00,0fc933670b2cf487a5ac2878f500492f,Azerbaijan vs Liechtenstein,totals,2.5,BetRivers,Under +2.5,2.2000
+2026-10-01T14:08:06+00:00,0fc933670b2cf487a5ac2878f500492f,Azerbaijan vs Liechtenstein,totals,2.75,Bovada,Over +2.75,1.9500
+2026-10-01T14:08:06+00:00,0fc933670b2cf487a5ac2878f500492f,Azerbaijan vs Liechtenstein,totals,2.75,Bovada,Under +2.75,1.8700
+2026-10-01T14:08:06+00:00,0fc933670b2cf487a5ac2878f500492f,Azerbaijan vs Liechtenstein,totals,2.5,BetMGM,Over +2.5,1.7100
+2026-10-01T14:08:06+00:00,0fc933670b2cf487a5ac2878f500492f,Azerbaijan vs Liechtenstein,totals,2.5,BetMGM,Under +2.5,1.9800
+2026-10-01T14:08:06+00:00,0fc933670b2cf487a5ac2878f500492f,Azerbaijan vs Liechtenstein,totals,2.5,MyBookie.ag,Over +2.5,1.7500
+2026-10-01T14:08:06+00:00,0fc933670b2cf487a5ac2878f500492f,Azerbaijan vs Liechtenstein,totals,2.5,MyBookie.ag,Under +2.5,2.0100
+2026-10-01T14:08:06+00:00,0fc933670b2cf487a5ac2878f500492f,Azerbaijan vs Liechtenstein,spreads,-2.25,Bovada,Azerbaijan -2.25,1.8500
+2026-10-01T14:08:06+00:00,0fc933670b2cf487a5ac2878f500492f,Azerbaijan vs Liechtenstein,spreads,2.25,Bovada,Liechtenstein +2.25,1.9800
+2026-10-01T14:08:06+00:00,0fc933670b2cf487a5ac2878f500492f,Azerbaijan vs Liechtenstein,spreads,-2.5,MyBookie.ag,Azerbaijan -2.5,2.0800
+2026-10-01T14:08:06+00:00,0fc933670b2cf487a5ac2878f500492f,Azerbaijan vs Liechtenstein,spreads,2.5,MyBookie.ag,Liechtenstein +2.5,1.7000
+2026-10-01T14:08:06+00:00,0db832b7346f766521d9e67cd5ab1687,Republic of Ireland vs Austria,h2h,,BetRivers,Austria,2.1200
+2026-10-01T14:08:06+00:00,0db832b7346f766521d9e67cd5ab1687,Republic of Ireland vs Austria,h2h,,BetRivers,Republic of Ireland,3.5500
+2026-10-01T14:08:06+00:00,0db832b7346f766521d9e67cd5ab1687,Republic of Ireland vs Austria,h2h,,BetRivers,Draw,3.0500
+2026-10-01T14:08:06+00:00,0db832b7346f766521d9e67cd5ab1687,Republic of Ireland vs Austria,h2h,,BetMGM,Austria,2.1500
+2026-10-01T14:08:06+00:00,0db832b7346f766521d9e67cd5ab1687,Republic of Ireland vs Austria,h2h,,BetMGM,Republic of Ireland,3.5000
+2026-10-01T14:08:06+00:00,0db832b7346f766521d9e67cd5ab1687,Republic of Ireland vs Austria,h2h,,BetMGM,Draw,3.2000
+2026-10-01T14:08:06+00:00,0db832b7346f766521d9e67cd5ab1687,Republic of Ireland vs Austria,totals,2.5,BetRivers,Over +2.5,2.2800
+2026-10-01T14:08:06+00:00,0db832b7346f766521d9e67cd5ab1687,Republic of Ireland vs Austria,totals,2.5,BetRivers,Under +2.5,1.5700
+2026-10-01T14:08:06+00:00,0db832b7346f766521d9e67cd5ab1687,Republic of Ireland vs Austria,totals,2.5,BetMGM,Over +2.5,2.2000
+2026-10-01T14:08:06+00:00,0db832b7346f766521d9e67cd5ab1687,Republic of Ireland vs Austria,totals,2.5,BetMGM,Under +2.5,1.5700
+2026-10-01T14:08:06+00:00,d4cee9aa708870095e23599afb35bce0,Denmark vs Portugal,h2h,,BetRivers,Denmark,3.4500
+2026-10-01T14:08:06+00:00,d4cee9aa708870095e23599afb35bce0,Denmark vs Portugal,h2h,,BetRivers,Portugal,1.9500
+2026-10-01T14:08:06+00:00,d4cee9aa708870095e23599afb35bce0,Denmark vs Portugal,h2h,,BetRivers,Draw,3.5000
+2026-10-01T14:08:06+00:00,d4cee9aa708870095e23599afb35bce0,Denmark vs Portugal,h2h,,DraftKings,Denmark,3.3500
+2026-10-01T14:08:06+00:00,d4cee9aa708870095e23599afb35bce0,Denmark vs Portugal,h2h,,DraftKings,Portugal,2.0000
+2026-10-01T14:08:06+00:00,d4cee9aa708870095e23599afb35bce0,Denmark vs Portugal,h2h,,DraftKings,Draw,3.5500
+2026-10-01T14:08:06+00:00,d4cee9aa708870095e23599afb35bce0,Denmark vs Portugal,h2h,,Bovada,Denmark,3.4000
+2026-10-01T14:08:06+00:00,d4cee9aa708870095e23599afb35bce0,Denmark vs Portugal,h2h,,Bovada,Portugal,2.0100
+2026-10-01T14:08:06+00:00,d4cee9aa708870095e23599afb35bce0,Denmark vs Portugal,h2h,,Bovada,Draw,3.6500
+2026-10-01T14:08:06+00:00,d4cee9aa708870095e23599afb35bce0,Denmark vs Portugal,h2h,,BetMGM,Denmark,3.3000
+2026-10-01T14:08:06+00:00,d4cee9aa708870095e23599afb35bce0,Denmark vs Portugal,h2h,,BetMGM,Portugal,2.0500
+2026-10-01T14:08:06+00:00,d4cee9aa708870095e23599afb35bce0,Denmark vs Portugal,h2h,,BetMGM,Draw,3.5000
+2026-10-01T14:08:06+00:00,d4cee9aa708870095e23599afb35bce0,Denmark vs Portugal,h2h,,BetOnline.ag,Denmark,3.5000
+2026-10-01T14:08:06+00:00,d4cee9aa708870095e23599afb35bce0,Denmark vs Portugal,h2h,,BetOnline.ag,Portugal,2.0700
+2026-10-01T14:08:06+00:00,d4cee9aa708870095e23599afb35bce0,Denmark vs Portugal,h2h,,BetOnline.ag,Draw,3.7600
+2026-10-01T14:08:06+00:00,d4cee9aa708870095e23599afb35bce0,Denmark vs Portugal,h2h,,MyBookie.ag,Denmark,3.2800
+2026-10-01T14:08:06+00:00,d4cee9aa708870095e23599afb35bce0,Denmark vs Portugal,h2h,,MyBookie.ag,Portugal,2.0200
+2026-10-01T14:08:06+00:00,d4cee9aa708870095e23599afb35bce0,Denmark vs Portugal,h2h,,MyBookie.ag,Draw,3.5500
+2026-10-01T14:08:06+00:00,d4cee9aa708870095e23599afb35bce0,Denmark vs Portugal,totals,2.5,BetRivers,Over +2.5,1.6100
+2026-10-01T14:08:06+00:00,d4cee9aa708870095e23599afb35bce0,Denmark vs Portugal,totals,2.5,BetRivers,Under +2.5,2.2300
+2026-10-01T14:08:06+00:00,d4cee9aa708870095e23599afb35bce0,Denmark vs Portugal,totals,3.0,Bovada,Over +3,1.9500
+2026-10-01T14:08:06+00:00,d4cee9aa708870095e23599afb35bce0,Denmark vs Portugal,totals,3.0,Bovada,Under +3,1.8700
+2026-10-01T14:08:06+00:00,d4cee9aa708870095e23599afb35bce0,Denmark vs Portugal,totals,2.5,BetMGM,Over +2.5,1.6200
+2026-10-01T14:08:06+00:00,d4cee9aa708870095e23599afb35bce0,Denmark vs Portugal,totals,2.5,BetMGM,Under +2.5,2.1000
+2026-10-01T14:08:06+00:00,d4cee9aa708870095e23599afb35bce0,Denmark vs Portugal,totals,3.0,BetOnline.ag,Over +3,2.0000
+2026-10-01T14:08:06+00:00,d4cee9aa708870095e23599afb35bce0,Denmark vs Portugal,totals,3.0,BetOnline.ag,Under +3,1.8300
+2026-10-01T14:08:06+00:00,d4cee9aa708870095e23599afb35bce0,Denmark vs Portugal,totals,2.5,MyBookie.ag,Over +2.5,1.6100
+2026-10-01T14:08:06+00:00,d4cee9aa708870095e23599afb35bce0,Denmark vs Portugal,totals,2.5,MyBookie.ag,Under +2.5,2.2300
+2026-10-01T14:08:06+00:00,d4cee9aa708870095e23599afb35bce0,Denmark vs Portugal,spreads,0.5,Bovada,Denmark +0.5,1.8200
+2026-10-01T14:08:06+00:00,d4cee9aa708870095e23599afb35bce0,Denmark vs Portugal,spreads,-0.5,Bovada,Portugal -0.5,2.0200
+2026-10-01T14:08:06+00:00,d4cee9aa708870095e23599afb35bce0,Denmark vs Portugal,spreads,0.5,BetOnline.ag,Denmark +0.5,1.7900
+2026-10-01T14:08:06+00:00,d4cee9aa708870095e23599afb35bce0,Denmark vs Portugal,spreads,-0.5,BetOnline.ag,Portugal -0.5,2.0700
+2026-10-01T14:08:06+00:00,d4cee9aa708870095e23599afb35bce0,Denmark vs Portugal,spreads,0.5,MyBookie.ag,Denmark +0.5,1.7500
+2026-10-01T14:08:06+00:00,d4cee9aa708870095e23599afb35bce0,Denmark vs Portugal,spreads,-0.5,MyBookie.ag,Portugal -0.5,2.0100
+2026-10-01T14:08:06+00:00,546150d4747a3a5108c7e9860426bf36,Germany vs Serbia,h2h,,BetRivers,Germany,1.1600
+2026-10-01T14:08:06+00:00,546150d4747a3a5108c7e9860426bf36,Germany vs Serbia,h2h,,BetRivers,Serbia,13.0000
+2026-10-01T14:08:06+00:00,546150d4747a3a5108c7e9860426bf36,Germany vs Serbia,h2h,,BetRivers,Draw,7.5000
+2026-10-01T14:08:06+00:00,546150d4747a3a5108c7e9860426bf36,Germany vs Serbia,h2h,,DraftKings,Germany,1.1900
+2026-10-01T14:08:06+00:00,546150d4747a3a5108c7e9860426bf36,Germany vs Serbia,h2h,,DraftKings,Serbia,12.0000
+2026-10-01T14:08:06+00:00,546150d4747a3a5108c7e9860426bf36,Germany vs Serbia,h2h,,DraftKings,Draw,6.5000
+2026-10-01T14:08:06+00:00,546150d4747a3a5108c7e9860426bf36,Germany vs Serbia,h2h,,Bovada,Germany,1.2100
+2026-10-01T14:08:06+00:00,546150d4747a3a5108c7e9860426bf36,Germany vs Serbia,h2h,,Bovada,Serbia,13.0000
+2026-10-01T14:08:06+00:00,546150d4747a3a5108c7e9860426bf36,Germany vs Serbia,h2h,,Bovada,Draw,7.0000
+2026-10-01T14:08:06+00:00,546150d4747a3a5108c7e9860426bf36,Germany vs Serbia,h2h,,BetMGM,Germany,1.2100
+2026-10-01T14:08:06+00:00,546150d4747a3a5108c7e9860426bf36,Germany vs Serbia,h2h,,BetMGM,Serbia,11.0000
+2026-10-01T14:08:06+00:00,546150d4747a3a5108c7e9860426bf36,Germany vs Serbia,h2h,,BetMGM,Draw,7.2500
+2026-10-01T14:08:06+00:00,546150d4747a3a5108c7e9860426bf36,Germany vs Serbia,h2h,,MyBookie.ag,Germany,1.1800
+2026-10-01T14:08:06+00:00,546150d4747a3a5108c7e9860426bf36,Germany vs Serbia,h2h,,MyBookie.ag,Serbia,11.5000
+2026-10-01T14:08:06+00:00,546150d4747a3a5108c7e9860426bf36,Germany vs Serbia,h2h,,MyBookie.ag,Draw,6.9000
+2026-10-01T14:08:06+00:00,546150d4747a3a5108c7e9860426bf36,Germany vs Serbia,h2h,,BetOnline.ag,Germany,1.2000
+2026-10-01T14:08:06+00:00,546150d4747a3a5108c7e9860426bf36,Germany vs Serbia,h2h,,BetOnline.ag,Serbia,15.5000
+2026-10-01T14:08:06+00:00,546150d4747a3a5108c7e9860426bf36,Germany vs Serbia,h2h,,BetOnline.ag,Draw,7.3000
+2026-10-01T14:08:06+00:00,546150d4747a3a5108c7e9860426bf36,Germany vs Serbia,totals,3.5,BetRivers,Over +3.5,1.7900
+2026-10-01T14:08:06+00:00,546150d4747a3a5108c7e9860426bf36,Germany vs Serbia,totals,3.5,BetRivers,Under +3.5,1.9500
+2026-10-01T14:08:06+00:00,546150d4747a3a5108c7e9860426bf36,Germany vs Serbia,totals,3.5,Bovada,Over +3.5,1.8700
+2026-10-01T14:08:06+00:00,546150d4747a3a5108c7e9860426bf36,Germany vs Serbia,totals,3.5,Bovada,Under +3.5,1.9500
+2026-10-01T14:08:06+00:00,546150d4747a3a5108c7e9860426bf36,Germany vs Serbia,totals,3.5,BetMGM,Over +3.5,1.8500
+2026-10-01T14:08:06+00:00,546150d4747a3a5108c7e9860426bf36,Germany vs Serbia,totals,3.5,BetMGM,Under +3.5,1.8300
+2026-10-01T14:08:06+00:00,546150d4747a3a5108c7e9860426bf36,Germany vs Serbia,totals,3.5,MyBookie.ag,Over +3.5,1.8300
+2026-10-01T14:08:06+00:00,546150d4747a3a5108c7e9860426bf36,Germany vs Serbia,totals,3.5,MyBookie.ag,Under +3.5,1.9200
+2026-10-01T14:08:06+00:00,546150d4747a3a5108c7e9860426bf36,Germany vs Serbia,totals,3.5,BetOnline.ag,Over +3.5,1.8300
+2026-10-01T14:08:06+00:00,546150d4747a3a5108c7e9860426bf36,Germany vs Serbia,totals,3.5,BetOnline.ag,Under +3.5,2.0000
+2026-10-01T14:08:06+00:00,546150d4747a3a5108c7e9860426bf36,Germany vs Serbia,spreads,-2.0,Bovada,Germany -2,1.8300
+2026-10-01T14:08:06+00:00,546150d4747a3a5108c7e9860426bf36,Germany vs Serbia,spreads,2.0,Bovada,Serbia +2,2.0000
+2026-10-01T14:08:06+00:00,546150d4747a3a5108c7e9860426bf36,Germany vs Serbia,spreads,-2.5,MyBookie.ag,Germany -2.5,2.2400
+2026-10-01T14:08:06+00:00,546150d4747a3a5108c7e9860426bf36,Germany vs Serbia,spreads,2.5,MyBookie.ag,Serbia +2.5,1.6000
+2026-10-01T14:08:06+00:00,546150d4747a3a5108c7e9860426bf36,Germany vs Serbia,spreads,-2.0,BetOnline.ag,Germany -2,1.8500
+2026-10-01T14:08:06+00:00,546150d4747a3a5108c7e9860426bf36,Germany vs Serbia,spreads,2.0,BetOnline.ag,Serbia +2,1.9800
+2026-10-01T14:08:06+00:00,a2b54d223ce491ac52af34a462de0140,Malta vs Gibraltar,h2h,,BetRivers,Gibraltar,12.0000
+2026-10-01T14:08:06+00:00,a2b54d223ce491ac52af34a462de0140,Malta vs Gibraltar,h2h,,BetRivers,Malta,1.2700
+2026-10-01T14:08:06+00:00,a2b54d223ce491ac52af34a462de0140,Malta vs Gibraltar,h2h,,BetRivers,Draw,5.1000
+2026-10-01T14:08:06+00:00,a2b54d223ce491ac52af34a462de0140,Malta vs Gibraltar,h2h,,Bovada,Gibraltar,10.7500
+2026-10-01T14:08:06+00:00,a2b54d223ce491ac52af34a462de0140,Malta vs Gibraltar,h2h,,Bovada,Malta,1.2600
+2026-10-01T14:08:06+00:00,a2b54d223ce491ac52af34a462de0140,Malta vs Gibraltar,h2h,,Bovada,Draw,5.1500
+2026-10-01T14:08:06+00:00,a2b54d223ce491ac52af34a462de0140,Malta vs Gibraltar,h2h,,BetMGM,Gibraltar,10.5000
+2026-10-01T14:08:06+00:00,a2b54d223ce491ac52af34a462de0140,Malta vs Gibraltar,h2h,,BetMGM,Malta,1.2900
+2026-10-01T14:08:06+00:00,a2b54d223ce491ac52af34a462de0140,Malta vs Gibraltar,h2h,,BetMGM,Draw,5.0000
+2026-10-01T14:08:06+00:00,a2b54d223ce491ac52af34a462de0140,Malta vs Gibraltar,h2h,,DraftKings,Gibraltar,11.0000
+2026-10-01T14:08:06+00:00,a2b54d223ce491ac52af34a462de0140,Malta vs Gibraltar,h2h,,DraftKings,Malta,1.2600
+2026-10-01T14:08:06+00:00,a2b54d223ce491ac52af34a462de0140,Malta vs Gibraltar,h2h,,DraftKings,Draw,5.0000
+2026-10-01T14:08:06+00:00,a2b54d223ce491ac52af34a462de0140,Malta vs Gibraltar,h2h,,MyBookie.ag,Gibraltar,10.8000
+2026-10-01T14:08:06+00:00,a2b54d223ce491ac52af34a462de0140,Malta vs Gibraltar,h2h,,MyBookie.ag,Malta,1.2800
+2026-10-01T14:08:06+00:00,a2b54d223ce491ac52af34a462de0140,Malta vs Gibraltar,h2h,,MyBookie.ag,Draw,4.9000
+2026-10-01T14:08:06+00:00,a2b54d223ce491ac52af34a462de0140,Malta vs Gibraltar,totals,2.5,BetRivers,Over +2.5,2.0000
+2026-10-01T14:08:06+00:00,a2b54d223ce491ac52af34a462de0140,Malta vs Gibraltar,totals,2.5,BetRivers,Under +2.5,1.7500
+2026-10-01T14:08:06+00:00,a2b54d223ce491ac52af34a462de0140,Malta vs Gibraltar,totals,2.25,Bovada,Over +2.25,1.8000
+2026-10-01T14:08:06+00:00,a2b54d223ce491ac52af34a462de0140,Malta vs Gibraltar,totals,2.25,Bovada,Under +2.25,2.0500
+2026-10-01T14:08:06+00:00,a2b54d223ce491ac52af34a462de0140,Malta vs Gibraltar,totals,2.5,BetMGM,Over +2.5,1.9800
+2026-10-01T14:08:06+00:00,a2b54d223ce491ac52af34a462de0140,Malta vs Gibraltar,totals,2.5,BetMGM,Under +2.5,1.7100
+2026-10-01T14:08:06+00:00,a2b54d223ce491ac52af34a462de0140,Malta vs Gibraltar,totals,2.5,MyBookie.ag,Over +2.5,2.0000
+2026-10-01T14:08:06+00:00,a2b54d223ce491ac52af34a462de0140,Malta vs Gibraltar,totals,2.5,MyBookie.ag,Under +2.5,1.7500
+2026-10-01T14:08:06+00:00,a2b54d223ce491ac52af34a462de0140,Malta vs Gibraltar,spreads,1.5,Bovada,Gibraltar +1.5,1.8700
+2026-10-01T14:08:06+00:00,a2b54d223ce491ac52af34a462de0140,Malta vs Gibraltar,spreads,-1.5,Bovada,Malta -1.5,1.9500
+2026-10-01T14:08:06+00:00,a2b54d223ce491ac52af34a462de0140,Malta vs Gibraltar,spreads,1.5,MyBookie.ag,Gibraltar +1.5,1.8300
+2026-10-01T14:08:06+00:00,a2b54d223ce491ac52af34a462de0140,Malta vs Gibraltar,spreads,-1.5,MyBookie.ag,Malta -1.5,1.9200
+2026-10-01T14:08:06+00:00,6321b7d465a21274f0da7a5e50dbf5ef,Greece vs Netherlands,h2h,,BetRivers,Greece,3.2500
+2026-10-01T14:08:06+00:00,6321b7d465a21274f0da7a5e50dbf5ef,Greece vs Netherlands,h2h,,BetRivers,Netherlands,2.0400
+2026-10-01T14:08:06+00:00,6321b7d465a21274f0da7a5e50dbf5ef,Greece vs Netherlands,h2h,,BetRivers,Draw,3.5000
+2026-10-01T14:08:06+00:00,6321b7d465a21274f0da7a5e50dbf5ef,Greece vs Netherlands,h2h,,DraftKings,Greece,3.2000
+2026-10-01T14:08:06+00:00,6321b7d465a21274f0da7a5e50dbf5ef,Greece vs Netherlands,h2h,,DraftKings,Netherlands,2.1000
+2026-10-01T14:08:06+00:00,6321b7d465a21274f0da7a5e50dbf5ef,Greece vs Netherlands,h2h,,DraftKings,Draw,3.4500
+2026-10-01T14:08:06+00:00,6321b7d465a21274f0da7a5e50dbf5ef,Greece vs Netherlands,h2h,,Bovada,Greece,3.2500
+2026-10-01T14:08:06+00:00,6321b7d465a21274f0da7a5e50dbf5ef,Greece vs Netherlands,h2h,,Bovada,Netherlands,2.1100
+2026-10-01T14:08:06+00:00,6321b7d465a21274f0da7a5e50dbf5ef,Greece vs Netherlands,h2h,,Bovada,Draw,3.5500
+2026-10-01T14:08:06+00:00,6321b7d465a21274f0da7a5e50dbf5ef,Greece vs Netherlands,h2h,,BetMGM,Greece,3.2500
+2026-10-01T14:08:06+00:00,6321b7d465a21274f0da7a5e50dbf5ef,Greece vs Netherlands,h2h,,BetMGM,Netherlands,2.1000
+2026-10-01T14:08:06+00:00,6321b7d465a21274f0da7a5e50dbf5ef,Greece vs Netherlands,h2h,,BetMGM,Draw,3.5000
+2026-10-01T14:08:06+00:00,6321b7d465a21274f0da7a5e50dbf5ef,Greece vs Netherlands,h2h,,BetOnline.ag,Greece,3.4000
+2026-10-01T14:08:06+00:00,6321b7d465a21274f0da7a5e50dbf5ef,Greece vs Netherlands,h2h,,BetOnline.ag,Netherlands,2.1500
+2026-10-01T14:08:06+00:00,6321b7d465a21274f0da7a5e50dbf5ef,Greece vs Netherlands,h2h,,BetOnline.ag,Draw,3.6200
+2026-10-01T14:08:06+00:00,6321b7d465a21274f0da7a5e50dbf5ef,Greece vs Netherlands,h2h,,MyBookie.ag,Greece,3.2000
+2026-10-01T14:08:06+00:00,6321b7d465a21274f0da7a5e50dbf5ef,Greece vs Netherlands,h2h,,MyBookie.ag,Netherlands,2.0800
+2026-10-01T14:08:06+00:00,6321b7d465a21274f0da7a5e50dbf5ef,Greece vs Netherlands,h2h,,MyBookie.ag,Draw,3.4800
+2026-10-01T14:08:06+00:00,6321b7d465a21274f0da7a5e50dbf5ef,Greece vs Netherlands,totals,2.5,BetRivers,Over +2.5,1.6000
+2026-10-01T14:08:06+00:00,6321b7d465a21274f0da7a5e50dbf5ef,Greece vs Netherlands,totals,2.5,BetRivers,Under +2.5,2.2500
+2026-10-01T14:08:06+00:00,6321b7d465a21274f0da7a5e50dbf5ef,Greece vs Netherlands,totals,3.0,Bovada,Over +3,2.0500
+2026-10-01T14:08:06+00:00,6321b7d465a21274f0da7a5e50dbf5ef,Greece vs Netherlands,totals,3.0,Bovada,Under +3,1.8000
+2026-10-01T14:08:06+00:00,6321b7d465a21274f0da7a5e50dbf5ef,Greece vs Netherlands,totals,2.5,BetMGM,Over +2.5,1.6200
+2026-10-01T14:08:06+00:00,6321b7d465a21274f0da7a5e50dbf5ef,Greece vs Netherlands,totals,2.5,BetMGM,Under +2.5,2.1000
+2026-10-01T14:08:06+00:00,6321b7d465a21274f0da7a5e50dbf5ef,Greece vs Netherlands,totals,3.0,BetOnline.ag,Over +3,2.1000
+2026-10-01T14:08:06+00:00,6321b7d465a21274f0da7a5e50dbf5ef,Greece vs Netherlands,totals,3.0,BetOnline.ag,Under +3,1.7700
+2026-10-01T14:08:06+00:00,6321b7d465a21274f0da7a5e50dbf5ef,Greece vs Netherlands,totals,2.5,MyBookie.ag,Over +2.5,1.6400
+2026-10-01T14:08:06+00:00,6321b7d465a21274f0da7a5e50dbf5ef,Greece vs Netherlands,totals,2.5,MyBookie.ag,Under +2.5,2.1800
+2026-10-01T14:08:06+00:00,6321b7d465a21274f0da7a5e50dbf5ef,Greece vs Netherlands,spreads,0.25,Bovada,Greece +0.25,1.9800
+2026-10-01T14:08:06+00:00,6321b7d465a21274f0da7a5e50dbf5ef,Greece vs Netherlands,spreads,-0.25,Bovada,Netherlands -0.25,1.8500
+2026-10-01T14:08:06+00:00,6321b7d465a21274f0da7a5e50dbf5ef,Greece vs Netherlands,spreads,0.5,BetOnline.ag,Greece +0.5,1.7400
+2026-10-01T14:08:06+00:00,6321b7d465a21274f0da7a5e50dbf5ef,Greece vs Netherlands,spreads,-0.5,BetOnline.ag,Netherlands -0.5,2.1500
+2026-10-01T14:08:06+00:00,6321b7d465a21274f0da7a5e50dbf5ef,Greece vs Netherlands,spreads,0.5,MyBookie.ag,Greece +0.5,1.7100
+2026-10-01T14:08:06+00:00,6321b7d465a21274f0da7a5e50dbf5ef,Greece vs Netherlands,spreads,-0.5,MyBookie.ag,Netherlands -0.5,2.0600
+2026-10-01T14:08:06+00:00,adc5517ae91bb43f3406d577b489abc0,Israel vs Kosovo,h2h,,BetRivers,Israel,2.9500
+2026-10-01T14:08:06+00:00,adc5517ae91bb43f3406d577b489abc0,Israel vs Kosovo,h2h,,BetRivers,Kosovo,2.3800
+2026-10-01T14:08:06+00:00,adc5517ae91bb43f3406d577b489abc0,Israel vs Kosovo,h2h,,BetRivers,Draw,3.3500
+2026-10-01T14:08:06+00:00,adc5517ae91bb43f3406d577b489abc0,Israel vs Kosovo,h2h,,DraftKings,Israel,2.9500
+2026-10-01T14:08:06+00:00,adc5517ae91bb43f3406d577b489abc0,Israel vs Kosovo,h2h,,DraftKings,Kosovo,2.3000
+2026-10-01T14:08:06+00:00,adc5517ae91bb43f3406d577b489abc0,Israel vs Kosovo,h2h,,DraftKings,Draw,3.3000
+2026-10-01T14:08:06+00:00,adc5517ae91bb43f3406d577b489abc0,Israel vs Kosovo,h2h,,Bovada,Israel,2.9300
+2026-10-01T14:08:06+00:00,adc5517ae91bb43f3406d577b489abc0,Israel vs Kosovo,h2h,,Bovada,Kosovo,2.3600
+2026-10-01T14:08:06+00:00,adc5517ae91bb43f3406d577b489abc0,Israel vs Kosovo,h2h,,Bovada,Draw,3.3500
+2026-10-01T14:08:06+00:00,adc5517ae91bb43f3406d577b489abc0,Israel vs Kosovo,h2h,,BetMGM,Israel,3.0000
+2026-10-01T14:08:06+00:00,adc5517ae91bb43f3406d577b489abc0,Israel vs Kosovo,h2h,,BetMGM,Kosovo,2.3000
+2026-10-01T14:08:06+00:00,adc5517ae91bb43f3406d577b489abc0,Israel vs Kosovo,h2h,,BetMGM,Draw,3.3000
+2026-10-01T14:08:06+00:00,adc5517ae91bb43f3406d577b489abc0,Israel vs Kosovo,h2h,,MyBookie.ag,Israel,2.8900
+2026-10-01T14:08:06+00:00,adc5517ae91bb43f3406d577b489abc0,Israel vs Kosovo,h2h,,MyBookie.ag,Kosovo,2.3100
+2026-10-01T14:08:06+00:00,adc5517ae91bb43f3406d577b489abc0,Israel vs Kosovo,h2h,,MyBookie.ag,Draw,3.3200
+2026-10-01T14:08:06+00:00,adc5517ae91bb43f3406d577b489abc0,Israel vs Kosovo,totals,2.5,BetRivers,Over +2.5,1.8500
+2026-10-01T14:08:06+00:00,adc5517ae91bb43f3406d577b489abc0,Israel vs Kosovo,totals,2.5,BetRivers,Under +2.5,1.8900
+2026-10-01T14:08:06+00:00,adc5517ae91bb43f3406d577b489abc0,Israel vs Kosovo,totals,2.75,Bovada,Over +2.75,1.9800
+2026-10-01T14:08:06+00:00,adc5517ae91bb43f3406d577b489abc0,Israel vs Kosovo,totals,2.75,Bovada,Under +2.75,1.8500
+2026-10-01T14:08:06+00:00,adc5517ae91bb43f3406d577b489abc0,Israel vs Kosovo,totals,2.5,BetMGM,Over +2.5,1.7400
+2026-10-01T14:08:06+00:00,adc5517ae91bb43f3406d577b489abc0,Israel vs Kosovo,totals,2.5,BetMGM,Under +2.5,1.9300
+2026-10-01T14:08:06+00:00,adc5517ae91bb43f3406d577b489abc0,Israel vs Kosovo,totals,2.5,MyBookie.ag,Over +2.5,1.7500
+2026-10-01T14:08:06+00:00,adc5517ae91bb43f3406d577b489abc0,Israel vs Kosovo,totals,2.5,MyBookie.ag,Under +2.5,2.0100
+2026-10-01T14:08:06+00:00,adc5517ae91bb43f3406d577b489abc0,Israel vs Kosovo,spreads,0.25,Bovada,Israel +0.25,1.8000
+2026-10-01T14:08:06+00:00,adc5517ae91bb43f3406d577b489abc0,Israel vs Kosovo,spreads,-0.25,Bovada,Kosovo -0.25,2.0500
+2026-10-01T14:08:06+00:00,adc5517ae91bb43f3406d577b489abc0,Israel vs Kosovo,spreads,0.5,MyBookie.ag,Israel +0.5,1.5800
+2026-10-01T14:08:06+00:00,adc5517ae91bb43f3406d577b489abc0,Israel vs Kosovo,spreads,-0.5,MyBookie.ag,Kosovo -0.5,2.2900
+2026-10-01T14:08:06+00:00,16d310e835713f3457023deb98fb9f74,Wales vs Norway,h2h,,BetRivers,Norway,1.4100
+2026-10-01T14:08:06+00:00,16d310e835713f3457023deb98fb9f74,Wales vs Norway,h2h,,BetRivers,Wales,6.5000
+2026-10-01T14:08:06+00:00,16d310e835713f3457023deb98fb9f74,Wales vs Norway,h2h,,BetRivers,Draw,4.6000
+2026-10-01T14:08:06+00:00,16d310e835713f3457023deb98fb9f74,Wales vs Norway,h2h,,DraftKings,Norway,1.4300
+2026-10-01T14:08:06+00:00,16d310e835713f3457023deb98fb9f74,Wales vs Norway,h2h,,DraftKings,Wales,6.0000
+2026-10-01T14:08:06+00:00,16d310e835713f3457023deb98fb9f74,Wales vs Norway,h2h,,DraftKings,Draw,4.6000
+2026-10-01T14:08:06+00:00,16d310e835713f3457023deb98fb9f74,Wales vs Norway,h2h,,Bovada,Norway,1.4200
+2026-10-01T14:08:06+00:00,16d310e835713f3457023deb98fb9f74,Wales vs Norway,h2h,,Bovada,Wales,6.5000
+2026-10-01T14:08:06+00:00,16d310e835713f3457023deb98fb9f74,Wales vs Norway,h2h,,Bovada,Draw,4.8500
+2026-10-01T14:08:06+00:00,16d310e835713f3457023deb98fb9f74,Wales vs Norway,h2h,,BetMGM,Norway,1.4500
+2026-10-01T14:08:06+00:00,16d310e835713f3457023deb98fb9f74,Wales vs Norway,h2h,,BetMGM,Wales,6.0000
+2026-10-01T14:08:06+00:00,16d310e835713f3457023deb98fb9f74,Wales vs Norway,h2h,,BetMGM,Draw,4.7500
+2026-10-01T14:08:06+00:00,16d310e835713f3457023deb98fb9f74,Wales vs Norway,h2h,,BetOnline.ag,Norway,1.4200
+2026-10-01T14:08:06+00:00,16d310e835713f3457023deb98fb9f74,Wales vs Norway,h2h,,BetOnline.ag,Wales,7.5000
+2026-10-01T14:08:06+00:00,16d310e835713f3457023deb98fb9f74,Wales vs Norway,h2h,,BetOnline.ag,Draw,5.0000
+2026-10-01T14:08:06+00:00,16d310e835713f3457023deb98fb9f74,Wales vs Norway,h2h,,MyBookie.ag,Norway,1.4200
+2026-10-01T14:08:06+00:00,16d310e835713f3457023deb98fb9f74,Wales vs Norway,h2h,,MyBookie.ag,Wales,6.2000
+2026-10-01T14:08:06+00:00,16d310e835713f3457023deb98fb9f74,Wales vs Norway,h2h,,MyBookie.ag,Draw,4.6000
+2026-10-01T14:08:06+00:00,16d310e835713f3457023deb98fb9f74,Wales vs Norway,totals,3.5,BetRivers,Over +3.5,2.2300
+2026-10-01T14:08:06+00:00,16d310e835713f3457023deb98fb9f74,Wales vs Norway,totals,3.5,BetRivers,Under +3.5,1.6100
+2026-10-01T14:08:06+00:00,16d310e835713f3457023deb98fb9f74,Wales vs Norway,totals,3.0,Bovada,Over +3,1.8700
+2026-10-01T14:08:06+00:00,16d310e835713f3457023deb98fb9f74,Wales vs Norway,totals,3.0,Bovada,Under +3,1.9500
+2026-10-01T14:08:06+00:00,16d310e835713f3457023deb98fb9f74,Wales vs Norway,totals,3.5,BetMGM,Over +3.5,2.3000
+2026-10-01T14:08:06+00:00,16d310e835713f3457023deb98fb9f74,Wales vs Norway,totals,3.5,BetMGM,Under +3.5,1.5300
+2026-10-01T14:08:06+00:00,16d310e835713f3457023deb98fb9f74,Wales vs Norway,totals,3.0,BetOnline.ag,Over +3,1.8500
+2026-10-01T14:08:06+00:00,16d310e835713f3457023deb98fb9f74,Wales vs Norway,totals,3.0,BetOnline.ag,Under +3,1.9800
+2026-10-01T14:08:06+00:00,16d310e835713f3457023deb98fb9f74,Wales vs Norway,totals,3.5,MyBookie.ag,Over +3.5,2.3000
+2026-10-01T14:08:06+00:00,16d310e835713f3457023deb98fb9f74,Wales vs Norway,totals,3.5,MyBookie.ag,Under +3.5,1.5700
+2026-10-01T14:08:06+00:00,16d310e835713f3457023deb98fb9f74,Wales vs Norway,spreads,-1.25,Bovada,Norway -1.25,1.9300
+2026-10-01T14:08:06+00:00,16d310e835713f3457023deb98fb9f74,Wales vs Norway,spreads,1.25,Bovada,Wales +1.25,1.8900
+2026-10-01T14:08:06+00:00,16d310e835713f3457023deb98fb9f74,Wales vs Norway,spreads,-1.0,BetOnline.ag,Norway -1,1.6700
+2026-10-01T14:08:06+00:00,16d310e835713f3457023deb98fb9f74,Wales vs Norway,spreads,1.0,BetOnline.ag,Wales +1,2.3000
+2026-10-01T14:08:06+00:00,16d310e835713f3457023deb98fb9f74,Wales vs Norway,spreads,-1.5,MyBookie.ag,Norway -1.5,2.1100
+2026-10-01T14:08:06+00:00,16d310e835713f3457023deb98fb9f74,Wales vs Norway,spreads,1.5,MyBookie.ag,Wales +1.5,1.6800
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,h2h,,BetRivers,Athletic Club (MG),2.4000
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,h2h,,BetRivers,Sport Recife,2.8500
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,h2h,,BetRivers,Draw,3.0500
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,h2h,,FanDuel,Athletic Club (MG),2.3000
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,h2h,,FanDuel,Sport Recife,3.0000
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,h2h,,FanDuel,Draw,3.2000
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,h2h,,BetOnline.ag,Athletic Club (MG),2.3000
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,h2h,,BetOnline.ag,Sport Recife,3.3000
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,h2h,,BetOnline.ag,Draw,3.0500
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,h2h,,LowVig.ag,Athletic Club (MG),2.3000
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,h2h,,LowVig.ag,Sport Recife,3.3000
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,h2h,,LowVig.ag,Draw,3.0500
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,h2h,,BetUS,Athletic Club (MG),2.3000
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,h2h,,BetUS,Sport Recife,3.3000
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,h2h,,BetUS,Draw,3.0500
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,h2h,,Bovada,Athletic Club (MG),2.2300
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,h2h,,Bovada,Sport Recife,3.2500
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,h2h,,Bovada,Draw,3.0500
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,h2h,,BetMGM,Athletic Club (MG),2.2500
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,h2h,,BetMGM,Sport Recife,3.0000
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,h2h,,BetMGM,Draw,3.1000
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,h2h,,DraftKings,Athletic Club (MG),2.3500
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,h2h,,DraftKings,Sport Recife,3.2000
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,h2h,,DraftKings,Draw,3.1500
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,totals,2.5,BetRivers,Over +2.5,2.1600
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,totals,2.5,BetRivers,Under +2.5,1.6200
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,totals,2.25,BetOnline.ag,Over +2.25,1.9700
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,totals,2.25,BetOnline.ag,Under +2.25,1.7400
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,totals,2.25,LowVig.ag,Over +2.25,1.9700
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,totals,2.25,LowVig.ag,Under +2.25,1.7400
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,totals,2.25,BetUS,Over +2.25,2.0500
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,totals,2.25,BetUS,Under +2.25,1.7400
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,totals,2.25,Bovada,Over +2.25,2.0200
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,totals,2.25,Bovada,Under +2.25,1.7600
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,totals,2.5,BetMGM,Over +2.5,2.3000
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,totals,2.5,BetMGM,Under +2.5,1.5400
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,spreads,-0.25,BetOnline.ag,Athletic Club (MG) -0.25,1.8800
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,spreads,0.25,BetOnline.ag,Sport Recife +0.25,1.8300
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,spreads,-0.25,LowVig.ag,Athletic Club (MG) -0.25,1.8800
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,spreads,0.25,LowVig.ag,Sport Recife +0.25,1.8300
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,spreads,-0.25,Bovada,Athletic Club (MG) -0.25,1.9100
+2026-10-01T14:08:06+00:00,e213f5e85eeab702dea9daa829698b6d,Athletic Club (MG) vs Sport Recife,spreads,0.25,Bovada,Sport Recife +0.25,1.8300
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,h2h,,BetRivers,Goiás,4.8000
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,h2h,,BetRivers,Grêmio Novorizontino,1.6600
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,h2h,,BetRivers,Draw,3.4500
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,h2h,,LowVig.ag,Goiás,5.3000
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,h2h,,LowVig.ag,Grêmio Novorizontino,1.6400
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,h2h,,LowVig.ag,Draw,3.7500
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,h2h,,BetOnline.ag,Goiás,5.3000
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,h2h,,BetOnline.ag,Grêmio Novorizontino,1.6400
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,h2h,,BetOnline.ag,Draw,3.7500
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,h2h,,FanDuel,Goiás,5.4000
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,h2h,,FanDuel,Grêmio Novorizontino,1.6100
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,h2h,,FanDuel,Draw,3.8000
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,h2h,,BetMGM,Goiás,5.0000
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,h2h,,BetMGM,Grêmio Novorizontino,1.6200
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,h2h,,BetMGM,Draw,3.6000
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,h2h,,Bovada,Goiás,5.6000
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,h2h,,Bovada,Grêmio Novorizontino,1.5700
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,h2h,,Bovada,Draw,3.7000
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,h2h,,BetUS,Goiás,5.3000
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,h2h,,BetUS,Grêmio Novorizontino,1.6400
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,h2h,,BetUS,Draw,3.7500
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,h2h,,DraftKings,Goiás,5.5000
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,h2h,,DraftKings,Grêmio Novorizontino,1.6100
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,h2h,,DraftKings,Draw,3.9000
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,totals,2.5,BetRivers,Over +2.5,2.0400
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,totals,2.5,BetRivers,Under +2.5,1.7000
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,totals,2.5,LowVig.ag,Over +2.5,1.9300
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,totals,2.5,LowVig.ag,Under +2.5,1.7600
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,totals,2.5,BetOnline.ag,Over +2.5,1.9300
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,totals,2.5,BetOnline.ag,Under +2.5,1.7600
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,totals,2.5,BetMGM,Over +2.5,1.9800
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,totals,2.5,BetMGM,Under +2.5,1.7100
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,totals,2.5,Bovada,Over +2.5,1.9800
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,totals,2.5,Bovada,Under +2.5,1.7800
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,totals,2.5,BetUS,Over +2.5,2.0200
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,totals,2.5,BetUS,Under +2.5,1.7600
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,spreads,0.75,LowVig.ag,Goiás +0.75,1.9300
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,spreads,-0.75,LowVig.ag,Grêmio Novorizontino -0.75,1.7600
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,spreads,0.75,BetOnline.ag,Goiás +0.75,1.9300
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,spreads,-0.75,BetOnline.ag,Grêmio Novorizontino -0.75,1.7600
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,spreads,0.75,Bovada,Goiás +0.75,2.0500
+2026-10-01T14:08:06+00:00,2a42fc2dbde835ff11aa67b6f47c7fe8,Grêmio Novorizontino vs Goiás,spreads,-0.75,Bovada,Grêmio Novorizontino -0.75,1.7400
