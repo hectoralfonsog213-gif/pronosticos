@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-02T14:07:11.912323+00:00",
+  "generado": "2026-10-03T18:28:35.750868+00:00",
   "resumen": {
     "n": 0,
     "ev_promedio": 0.0,
@@ -7,10 +7,10 @@
     "por_deporte": {}
   },
   "avisos": [
-    "modelo futbol: 502 Server Error: Bad Gateway for url: http://api.clubelo.com/2026-10-02 (sigue el detector de mercado)",
-    "créditos: 36/500 del mes (esta corrida gastó 21)"
+    "modelo futbol: 502 Server Error: Bad Gateway for url: http://api.clubelo.com/2026-10-03 (sigue el detector de mercado)",
+    "créditos: 54/500 del mes (esta corrida gastó 18)"
   ],
-  "eventos": 20,
+  "eventos": 13,
   "jugadas": [],
   "movimientos": [],
   "arbitrajes": [],
