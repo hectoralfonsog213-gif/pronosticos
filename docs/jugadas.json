@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-03T18:28:35.750868+00:00",
+  "generado": "2026-10-04T18:45:01.762423+00:00",
   "resumen": {
     "n": 0,
     "ev_promedio": 0.0,
@@ -7,12 +7,160 @@
     "por_deporte": {}
   },
   "avisos": [
-    "modelo futbol: 502 Server Error: Bad Gateway for url: http://api.clubelo.com/2026-10-03 (sigue el detector de mercado)",
-    "créditos: 54/500 del mes (esta corrida gastó 18)"
+    "modelo futbol: 502 Server Error: Bad Gateway for url: http://api.clubelo.com/2026-10-04 (sigue el detector de mercado)",
+    "créditos: 66/500 del mes (esta corrida gastó 12)"
   ],
-  "eventos": 13,
+  "eventos": 12,
   "jugadas": [],
   "movimientos": [],
   "arbitrajes": [],
-  "middles": []
+  "middles": [
+    {
+      "evento": "Seattle Seahawks vs Los Angeles Chargers",
+      "liga": "NFL",
+      "inicio": "2026-10-04T20:25:00Z",
+      "mercado": "totals",
+      "ventana": "total entre 42.5 y 43.5",
+      "ancho": 1.0,
+      "pata_a": {
+        "seleccion": "Over +42.5",
+        "casa": "LowVig.ag",
+        "momio_dec": 1.92
+      },
+      "pata_b": {
+        "seleccion": "Under +43.5",
+        "casa": "FanDuel",
+        "momio_dec": 1.83
+      },
+      "ganancia": 0.875,
+      "perdida": -0.04,
+      "prob_necesaria": 0.0437
+    },
+    {
+      "evento": "Carolina Panthers vs Detroit Lions",
+      "liga": "NFL",
+      "inicio": "2026-10-05T00:20:00Z",
+      "mercado": "totals",
+      "ventana": "total entre 51 y 52",
+      "ancho": 1.0,
+      "pata_a": {
+        "seleccion": "Over +51",
+        "casa": "BetRivers",
+        "momio_dec": 1.88
+      },
+      "pata_b": {
+        "seleccion": "Under +52",
+        "casa": "BetUS",
+        "momio_dec": 1.91
+      },
+      "ganancia": 0.895,
+      "perdida": -0.045,
+      "prob_necesaria": 0.0479
+    },
+    {
+      "evento": "Carolina Panthers vs Detroit Lions",
+      "liga": "NFL",
+      "inicio": "2026-10-05T00:20:00Z",
+      "mercado": "totals",
+      "ventana": "total entre 51 y 52",
+      "ancho": 1.0,
+      "pata_a": {
+        "seleccion": "Over +51",
+        "casa": "BetRivers",
+        "momio_dec": 1.88
+      },
+      "pata_b": {
+        "seleccion": "Under +52",
+        "casa": "LowVig.ag",
+        "momio_dec": 1.91
+      },
+      "ganancia": 0.895,
+      "perdida": -0.045,
+      "prob_necesaria": 0.0479
+    },
+    {
+      "evento": "Carolina Panthers vs Detroit Lions",
+      "liga": "NFL",
+      "inicio": "2026-10-05T00:20:00Z",
+      "mercado": "totals",
+      "ventana": "total entre 51 y 52",
+      "ancho": 1.0,
+      "pata_a": {
+        "seleccion": "Over +51",
+        "casa": "BetRivers",
+        "momio_dec": 1.88
+      },
+      "pata_b": {
+        "seleccion": "Under +52",
+        "casa": "BetOnline.ag",
+        "momio_dec": 1.91
+      },
+      "ganancia": 0.895,
+      "perdida": -0.045,
+      "prob_necesaria": 0.0479
+    },
+    {
+      "evento": "Carolina Panthers vs Detroit Lions",
+      "liga": "NFL",
+      "inicio": "2026-10-05T00:20:00Z",
+      "mercado": "totals",
+      "ventana": "total entre 51 y 52",
+      "ancho": 1.0,
+      "pata_a": {
+        "seleccion": "Over +51",
+        "casa": "BetRivers",
+        "momio_dec": 1.88
+      },
+      "pata_b": {
+        "seleccion": "Under +52",
+        "casa": "MyBookie.ag",
+        "momio_dec": 1.91
+      },
+      "ganancia": 0.895,
+      "perdida": -0.045,
+      "prob_necesaria": 0.0479
+    },
+    {
+      "evento": "Seattle Seahawks vs Los Angeles Chargers",
+      "liga": "NFL",
+      "inicio": "2026-10-04T20:25:00Z",
+      "mercado": "totals",
+      "ventana": "total entre 42.5 y 43.5",
+      "ancho": 1.0,
+      "pata_a": {
+        "seleccion": "Over +42.5",
+        "casa": "BetMGM",
+        "momio_dec": 1.91
+      },
+      "pata_b": {
+        "seleccion": "Under +43.5",
+        "casa": "FanDuel",
+        "momio_dec": 1.83
+      },
+      "ganancia": 0.87,
+      "perdida": -0.045,
+      "prob_necesaria": 0.0492
+    },
+    {
+      "evento": "Seattle Seahawks vs Los Angeles Chargers",
+      "liga": "NFL",
+      "inicio": "2026-10-04T20:25:00Z",
+      "mercado": "totals",
+      "ventana": "total entre 42.5 y 43.5",
+      "ancho": 1.0,
+      "pata_a": {
+        "seleccion": "Over +42.5",
+        "casa": "BetOnline.ag",
+        "momio_dec": 1.89
+      },
+      "pata_b": {
+        "seleccion": "Under +43.5",
+        "casa": "FanDuel",
+        "momio_dec": 1.83
+      },
+      "ganancia": 0.86,
+      "perdida": -0.055,
+      "prob_necesaria": 0.0601
+    }
+  ]
 }
