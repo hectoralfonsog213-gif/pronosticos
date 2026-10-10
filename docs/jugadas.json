@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-09T14:08:42.390525+00:00",
+  "generado": "2026-10-10T14:04:26.691435+00:00",
   "resumen": {
     "n": 0,
     "ev_promedio": 0.0,
@@ -7,9 +7,9 @@
     "por_deporte": {}
   },
   "avisos": [
-    "13 liga(s) pospuestas por presupuesto (374 créditos para el resto del mes)",
-    "modelo futbol: 502 Server Error: Bad Gateway for url: http://api.clubelo.com/2026-10-09 (sigue el detector de mercado)",
-    "créditos: 147/500 del mes (esta corrida gastó 21)"
+    "22 liga(s) pospuestas por presupuesto (353 créditos para el resto del mes)",
+    "modelo futbol: 502 Server Error: Bad Gateway for url: http://api.clubelo.com/2026-10-10 (sigue el detector de mercado)",
+    "créditos: 165/500 del mes (esta corrida gastó 18)"
   ],
   "eventos": 12,
   "jugadas": [],
