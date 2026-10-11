@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-10T14:04:26.691435+00:00",
+  "generado": "2026-10-11T14:05:14.740502+00:00",
   "resumen": {
     "n": 0,
     "ev_promedio": 0.0,
@@ -7,13 +7,245 @@
     "por_deporte": {}
   },
   "avisos": [
-    "22 liga(s) pospuestas por presupuesto (353 créditos para el resto del mes)",
-    "modelo futbol: 502 Server Error: Bad Gateway for url: http://api.clubelo.com/2026-10-10 (sigue el detector de mercado)",
-    "créditos: 165/500 del mes (esta corrida gastó 18)"
+    "21 liga(s) pospuestas por presupuesto (335 créditos para el resto del mes)",
+    "modelo futbol: 502 Server Error: Bad Gateway for url: http://api.clubelo.com/2026-10-11 (sigue el detector de mercado)",
+    "créditos: 183/500 del mes (esta corrida gastó 18)"
   ],
-  "eventos": 12,
+  "eventos": 22,
   "jugadas": [],
   "movimientos": [],
   "arbitrajes": [],
-  "middles": []
+  "middles": [
+    {
+      "evento": "New Orleans Saints vs Minnesota Vikings",
+      "liga": "NFL",
+      "inicio": "2026-10-11T17:00:00Z",
+      "mercado": "totals",
+      "ventana": "total entre 41.5 y 42.5",
+      "ancho": 1.0,
+      "pata_a": {
+        "seleccion": "Over +41.5",
+        "casa": "DraftKings",
+        "momio_dec": 1.93
+      },
+      "pata_b": {
+        "seleccion": "Under +42.5",
+        "casa": "FanDuel",
+        "momio_dec": 1.85
+      },
+      "ganancia": 0.89,
+      "perdida": -0.035,
+      "prob_necesaria": 0.0378
+    },
+    {
+      "evento": "Washington Commanders vs New York Giants",
+      "liga": "NFL",
+      "inicio": "2026-10-11T17:00:00Z",
+      "mercado": "totals",
+      "ventana": "total entre 41 y 42",
+      "ancho": 1.0,
+      "pata_a": {
+        "seleccion": "Over +41",
+        "casa": "BetRivers",
+        "momio_dec": 1.88
+      },
+      "pata_b": {
+        "seleccion": "Under +42",
+        "casa": "BetMGM",
+        "momio_dec": 1.91
+      },
+      "ganancia": 0.895,
+      "perdida": -0.045,
+      "prob_necesaria": 0.0479
+    },
+    {
+      "evento": "Los Angeles Chargers vs Denver Broncos",
+      "liga": "NFL",
+      "inicio": "2026-10-11T20:05:00Z",
+      "mercado": "totals",
+      "ventana": "total entre 41.5 y 42.5",
+      "ancho": 1.0,
+      "pata_a": {
+        "seleccion": "Over +41.5",
+        "casa": "Bovada",
+        "momio_dec": 1.91
+      },
+      "pata_b": {
+        "seleccion": "Under +42.5",
+        "casa": "FanDuel",
+        "momio_dec": 1.87
+      },
+      "ganancia": 0.89,
+      "perdida": -0.045,
+      "prob_necesaria": 0.0481
+    },
+    {
+      "evento": "Green Bay Packers vs Chicago Bears",
+      "liga": "NFL",
+      "inicio": "2026-10-11T17:00:00Z",
+      "mercado": "totals",
+      "ventana": "total entre 46.5 y 47.5",
+      "ancho": 1.0,
+      "pata_a": {
+        "seleccion": "Over +46.5",
+        "casa": "FanDuel",
+        "momio_dec": 1.91
+      },
+      "pata_b": {
+        "seleccion": "Under +47.5",
+        "casa": "DraftKings",
+        "momio_dec": 1.85
+      },
+      "ganancia": 0.88,
+      "perdida": -0.045,
+      "prob_necesaria": 0.0486
+    },
+    {
+      "evento": "Green Bay Packers vs Chicago Bears",
+      "liga": "NFL",
+      "inicio": "2026-10-11T17:00:00Z",
+      "mercado": "totals",
+      "ventana": "total entre 46.5 y 47.5",
+      "ancho": 1.0,
+      "pata_a": {
+        "seleccion": "Over +46.5",
+        "casa": "BetRivers",
+        "momio_dec": 1.91
+      },
+      "pata_b": {
+        "seleccion": "Under +47.5",
+        "casa": "DraftKings",
+        "momio_dec": 1.85
+      },
+      "ganancia": 0.88,
+      "perdida": -0.045,
+      "prob_necesaria": 0.0486
+    },
+    {
+      "evento": "Green Bay Packers vs Chicago Bears",
+      "liga": "NFL",
+      "inicio": "2026-10-11T17:00:00Z",
+      "mercado": "totals",
+      "ventana": "total entre 46.5 y 47.5",
+      "ancho": 1.0,
+      "pata_a": {
+        "seleccion": "Over +46.5",
+        "casa": "Bovada",
+        "momio_dec": 1.91
+      },
+      "pata_b": {
+        "seleccion": "Under +47.5",
+        "casa": "DraftKings",
+        "momio_dec": 1.85
+      },
+      "ganancia": 0.88,
+      "perdida": -0.045,
+      "prob_necesaria": 0.0486
+    },
+    {
+      "evento": "New Orleans Saints vs Minnesota Vikings",
+      "liga": "NFL",
+      "inicio": "2026-10-11T17:00:00Z",
+      "mercado": "totals",
+      "ventana": "total entre 41.5 y 42.5",
+      "ancho": 1.0,
+      "pata_a": {
+        "seleccion": "Over +41.5",
+        "casa": "BetUS",
+        "momio_dec": 1.91
+      },
+      "pata_b": {
+        "seleccion": "Under +42.5",
+        "casa": "FanDuel",
+        "momio_dec": 1.85
+      },
+      "ganancia": 0.88,
+      "perdida": -0.045,
+      "prob_necesaria": 0.0486
+    },
+    {
+      "evento": "New Orleans Saints vs Minnesota Vikings",
+      "liga": "NFL",
+      "inicio": "2026-10-11T17:00:00Z",
+      "mercado": "totals",
+      "ventana": "total entre 41.5 y 42.5",
+      "ancho": 1.0,
+      "pata_a": {
+        "seleccion": "Over +41.5",
+        "casa": "MyBookie.ag",
+        "momio_dec": 1.91
+      },
+      "pata_b": {
+        "seleccion": "Under +42.5",
+        "casa": "FanDuel",
+        "momio_dec": 1.85
+      },
+      "ganancia": 0.88,
+      "perdida": -0.045,
+      "prob_necesaria": 0.0486
+    },
+    {
+      "evento": "New Orleans Saints vs Minnesota Vikings",
+      "liga": "NFL",
+      "inicio": "2026-10-11T17:00:00Z",
+      "mercado": "totals",
+      "ventana": "total entre 41.5 y 42.5",
+      "ancho": 1.0,
+      "pata_a": {
+        "seleccion": "Over +41.5",
+        "casa": "BetMGM",
+        "momio_dec": 1.91
+      },
+      "pata_b": {
+        "seleccion": "Under +42.5",
+        "casa": "FanDuel",
+        "momio_dec": 1.85
+      },
+      "ganancia": 0.88,
+      "perdida": -0.045,
+      "prob_necesaria": 0.0486
+    },
+    {
+      "evento": "Green Bay Packers vs Chicago Bears",
+      "liga": "NFL",
+      "inicio": "2026-10-11T17:00:00Z",
+      "mercado": "totals",
+      "ventana": "total entre 46.5 y 47.5",
+      "ancho": 1.0,
+      "pata_a": {
+        "seleccion": "Over +46.5",
+        "casa": "BetMGM",
+        "momio_dec": 1.89
+      },
+      "pata_b": {
+        "seleccion": "Under +47.5",
+        "casa": "DraftKings",
+        "momio_dec": 1.85
+      },
+      "ganancia": 0.87,
+      "perdida": -0.055,
+      "prob_necesaria": 0.0595
+    },
+    {
+      "evento": "New Orleans Saints vs Minnesota Vikings",
+      "liga": "NFL",
+      "inicio": "2026-10-11T17:00:00Z",
+      "mercado": "totals",
+      "ventana": "total entre 41.5 y 42.5",
+      "ancho": 1.0,
+      "pata_a": {
+        "seleccion": "Over +41.5",
+        "casa": "BetRivers",
+        "momio_dec": 1.89
+      },
+      "pata_b": {
+        "seleccion": "Under +42.5",
+        "casa": "FanDuel",
+        "momio_dec": 1.85
+      },
+      "ganancia": 0.87,
+      "perdida": -0.055,
+      "prob_necesaria": 0.0595
+    }
+  ]
 }
