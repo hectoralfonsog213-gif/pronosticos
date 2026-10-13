@@ -1,12 +1,12 @@
 {
   "mes": "2026-10",
-  "gastado": 201,
+  "gastado": 219,
   "ultimas": {
-    "baseball_mlb": "2026-10-12T14:14:21+00:00",
+    "baseball_mlb": "2026-10-13T14:11:52+00:00",
     "americanfootball_nfl": "2026-10-12T14:14:21+00:00",
     "soccer_usa_mls": "2026-10-06T14:08:36+00:00",
     "soccer_uefa_nations_league": "2026-10-06T14:08:36+00:00",
-    "soccer_brazil_serie_b": "2026-10-08T14:08:44+00:00",
+    "soccer_brazil_serie_b": "2026-10-13T14:11:52+00:00",
     "soccer_brazil_campeonato": "2026-10-12T14:14:21+00:00",
     "soccer_argentina_primera_division": "2026-10-09T14:08:42+00:00",
     "soccer_spain_segunda_division": "2026-10-05T14:09:28+00:00",
@@ -21,7 +21,11 @@
     "soccer_portugal_primeira_liga": "2026-10-09T14:08:42+00:00",
     "soccer_netherlands_eredivisie": "2026-10-09T14:08:42+00:00",
     "soccer_epl": "2026-10-12T14:14:21+00:00",
-    "soccer_italy_serie_a": "2026-10-12T14:14:21+00:00"
+    "soccer_italy_serie_a": "2026-10-12T14:14:21+00:00",
+    "soccer_uefa_champs_league": "2026-10-13T14:11:52+00:00",
+    "soccer_conmebol_copa_sudamericana": "2026-10-13T14:11:52+00:00",
+    "soccer_efl_champ": "2026-10-13T14:11:52+00:00",
+    "soccer_germany_liga3": "2026-10-13T14:11:52+00:00"
   },
   "por_dia": {
     "2026-10-01": 15,
@@ -35,6 +39,7 @@
     "2026-10-09": 21,
     "2026-10-10": 18,
     "2026-10-11": 18,
-    "2026-10-12": 18
+    "2026-10-12": 18,
+    "2026-10-13": 18
   }
 }
