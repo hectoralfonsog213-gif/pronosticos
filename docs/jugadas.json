@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-13T14:11:52.682257+00:00",
+  "generado": "2026-10-14T14:18:49.165620+00:00",
   "resumen": {
     "n": 0,
     "ev_promedio": 0.0,
@@ -7,11 +7,11 @@
     "por_deporte": {}
   },
   "avisos": [
-    "1 liga(s) pospuestas por presupuesto (299 créditos para el resto del mes)",
-    "modelo futbol: HTTPConnectionPool(host='api.clubelo.com', port=80): Max retries exceeded with url: /2026-10-13 (Caused by ConnectTimeoutError(<HTTPConnection(host='api.clubelo.com', port=80) at 0x7f7ae3c73c20>, 'Connection to api.clubelo.com timed out. (connect timeout=25)')) (sigue el detector de mercado)",
-    "créditos: 219/500 del mes (esta corrida gastó 18)"
+    "2 liga(s) pospuestas por presupuesto (281 créditos para el resto del mes)",
+    "modelo futbol: HTTPConnectionPool(host='api.clubelo.com', port=80): Max retries exceeded with url: /2026-10-14 (Caused by ConnectTimeoutError(<HTTPConnection(host='api.clubelo.com', port=80) at 0x7f0088a859d0>, 'Connection to api.clubelo.com timed out. (connect timeout=25)')) (sigue el detector de mercado)",
+    "créditos: 237/500 del mes (esta corrida gastó 18)"
   ],
-  "eventos": 25,
+  "eventos": 28,
   "jugadas": [],
   "movimientos": [],
   "arbitrajes": [],
