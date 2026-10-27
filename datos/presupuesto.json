@@ -1,14 +1,14 @@
 {
   "mes": "2026-10",
-  "gastado": 438,
+  "gastado": 453,
   "ultimas": {
-    "baseball_mlb": "2026-10-26T19:40:04+00:00",
+    "baseball_mlb": "2026-10-27T19:06:59+00:00",
     "americanfootball_nfl": "2026-10-26T19:40:04+00:00",
     "soccer_usa_mls": "2026-10-25T17:19:21+00:00",
     "soccer_uefa_nations_league": "2026-10-06T14:08:36+00:00",
     "soccer_brazil_serie_b": "2026-10-20T14:22:26+00:00",
     "soccer_brazil_campeonato": "2026-10-26T19:40:04+00:00",
-    "soccer_argentina_primera_division": "2026-10-26T19:40:04+00:00",
+    "soccer_argentina_primera_division": "2026-10-27T19:06:59+00:00",
     "soccer_spain_segunda_division": "2026-10-05T14:09:28+00:00",
     "soccer_chile_campeonato": "2026-10-02T14:07:11+00:00",
     "soccer_league_of_ireland": "2026-10-08T14:08:44+00:00",
@@ -21,7 +21,7 @@
     "soccer_portugal_primeira_liga": "2026-10-09T14:08:42+00:00",
     "soccer_netherlands_eredivisie": "2026-10-09T14:08:42+00:00",
     "soccer_epl": "2026-10-24T14:14:17+00:00",
-    "soccer_italy_serie_a": "2026-10-25T17:19:21+00:00",
+    "soccer_italy_serie_a": "2026-10-27T19:06:59+00:00",
     "soccer_uefa_champs_league": "2026-10-21T14:23:26+00:00",
     "soccer_conmebol_copa_sudamericana": "2026-10-21T14:23:26+00:00",
     "soccer_efl_champ": "2026-10-20T14:22:26+00:00",
@@ -29,7 +29,9 @@
     "soccer_conmebol_copa_libertadores": "2026-10-22T14:24:28+00:00",
     "soccer_uefa_europa_league": "2026-10-22T14:24:28+00:00",
     "soccer_uefa_europa_conference_league": "2026-10-22T14:24:28+00:00",
-    "soccer_england_league1": "2026-10-20T14:22:26+00:00"
+    "soccer_england_league1": "2026-10-20T14:22:26+00:00",
+    "soccer_england_efl_cup": "2026-10-27T19:06:59+00:00",
+    "soccer_germany_dfb_pokal": "2026-10-27T19:06:59+00:00"
   },
   "por_dia": {
     "2026-10-01": 15,
@@ -57,6 +59,7 @@
     "2026-10-23": 18,
     "2026-10-24": 15,
     "2026-10-25": 15,
-    "2026-10-26": 15
+    "2026-10-26": 15,
+    "2026-10-27": 15
   }
 }
