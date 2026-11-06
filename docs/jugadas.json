@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-05T20:53:46.252973+00:00",
+  "generado": "2026-11-06T20:10:24.281410+00:00",
   "resumen": {
     "n": 0,
     "ev_promedio": 0.0,
@@ -7,10 +7,12 @@
     "por_deporte": {}
   },
   "avisos": [
-    "modelo futbol: 502 Server Error: Bad Gateway for url: http://api.clubelo.com/2026-11-05 (sigue el detector de mercado)",
-    "créditos: 57/500 del mes (esta corrida gastó 15)"
+    "8 liga(s) pospuestas por presupuesto (443 créditos para el resto del mes)",
+    "momios soccer_portugal_primeira_liga: Cuota agotada en The Odds API. Espera al proximo ciclo o sube de plan.",
+    "modelo futbol: 502 Server Error: Bad Gateway for url: http://api.clubelo.com/2026-11-06 (sigue el detector de mercado)",
+    "créditos: 75/500 del mes (esta corrida gastó 21)"
   ],
-  "eventos": 6,
+  "eventos": 13,
   "jugadas": [],
   "movimientos": [],
   "arbitrajes": [],
