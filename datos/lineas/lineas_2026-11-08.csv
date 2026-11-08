@@ -1,0 +1,595 @@
+ts,evento_id,evento,mercado,punto,casa,seleccion,decimal
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,h2h,,DraftKings,Houston Texans,1.4400
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,h2h,,DraftKings,Los Angeles Chargers,2.8500
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,h2h,,BetUS,Houston Texans,1.4300
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,h2h,,BetUS,Los Angeles Chargers,2.9500
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,h2h,,FanDuel,Houston Texans,1.4200
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,h2h,,FanDuel,Los Angeles Chargers,2.9800
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,h2h,,BetOnline.ag,Houston Texans,1.4300
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,h2h,,BetOnline.ag,Los Angeles Chargers,2.9500
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,h2h,,LowVig.ag,Houston Texans,1.4300
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,h2h,,LowVig.ag,Los Angeles Chargers,2.9500
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,h2h,,BetRivers,Houston Texans,1.3800
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,h2h,,BetRivers,Los Angeles Chargers,3.0500
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,h2h,,MyBookie.ag,Houston Texans,1.4300
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,h2h,,MyBookie.ag,Los Angeles Chargers,2.9500
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,h2h,,BetMGM,Houston Texans,1.4300
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,h2h,,BetMGM,Los Angeles Chargers,2.9500
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,h2h,,Bovada,Houston Texans,1.4300
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,h2h,,Bovada,Los Angeles Chargers,2.9000
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,spreads,-5.5,DraftKings,Houston Texans -5.5,1.9300
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,spreads,5.5,DraftKings,Los Angeles Chargers +5.5,1.8900
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,spreads,-5.0,BetUS,Houston Texans -5,1.9100
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,spreads,5.0,BetUS,Los Angeles Chargers +5,1.9100
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,spreads,-5.5,FanDuel,Houston Texans -5.5,1.9100
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,spreads,5.5,FanDuel,Los Angeles Chargers +5.5,1.9100
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,spreads,-5.5,BetOnline.ag,Houston Texans -5.5,1.9500
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,spreads,5.5,BetOnline.ag,Los Angeles Chargers +5.5,1.8700
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,spreads,-5.5,LowVig.ag,Houston Texans -5.5,2.0000
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,spreads,5.5,LowVig.ag,Los Angeles Chargers +5.5,1.9100
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,spreads,-5.5,BetRivers,Houston Texans -5.5,1.8800
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,spreads,5.5,BetRivers,Los Angeles Chargers +5.5,1.9300
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,spreads,-5.0,MyBookie.ag,Houston Texans -5,1.9100
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,spreads,5.0,MyBookie.ag,Los Angeles Chargers +5,1.9100
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,spreads,-5.0,BetMGM,Houston Texans -5,1.9500
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,spreads,5.0,BetMGM,Los Angeles Chargers +5,1.9500
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,spreads,-5.0,Bovada,Houston Texans -5,1.9300
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,spreads,5.0,Bovada,Los Angeles Chargers +5,1.8900
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,totals,40.5,DraftKings,Over +40.5,1.9100
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,totals,40.5,DraftKings,Under +40.5,1.9100
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,totals,40.5,BetUS,Over +40.5,1.9100
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,totals,40.5,BetUS,Under +40.5,1.9100
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,totals,40.5,FanDuel,Over +40.5,1.8700
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,totals,40.5,FanDuel,Under +40.5,1.9500
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,totals,40.5,BetOnline.ag,Over +40.5,1.9100
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,totals,40.5,BetOnline.ag,Under +40.5,1.9100
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,totals,40.5,LowVig.ag,Over +40.5,1.9300
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,totals,40.5,LowVig.ag,Under +40.5,1.9300
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,totals,40.5,BetRivers,Over +40.5,1.9100
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,totals,40.5,BetRivers,Under +40.5,1.8900
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,totals,40.5,MyBookie.ag,Over +40.5,1.9100
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,totals,40.5,MyBookie.ag,Under +40.5,1.9100
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,totals,40.5,BetMGM,Over +40.5,1.9100
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,totals,40.5,BetMGM,Under +40.5,1.9300
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,totals,40.5,Bovada,Over +40.5,1.9300
+2026-11-08T18:35:41+00:00,39aeac43cea7b12558b91cdab1255a10,Los Angeles Chargers vs Houston Texans,totals,40.5,Bovada,Under +40.5,1.8900
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,h2h,,DraftKings,Arizona Cardinals,4.4000
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,h2h,,DraftKings,Seattle Seahawks,1.2300
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,h2h,,BetUS,Arizona Cardinals,4.2000
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,h2h,,BetUS,Seattle Seahawks,1.2500
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,h2h,,FanDuel,Arizona Cardinals,4.5000
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,h2h,,FanDuel,Seattle Seahawks,1.2200
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,h2h,,BetOnline.ag,Arizona Cardinals,4.1600
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,h2h,,BetOnline.ag,Seattle Seahawks,1.2500
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,h2h,,LowVig.ag,Arizona Cardinals,4.1600
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,h2h,,LowVig.ag,Seattle Seahawks,1.2500
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,h2h,,BetRivers,Arizona Cardinals,4.2500
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,h2h,,BetRivers,Seattle Seahawks,1.2300
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,h2h,,MyBookie.ag,Arizona Cardinals,4.4300
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,h2h,,MyBookie.ag,Seattle Seahawks,1.2300
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,h2h,,BetMGM,Arizona Cardinals,4.3300
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,h2h,,BetMGM,Seattle Seahawks,1.2400
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,h2h,,Bovada,Arizona Cardinals,4.1500
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,h2h,,Bovada,Seattle Seahawks,1.2400
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,spreads,8.5,DraftKings,Arizona Cardinals +8.5,1.9100
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,spreads,-8.5,DraftKings,Seattle Seahawks -8.5,1.9100
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,spreads,9.0,BetUS,Arizona Cardinals +9,1.8700
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,spreads,-9.0,BetUS,Seattle Seahawks -9,1.9500
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,spreads,8.5,FanDuel,Arizona Cardinals +8.5,1.9500
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,spreads,-8.5,FanDuel,Seattle Seahawks -8.5,1.8700
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,spreads,8.0,BetOnline.ag,Arizona Cardinals +8,1.9600
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,spreads,-8.0,BetOnline.ag,Seattle Seahawks -8,1.8600
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,spreads,8.0,LowVig.ag,Arizona Cardinals +8,2.0500
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,spreads,-8.0,LowVig.ag,Seattle Seahawks -8,1.8600
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,spreads,8.5,BetRivers,Arizona Cardinals +8.5,1.8800
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,spreads,-8.5,BetRivers,Seattle Seahawks -8.5,1.9300
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,spreads,9.0,MyBookie.ag,Arizona Cardinals +9,1.9100
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,spreads,-9.0,MyBookie.ag,Seattle Seahawks -9,1.9100
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,spreads,8.5,BetMGM,Arizona Cardinals +8.5,1.9300
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,spreads,-8.5,BetMGM,Seattle Seahawks -8.5,1.9100
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,spreads,9.0,Bovada,Arizona Cardinals +9,1.8900
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,spreads,-9.0,Bovada,Seattle Seahawks -9,1.9300
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,totals,39.5,DraftKings,Over +39.5,1.8900
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,totals,39.5,DraftKings,Under +39.5,1.9300
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,totals,39.5,BetUS,Over +39.5,1.9100
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,totals,39.5,BetUS,Under +39.5,1.9100
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,totals,39.5,FanDuel,Over +39.5,1.9100
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,totals,39.5,FanDuel,Under +39.5,1.9100
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,totals,39.5,BetOnline.ag,Over +39.5,1.8700
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,totals,39.5,BetOnline.ag,Under +39.5,1.9500
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,totals,39.5,LowVig.ag,Over +39.5,1.8800
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,totals,39.5,LowVig.ag,Under +39.5,1.9800
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,totals,39.5,BetRivers,Over +39.5,1.9300
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,totals,39.5,BetRivers,Under +39.5,1.8800
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,totals,39.5,MyBookie.ag,Over +39.5,1.9100
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,totals,39.5,MyBookie.ag,Under +39.5,1.9100
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,totals,40.0,BetMGM,Over +40,1.9500
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,totals,40.0,BetMGM,Under +40,1.8900
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,totals,40.0,Bovada,Over +40,1.9300
+2026-11-08T18:35:41+00:00,240e23b02b1e3fef655d04a286b5a623,Seattle Seahawks vs Arizona Cardinals,totals,40.0,Bovada,Under +40,1.8900
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,h2h,,DraftKings,Green Bay Packers,2.4200
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,h2h,,DraftKings,New England Patriots,1.5900
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,h2h,,BetUS,Green Bay Packers,2.5000
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,h2h,,BetUS,New England Patriots,1.5700
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,h2h,,FanDuel,Green Bay Packers,2.4600
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,h2h,,FanDuel,New England Patriots,1.5700
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,h2h,,BetOnline.ag,Green Bay Packers,2.5700
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,h2h,,BetOnline.ag,New England Patriots,1.5600
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,h2h,,LowVig.ag,Green Bay Packers,2.5700
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,h2h,,LowVig.ag,New England Patriots,1.5600
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,h2h,,BetRivers,Green Bay Packers,2.4000
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,h2h,,BetRivers,New England Patriots,1.5700
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,h2h,,MyBookie.ag,Green Bay Packers,2.4900
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,h2h,,MyBookie.ag,New England Patriots,1.5700
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,h2h,,BetMGM,Green Bay Packers,2.4500
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,h2h,,BetMGM,New England Patriots,1.5700
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,h2h,,Bovada,Green Bay Packers,2.5500
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,h2h,,Bovada,New England Patriots,1.5600
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,spreads,3.0,DraftKings,Green Bay Packers +3,1.9500
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,spreads,-3.0,DraftKings,New England Patriots -3,1.8700
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,spreads,3.0,BetUS,Green Bay Packers +3,2.0500
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,spreads,-3.0,BetUS,New England Patriots -3,1.8000
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,spreads,3.0,FanDuel,Green Bay Packers +3,1.9500
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,spreads,-3.0,FanDuel,New England Patriots -3,1.8700
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,spreads,3.0,BetOnline.ag,Green Bay Packers +3,2.0500
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,spreads,-3.0,BetOnline.ag,New England Patriots -3,1.8000
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,spreads,3.0,LowVig.ag,Green Bay Packers +3,2.1200
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,spreads,-3.0,LowVig.ag,New England Patriots -3,1.8100
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,spreads,3.0,BetRivers,Green Bay Packers +3,1.9600
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,spreads,-3.0,BetRivers,New England Patriots -3,1.8500
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,spreads,3.0,MyBookie.ag,Green Bay Packers +3,2.0000
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,spreads,-3.0,MyBookie.ag,New England Patriots -3,1.8300
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,spreads,3.0,BetMGM,Green Bay Packers +3,1.9800
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,spreads,-3.0,BetMGM,New England Patriots -3,1.8500
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,spreads,3.5,Bovada,Green Bay Packers +3.5,1.8500
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,spreads,-3.5,Bovada,New England Patriots -3.5,1.9700
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,totals,44.5,DraftKings,Over +44.5,1.8900
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,totals,44.5,DraftKings,Under +44.5,1.9300
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,totals,44.5,BetUS,Over +44.5,1.9100
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,totals,44.5,BetUS,Under +44.5,1.9100
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,totals,44.5,FanDuel,Over +44.5,1.9100
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,totals,44.5,FanDuel,Under +44.5,1.9100
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,totals,44.5,BetOnline.ag,Over +44.5,1.8900
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,totals,44.5,BetOnline.ag,Under +44.5,1.9300
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,totals,44.5,LowVig.ag,Over +44.5,1.9200
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,totals,44.5,LowVig.ag,Under +44.5,1.9500
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,totals,45.0,BetRivers,Over +45,1.9300
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,totals,45.0,BetRivers,Under +45,1.8800
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,totals,44.5,MyBookie.ag,Over +44.5,1.9100
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,totals,44.5,MyBookie.ag,Under +44.5,1.9100
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,totals,44.5,BetMGM,Over +44.5,1.9100
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,totals,44.5,BetMGM,Under +44.5,1.9300
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,totals,45.0,Bovada,Over +45,1.9500
+2026-11-08T18:35:41+00:00,2922c573ec3df8466c4a34975e446898,New England Patriots vs Green Bay Packers,totals,45.0,Bovada,Under +45,1.8700
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,h2h,,DraftKings,Las Vegas Raiders,4.4000
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,h2h,,DraftKings,San Francisco 49ers,1.2300
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,h2h,,BetUS,Las Vegas Raiders,4.3300
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,h2h,,BetUS,San Francisco 49ers,1.2400
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,h2h,,FanDuel,Las Vegas Raiders,4.8000
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,h2h,,FanDuel,San Francisco 49ers,1.2000
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,h2h,,LowVig.ag,Las Vegas Raiders,4.7000
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,h2h,,LowVig.ag,San Francisco 49ers,1.2100
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,h2h,,BetOnline.ag,Las Vegas Raiders,4.7000
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,h2h,,BetOnline.ag,San Francisco 49ers,1.2100
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,h2h,,BetRivers,Las Vegas Raiders,4.8000
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,h2h,,BetRivers,San Francisco 49ers,1.1900
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,h2h,,MyBookie.ag,Las Vegas Raiders,4.4500
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,h2h,,MyBookie.ag,San Francisco 49ers,1.2300
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,h2h,,BetMGM,Las Vegas Raiders,4.7500
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,h2h,,BetMGM,San Francisco 49ers,1.2100
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,h2h,,Bovada,Las Vegas Raiders,4.6500
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,h2h,,Bovada,San Francisco 49ers,1.2100
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,spreads,8.5,DraftKings,Las Vegas Raiders +8.5,1.9300
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,spreads,-8.5,DraftKings,San Francisco 49ers -8.5,1.8900
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,spreads,9.5,BetUS,Las Vegas Raiders +9.5,1.9100
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,spreads,-9.5,BetUS,San Francisco 49ers -9.5,1.9100
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,spreads,9.5,FanDuel,Las Vegas Raiders +9.5,1.9100
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,spreads,-9.5,FanDuel,San Francisco 49ers -9.5,1.9100
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,spreads,9.5,LowVig.ag,Las Vegas Raiders +9.5,1.9100
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,spreads,-9.5,LowVig.ag,San Francisco 49ers -9.5,2.0000
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,spreads,9.5,BetOnline.ag,Las Vegas Raiders +9.5,1.8700
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,spreads,-9.5,BetOnline.ag,San Francisco 49ers -9.5,1.9500
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,spreads,9.5,BetRivers,Las Vegas Raiders +9.5,1.9200
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,spreads,-9.5,BetRivers,San Francisco 49ers -9.5,1.8900
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,spreads,9.0,MyBookie.ag,Las Vegas Raiders +9,1.9100
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,spreads,-9.0,MyBookie.ag,San Francisco 49ers -9,1.9100
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,spreads,9.0,BetMGM,Las Vegas Raiders +9,1.9500
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,spreads,-9.0,BetMGM,San Francisco 49ers -9,1.9500
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,spreads,9.0,Bovada,Las Vegas Raiders +9,1.8900
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,spreads,-9.0,Bovada,San Francisco 49ers -9,1.9300
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,totals,51.5,DraftKings,Over +51.5,1.8500
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,totals,51.5,DraftKings,Under +51.5,1.9800
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,totals,52.0,BetUS,Over +52,1.9100
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,totals,52.0,BetUS,Under +52,1.9100
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,totals,51.5,FanDuel,Over +51.5,1.8700
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,totals,51.5,FanDuel,Under +51.5,1.9500
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,totals,52.0,LowVig.ag,Over +52,1.9800
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,totals,52.0,LowVig.ag,Under +52,1.8800
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,totals,52.0,BetOnline.ag,Over +52,1.9500
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,totals,52.0,BetOnline.ag,Under +52,1.8700
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,totals,52.0,BetRivers,Over +52,1.9100
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,totals,52.0,BetRivers,Under +52,1.9100
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,totals,52.0,MyBookie.ag,Over +52,1.9100
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,totals,52.0,MyBookie.ag,Under +52,1.9100
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,totals,52.0,BetMGM,Over +52,1.9300
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,totals,52.0,BetMGM,Under +52,1.9100
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,totals,52.0,Bovada,Over +52,1.9300
+2026-11-08T18:35:41+00:00,ac9d38a18d5c92814233a31aa9a48d78,San Francisco 49ers vs Las Vegas Raiders,totals,52.0,Bovada,Under +52,1.8900
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,h2h,,DraftKings,Chicago Bears,1.3700
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,h2h,,DraftKings,Tampa Bay Buccaneers,3.2000
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,h2h,,FanDuel,Chicago Bears,1.3700
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,h2h,,FanDuel,Tampa Bay Buccaneers,3.2000
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,h2h,,BetUS,Chicago Bears,1.4100
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,h2h,,BetUS,Tampa Bay Buccaneers,3.0500
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,h2h,,BetOnline.ag,Chicago Bears,1.3900
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,h2h,,BetOnline.ag,Tampa Bay Buccaneers,3.1100
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,h2h,,LowVig.ag,Chicago Bears,1.3900
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,h2h,,LowVig.ag,Tampa Bay Buccaneers,3.1100
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,h2h,,BetRivers,Chicago Bears,1.3600
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,h2h,,BetRivers,Tampa Bay Buccaneers,3.2000
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,h2h,,MyBookie.ag,Chicago Bears,1.3700
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,h2h,,MyBookie.ag,Tampa Bay Buccaneers,3.1900
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,h2h,,BetMGM,Chicago Bears,1.3600
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,h2h,,BetMGM,Tampa Bay Buccaneers,3.2500
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,h2h,,Bovada,Chicago Bears,1.3600
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,h2h,,Bovada,Tampa Bay Buccaneers,3.2500
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,spreads,-6.0,DraftKings,Chicago Bears -6,1.8900
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,spreads,6.0,DraftKings,Tampa Bay Buccaneers +6,1.9300
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,spreads,-6.5,FanDuel,Chicago Bears -6.5,2.0000
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,spreads,6.5,FanDuel,Tampa Bay Buccaneers +6.5,1.8300
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,spreads,-6.0,BetUS,Chicago Bears -6,1.9500
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,spreads,6.0,BetUS,Tampa Bay Buccaneers +6,1.8700
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,spreads,-6.0,BetOnline.ag,Chicago Bears -6,1.9200
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,spreads,6.0,BetOnline.ag,Tampa Bay Buccaneers +6,1.9000
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,spreads,-6.0,LowVig.ag,Chicago Bears -6,1.9600
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,spreads,6.0,LowVig.ag,Tampa Bay Buccaneers +6,1.9400
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,spreads,-6.0,BetRivers,Chicago Bears -6,1.9200
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,spreads,6.0,BetRivers,Tampa Bay Buccaneers +6,1.8900
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,spreads,-6.0,MyBookie.ag,Chicago Bears -6,1.9500
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,spreads,6.0,MyBookie.ag,Tampa Bay Buccaneers +6,1.8700
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,spreads,-6.0,BetMGM,Chicago Bears -6,1.9300
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,spreads,6.0,BetMGM,Tampa Bay Buccaneers +6,1.9100
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,spreads,-6.0,Bovada,Chicago Bears -6,1.8900
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,spreads,6.0,Bovada,Tampa Bay Buccaneers +6,1.9300
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,totals,47.5,DraftKings,Over +47.5,1.9300
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,totals,47.5,DraftKings,Under +47.5,1.8900
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,totals,47.5,FanDuel,Over +47.5,1.9100
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,totals,47.5,FanDuel,Under +47.5,1.9100
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,totals,47.5,BetUS,Over +47.5,1.9100
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,totals,47.5,BetUS,Under +47.5,1.9100
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,totals,47.5,BetOnline.ag,Over +47.5,1.9100
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,totals,47.5,BetOnline.ag,Under +47.5,1.9100
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,totals,47.5,LowVig.ag,Over +47.5,1.9300
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,totals,47.5,LowVig.ag,Under +47.5,1.9300
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,totals,47.5,BetRivers,Over +47.5,1.9100
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,totals,47.5,BetRivers,Under +47.5,1.9100
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,totals,47.5,MyBookie.ag,Over +47.5,1.9100
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,totals,47.5,MyBookie.ag,Under +47.5,1.9100
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,totals,47.5,BetMGM,Over +47.5,1.9300
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,totals,47.5,BetMGM,Under +47.5,1.9100
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,totals,47.5,Bovada,Over +47.5,1.8900
+2026-11-08T18:35:41+00:00,9760d8f19f84bfee300a74ceb656c95d,Chicago Bears vs Tampa Bay Buccaneers,totals,47.5,Bovada,Under +47.5,1.9300
+2026-11-08T18:35:41+00:00,14aec7933e69c140965b1ae959076e70,Querétaro vs Puebla,h2h,,BetRivers,Puebla,4.1000
+2026-11-08T18:35:41+00:00,14aec7933e69c140965b1ae959076e70,Querétaro vs Puebla,h2h,,BetRivers,Querétaro,1.7300
+2026-11-08T18:35:41+00:00,14aec7933e69c140965b1ae959076e70,Querétaro vs Puebla,h2h,,BetRivers,Draw,3.7500
+2026-11-08T18:35:41+00:00,14aec7933e69c140965b1ae959076e70,Querétaro vs Puebla,h2h,,DraftKings,Puebla,4.1000
+2026-11-08T18:35:41+00:00,14aec7933e69c140965b1ae959076e70,Querétaro vs Puebla,h2h,,DraftKings,Querétaro,1.8300
+2026-11-08T18:35:41+00:00,14aec7933e69c140965b1ae959076e70,Querétaro vs Puebla,h2h,,DraftKings,Draw,3.7500
+2026-11-08T18:35:41+00:00,14aec7933e69c140965b1ae959076e70,Querétaro vs Puebla,h2h,,FanDuel,Puebla,4.1000
+2026-11-08T18:35:41+00:00,14aec7933e69c140965b1ae959076e70,Querétaro vs Puebla,h2h,,FanDuel,Querétaro,1.7700
+2026-11-08T18:35:41+00:00,14aec7933e69c140965b1ae959076e70,Querétaro vs Puebla,h2h,,FanDuel,Draw,3.7000
+2026-11-08T18:35:41+00:00,14aec7933e69c140965b1ae959076e70,Querétaro vs Puebla,h2h,,LowVig.ag,Puebla,4.2800
+2026-11-08T18:35:41+00:00,14aec7933e69c140965b1ae959076e70,Querétaro vs Puebla,h2h,,LowVig.ag,Querétaro,1.8300
+2026-11-08T18:35:41+00:00,14aec7933e69c140965b1ae959076e70,Querétaro vs Puebla,h2h,,LowVig.ag,Draw,3.9000
+2026-11-08T18:35:41+00:00,14aec7933e69c140965b1ae959076e70,Querétaro vs Puebla,h2h,,BetOnline.ag,Puebla,4.2800
+2026-11-08T18:35:41+00:00,14aec7933e69c140965b1ae959076e70,Querétaro vs Puebla,h2h,,BetOnline.ag,Querétaro,1.8300
+2026-11-08T18:35:41+00:00,14aec7933e69c140965b1ae959076e70,Querétaro vs Puebla,h2h,,BetOnline.ag,Draw,3.9000
+2026-11-08T18:35:41+00:00,14aec7933e69c140965b1ae959076e70,Querétaro vs Puebla,h2h,,BetUS,Puebla,4.1200
+2026-11-08T18:35:41+00:00,14aec7933e69c140965b1ae959076e70,Querétaro vs Puebla,h2h,,BetUS,Querétaro,1.8000
+2026-11-08T18:35:41+00:00,14aec7933e69c140965b1ae959076e70,Querétaro vs Puebla,h2h,,BetUS,Draw,3.8500
+2026-11-08T18:35:41+00:00,14aec7933e69c140965b1ae959076e70,Querétaro vs Puebla,totals,2.5,BetRivers,Over +2.5,1.5700
+2026-11-08T18:35:41+00:00,14aec7933e69c140965b1ae959076e70,Querétaro vs Puebla,totals,2.5,BetRivers,Under +2.5,2.2000
+2026-11-08T18:35:41+00:00,14aec7933e69c140965b1ae959076e70,Querétaro vs Puebla,totals,2.5,LowVig.ag,Over +2.5,1.6900
+2026-11-08T18:35:41+00:00,14aec7933e69c140965b1ae959076e70,Querétaro vs Puebla,totals,2.5,LowVig.ag,Under +2.5,2.1000
+2026-11-08T18:35:41+00:00,14aec7933e69c140965b1ae959076e70,Querétaro vs Puebla,totals,2.5,BetOnline.ag,Over +2.5,1.6900
+2026-11-08T18:35:41+00:00,14aec7933e69c140965b1ae959076e70,Querétaro vs Puebla,totals,2.5,BetOnline.ag,Under +2.5,2.1000
+2026-11-08T18:35:41+00:00,14aec7933e69c140965b1ae959076e70,Querétaro vs Puebla,totals,2.5,BetUS,Over +2.5,1.6900
+2026-11-08T18:35:41+00:00,14aec7933e69c140965b1ae959076e70,Querétaro vs Puebla,totals,2.5,BetUS,Under +2.5,2.1500
+2026-11-08T18:35:41+00:00,14aec7933e69c140965b1ae959076e70,Querétaro vs Puebla,spreads,0.5,LowVig.ag,Puebla +0.5,1.9500
+2026-11-08T18:35:41+00:00,14aec7933e69c140965b1ae959076e70,Querétaro vs Puebla,spreads,-0.5,LowVig.ag,Querétaro -0.5,1.8300
+2026-11-08T18:35:41+00:00,14aec7933e69c140965b1ae959076e70,Querétaro vs Puebla,spreads,0.5,BetOnline.ag,Puebla +0.5,1.9500
+2026-11-08T18:35:41+00:00,14aec7933e69c140965b1ae959076e70,Querétaro vs Puebla,spreads,-0.5,BetOnline.ag,Querétaro -0.5,1.8300
+2026-11-08T18:35:41+00:00,14aec7933e69c140965b1ae959076e70,Querétaro vs Puebla,spreads,0.5,BetUS,Puebla +0.5,1.9500
+2026-11-08T18:35:41+00:00,14aec7933e69c140965b1ae959076e70,Querétaro vs Puebla,spreads,-0.5,BetUS,Querétaro -0.5,1.8000
+2026-11-08T18:35:41+00:00,7cd6004c4921a258af79f297abcfc9e9,León vs Guadalajara,h2h,,BetRivers,Guadalajara,2.1200
+2026-11-08T18:35:41+00:00,7cd6004c4921a258af79f297abcfc9e9,León vs Guadalajara,h2h,,BetRivers,León,2.9500
+2026-11-08T18:35:41+00:00,7cd6004c4921a258af79f297abcfc9e9,León vs Guadalajara,h2h,,BetRivers,Draw,3.5500
+2026-11-08T18:35:41+00:00,7cd6004c4921a258af79f297abcfc9e9,León vs Guadalajara,h2h,,DraftKings,Guadalajara,2.0500
+2026-11-08T18:35:41+00:00,7cd6004c4921a258af79f297abcfc9e9,León vs Guadalajara,h2h,,DraftKings,León,3.3500
+2026-11-08T18:35:41+00:00,7cd6004c4921a258af79f297abcfc9e9,León vs Guadalajara,h2h,,DraftKings,Draw,3.6500
+2026-11-08T18:35:41+00:00,7cd6004c4921a258af79f297abcfc9e9,León vs Guadalajara,h2h,,FanDuel,Guadalajara,2.0000
+2026-11-08T18:35:41+00:00,7cd6004c4921a258af79f297abcfc9e9,León vs Guadalajara,h2h,,FanDuel,León,3.4000
+2026-11-08T18:35:41+00:00,7cd6004c4921a258af79f297abcfc9e9,León vs Guadalajara,h2h,,FanDuel,Draw,3.6000
+2026-11-08T18:35:41+00:00,7cd6004c4921a258af79f297abcfc9e9,León vs Guadalajara,h2h,,BetOnline.ag,Guadalajara,2.0800
+2026-11-08T18:35:41+00:00,7cd6004c4921a258af79f297abcfc9e9,León vs Guadalajara,h2h,,BetOnline.ag,León,3.5000
+2026-11-08T18:35:41+00:00,7cd6004c4921a258af79f297abcfc9e9,León vs Guadalajara,h2h,,BetOnline.ag,Draw,3.7300
+2026-11-08T18:35:41+00:00,7cd6004c4921a258af79f297abcfc9e9,León vs Guadalajara,h2h,,LowVig.ag,Guadalajara,2.0800
+2026-11-08T18:35:41+00:00,7cd6004c4921a258af79f297abcfc9e9,León vs Guadalajara,h2h,,LowVig.ag,León,3.5000
+2026-11-08T18:35:41+00:00,7cd6004c4921a258af79f297abcfc9e9,León vs Guadalajara,h2h,,LowVig.ag,Draw,3.7300
+2026-11-08T18:35:41+00:00,7cd6004c4921a258af79f297abcfc9e9,León vs Guadalajara,h2h,,BetMGM,Guadalajara,2.0500
+2026-11-08T18:35:41+00:00,7cd6004c4921a258af79f297abcfc9e9,León vs Guadalajara,h2h,,BetMGM,León,3.2500
+2026-11-08T18:35:41+00:00,7cd6004c4921a258af79f297abcfc9e9,León vs Guadalajara,h2h,,BetMGM,Draw,3.6000
+2026-11-08T18:35:41+00:00,7cd6004c4921a258af79f297abcfc9e9,León vs Guadalajara,h2h,,BetUS,Guadalajara,2.1000
+2026-11-08T18:35:41+00:00,7cd6004c4921a258af79f297abcfc9e9,León vs Guadalajara,h2h,,BetUS,León,3.3000
+2026-11-08T18:35:41+00:00,7cd6004c4921a258af79f297abcfc9e9,León vs Guadalajara,h2h,,BetUS,Draw,3.5900
+2026-11-08T18:35:41+00:00,7cd6004c4921a258af79f297abcfc9e9,León vs Guadalajara,totals,2.5,BetRivers,Over +2.5,1.6700
+2026-11-08T18:35:41+00:00,7cd6004c4921a258af79f297abcfc9e9,León vs Guadalajara,totals,2.5,BetRivers,Under +2.5,2.0800
+2026-11-08T18:35:41+00:00,7cd6004c4921a258af79f297abcfc9e9,León vs Guadalajara,totals,2.5,BetOnline.ag,Over +2.5,1.6900
+2026-11-08T18:35:41+00:00,7cd6004c4921a258af79f297abcfc9e9,León vs Guadalajara,totals,2.5,BetOnline.ag,Under +2.5,2.1000
+2026-11-08T18:35:41+00:00,7cd6004c4921a258af79f297abcfc9e9,León vs Guadalajara,totals,2.5,LowVig.ag,Over +2.5,1.6900
+2026-11-08T18:35:41+00:00,7cd6004c4921a258af79f297abcfc9e9,León vs Guadalajara,totals,2.5,LowVig.ag,Under +2.5,2.1000
+2026-11-08T18:35:41+00:00,7cd6004c4921a258af79f297abcfc9e9,León vs Guadalajara,totals,2.5,BetMGM,Over +2.5,1.6200
+2026-11-08T18:35:41+00:00,7cd6004c4921a258af79f297abcfc9e9,León vs Guadalajara,totals,2.5,BetMGM,Under +2.5,2.1000
+2026-11-08T18:35:41+00:00,7cd6004c4921a258af79f297abcfc9e9,León vs Guadalajara,totals,2.5,BetUS,Over +2.5,1.6900
+2026-11-08T18:35:41+00:00,7cd6004c4921a258af79f297abcfc9e9,León vs Guadalajara,totals,2.5,BetUS,Under +2.5,2.1500
+2026-11-08T18:35:41+00:00,7cd6004c4921a258af79f297abcfc9e9,León vs Guadalajara,spreads,-0.5,BetOnline.ag,Guadalajara -0.5,2.0800
+2026-11-08T18:35:41+00:00,7cd6004c4921a258af79f297abcfc9e9,León vs Guadalajara,spreads,0.5,BetOnline.ag,León +0.5,1.7500
+2026-11-08T18:35:41+00:00,7cd6004c4921a258af79f297abcfc9e9,León vs Guadalajara,spreads,-0.5,LowVig.ag,Guadalajara -0.5,2.0800
+2026-11-08T18:35:41+00:00,7cd6004c4921a258af79f297abcfc9e9,León vs Guadalajara,spreads,0.5,LowVig.ag,León +0.5,1.7500
+2026-11-08T18:35:41+00:00,7cd6004c4921a258af79f297abcfc9e9,León vs Guadalajara,spreads,-0.5,BetUS,Guadalajara -0.5,2.0000
+2026-11-08T18:35:41+00:00,7cd6004c4921a258af79f297abcfc9e9,León vs Guadalajara,spreads,0.5,BetUS,León +0.5,1.7700
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,h2h,,FanDuel,Atlético Madrid,3.7000
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,h2h,,FanDuel,Barcelona,1.8000
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,h2h,,FanDuel,Draw,4.5000
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,h2h,,BetMGM,Atlético Madrid,3.4000
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,h2h,,BetMGM,Barcelona,1.9100
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,h2h,,BetMGM,Draw,4.2000
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,h2h,,Bovada,Atlético Madrid,3.5500
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,h2h,,Bovada,Barcelona,1.8300
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,h2h,,Bovada,Draw,4.4500
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,h2h,,DraftKings,Atlético Madrid,3.6000
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,h2h,,DraftKings,Barcelona,1.8300
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,h2h,,DraftKings,Draw,4.4000
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,h2h,,BetRivers,Atlético Madrid,3.6500
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,h2h,,BetRivers,Barcelona,1.7700
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,h2h,,BetRivers,Draw,4.6000
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,h2h,,BetUS,Atlético Madrid,3.5500
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,h2h,,BetUS,Barcelona,1.8300
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,h2h,,BetUS,Draw,4.4500
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,h2h,,LowVig.ag,Atlético Madrid,3.6000
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,h2h,,LowVig.ag,Barcelona,1.8600
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,h2h,,LowVig.ag,Draw,4.5500
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,h2h,,BetOnline.ag,Atlético Madrid,3.6000
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,h2h,,BetOnline.ag,Barcelona,1.8600
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,h2h,,BetOnline.ag,Draw,4.5500
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,totals,3.5,BetMGM,Over +3.5,1.8500
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,totals,3.5,BetMGM,Under +3.5,1.8500
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,totals,3.5,Bovada,Over +3.5,1.8500
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,totals,3.5,Bovada,Under +3.5,1.9800
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,totals,3.5,BetRivers,Over +3.5,1.8100
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,totals,3.5,BetRivers,Under +3.5,1.9400
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,totals,3.5,BetUS,Over +3.5,1.8000
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,totals,3.5,BetUS,Under +3.5,2.0500
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,totals,3.5,LowVig.ag,Over +3.5,1.8700
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,totals,3.5,LowVig.ag,Under +3.5,2.0000
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,totals,3.5,BetOnline.ag,Over +3.5,1.8700
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,totals,3.5,BetOnline.ag,Under +3.5,2.0000
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,spreads,0.5,Bovada,Atlético Madrid +0.5,2.0000
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,spreads,-0.5,Bovada,Barcelona -0.5,1.8300
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,spreads,0.5,BetUS,Atlético Madrid +0.5,2.0000
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,spreads,-0.5,BetUS,Barcelona -0.5,1.8300
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,spreads,0.5,LowVig.ag,Atlético Madrid +0.5,2.0300
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,spreads,-0.5,LowVig.ag,Barcelona -0.5,1.8600
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,spreads,0.5,BetOnline.ag,Atlético Madrid +0.5,2.0300
+2026-11-08T18:35:41+00:00,dd247b356d8fc53e4b4f9bfcfe09c924,Atlético Madrid vs Barcelona,spreads,-0.5,BetOnline.ag,Barcelona -0.5,1.8600
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,h2h,,Bovada,Fiorentina,3.3000
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,h2h,,Bovada,Juventus,2.2000
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,h2h,,Bovada,Draw,3.3500
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,h2h,,BetRivers,Fiorentina,3.4500
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,h2h,,BetRivers,Juventus,2.0700
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,h2h,,BetRivers,Draw,3.3000
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,h2h,,FanDuel,Fiorentina,3.4000
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,h2h,,FanDuel,Juventus,2.1500
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,h2h,,FanDuel,Draw,3.3000
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,h2h,,BetMGM,Fiorentina,3.2000
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,h2h,,BetMGM,Juventus,2.2500
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,h2h,,BetMGM,Draw,3.3000
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,h2h,,BetUS,Fiorentina,3.3500
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,h2h,,BetUS,Juventus,2.2000
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,h2h,,BetUS,Draw,3.3500
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,h2h,,DraftKings,Fiorentina,3.2500
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,h2h,,DraftKings,Juventus,2.1500
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,h2h,,DraftKings,Draw,3.3000
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,h2h,,LowVig.ag,Fiorentina,3.4500
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,h2h,,LowVig.ag,Juventus,2.2000
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,h2h,,LowVig.ag,Draw,3.4500
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,h2h,,BetOnline.ag,Fiorentina,3.4500
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,h2h,,BetOnline.ag,Juventus,2.2000
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,h2h,,BetOnline.ag,Draw,3.4500
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,spreads,0.25,Bovada,Fiorentina +0.25,1.9500
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,spreads,-0.25,Bovada,Juventus -0.25,1.8700
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,spreads,0.5,BetUS,Fiorentina +0.5,1.7100
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,spreads,-0.5,BetUS,Juventus -0.5,2.2000
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,spreads,0.5,LowVig.ag,Fiorentina +0.5,1.7100
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,spreads,-0.5,LowVig.ag,Juventus -0.5,2.2000
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,spreads,0.5,BetOnline.ag,Fiorentina +0.5,1.7100
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,spreads,-0.5,BetOnline.ag,Juventus -0.5,2.2000
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,totals,2.5,Bovada,Over +2.5,1.8900
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,totals,2.5,Bovada,Under +2.5,1.9300
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,totals,2.5,BetRivers,Over +2.5,1.8000
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,totals,2.5,BetRivers,Under +2.5,1.9600
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,totals,2.5,BetMGM,Over +2.5,1.8500
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,totals,2.5,BetMGM,Under +2.5,1.8500
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,totals,2.5,BetUS,Over +2.5,1.9100
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,totals,2.5,BetUS,Under +2.5,1.9100
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,totals,2.5,LowVig.ag,Over +2.5,1.9200
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,totals,2.5,LowVig.ag,Under +2.5,1.9300
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,totals,2.5,BetOnline.ag,Over +2.5,1.9200
+2026-11-08T18:35:41+00:00,7f50eb7deaebfbcd45c3f4e7cd3724e4,Fiorentina vs Juventus,totals,2.5,BetOnline.ag,Under +2.5,1.9300
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,h2h,,FanDuel,Marseille,3.0000
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,h2h,,FanDuel,RC Lens,2.2500
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,h2h,,FanDuel,Draw,3.5000
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,h2h,,BetMGM,Marseille,2.9500
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,h2h,,BetMGM,RC Lens,2.2500
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,h2h,,BetMGM,Draw,3.6000
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,h2h,,BetRivers,Marseille,2.8500
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,h2h,,BetRivers,RC Lens,2.2800
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,h2h,,BetRivers,Draw,3.6000
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,h2h,,Bovada,Marseille,3.0000
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,h2h,,Bovada,RC Lens,2.3000
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,h2h,,Bovada,Draw,3.6000
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,h2h,,DraftKings,Marseille,3.0500
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,h2h,,DraftKings,RC Lens,2.2500
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,h2h,,DraftKings,Draw,3.5500
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,h2h,,BetUS,Marseille,3.0000
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,h2h,,BetUS,RC Lens,2.2500
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,h2h,,BetUS,Draw,3.6000
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,h2h,,BetOnline.ag,Marseille,3.1000
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,h2h,,BetOnline.ag,RC Lens,2.2800
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,h2h,,BetOnline.ag,Draw,3.6600
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,h2h,,LowVig.ag,Marseille,3.1000
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,h2h,,LowVig.ag,RC Lens,2.2800
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,h2h,,LowVig.ag,Draw,3.6600
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,totals,2.5,BetMGM,Over +2.5,1.6200
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,totals,2.5,BetMGM,Under +2.5,2.1500
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,totals,2.5,BetRivers,Over +2.5,1.6100
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,totals,2.5,BetRivers,Under +2.5,2.2500
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,totals,3.0,Bovada,Over +3,2.0800
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,totals,3.0,Bovada,Under +3,1.7800
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,totals,3.0,BetUS,Over +3,2.0000
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,totals,3.0,BetUS,Under +3,1.7700
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,totals,3.0,BetOnline.ag,Over +3,2.0800
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,totals,3.0,BetOnline.ag,Under +3,1.7800
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,totals,3.0,LowVig.ag,Over +3,2.0800
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,totals,3.0,LowVig.ag,Under +3,1.7800
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,spreads,0.25,Bovada,Marseille +0.25,1.8500
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,spreads,-0.25,Bovada,RC Lens -0.25,1.9800
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,spreads,0.5,BetUS,Marseille +0.5,1.6700
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,spreads,-0.5,BetUS,RC Lens -0.5,2.2000
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,spreads,0.5,BetOnline.ag,Marseille +0.5,1.6700
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,spreads,-0.5,BetOnline.ag,RC Lens -0.5,2.2800
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,spreads,0.5,LowVig.ag,Marseille +0.5,1.6700
+2026-11-08T18:35:41+00:00,4e917e19b59093a02a0e12bcf9a5ecc4,RC Lens vs Marseille,spreads,-0.5,LowVig.ag,RC Lens -0.5,2.2800
+2026-11-08T18:35:41+00:00,a0bd5663efc354e1a58ea639f6f3d572,Central Córdoba vs Lanus,h2h,,BetRivers,Central Córdoba,4.9000
+2026-11-08T18:35:41+00:00,a0bd5663efc354e1a58ea639f6f3d572,Central Córdoba vs Lanus,h2h,,BetRivers,Lanus,1.6700
+2026-11-08T18:35:41+00:00,a0bd5663efc354e1a58ea639f6f3d572,Central Córdoba vs Lanus,h2h,,BetRivers,Draw,3.5000
+2026-11-08T18:35:41+00:00,a0bd5663efc354e1a58ea639f6f3d572,Central Córdoba vs Lanus,h2h,,Bovada,Central Córdoba,4.9000
+2026-11-08T18:35:41+00:00,a0bd5663efc354e1a58ea639f6f3d572,Central Córdoba vs Lanus,h2h,,Bovada,Lanus,1.7200
+2026-11-08T18:35:41+00:00,a0bd5663efc354e1a58ea639f6f3d572,Central Córdoba vs Lanus,h2h,,Bovada,Draw,3.5500
+2026-11-08T18:35:41+00:00,a0bd5663efc354e1a58ea639f6f3d572,Central Córdoba vs Lanus,h2h,,BetMGM,Central Córdoba,5.0000
+2026-11-08T18:35:41+00:00,a0bd5663efc354e1a58ea639f6f3d572,Central Córdoba vs Lanus,h2h,,BetMGM,Lanus,1.7100
+2026-11-08T18:35:41+00:00,a0bd5663efc354e1a58ea639f6f3d572,Central Córdoba vs Lanus,h2h,,BetMGM,Draw,3.5000
+2026-11-08T18:35:41+00:00,a0bd5663efc354e1a58ea639f6f3d572,Central Córdoba vs Lanus,h2h,,FanDuel,Central Córdoba,5.0000
+2026-11-08T18:35:41+00:00,a0bd5663efc354e1a58ea639f6f3d572,Central Córdoba vs Lanus,h2h,,FanDuel,Lanus,1.6900
+2026-11-08T18:35:41+00:00,a0bd5663efc354e1a58ea639f6f3d572,Central Córdoba vs Lanus,h2h,,FanDuel,Draw,3.5000
+2026-11-08T18:35:41+00:00,a0bd5663efc354e1a58ea639f6f3d572,Central Córdoba vs Lanus,h2h,,LowVig.ag,Central Córdoba,5.1000
+2026-11-08T18:35:41+00:00,a0bd5663efc354e1a58ea639f6f3d572,Central Córdoba vs Lanus,h2h,,LowVig.ag,Lanus,1.7800
+2026-11-08T18:35:41+00:00,a0bd5663efc354e1a58ea639f6f3d572,Central Córdoba vs Lanus,h2h,,LowVig.ag,Draw,3.6000
+2026-11-08T18:35:41+00:00,a0bd5663efc354e1a58ea639f6f3d572,Central Córdoba vs Lanus,h2h,,BetOnline.ag,Central Córdoba,5.1000
+2026-11-08T18:35:41+00:00,a0bd5663efc354e1a58ea639f6f3d572,Central Córdoba vs Lanus,h2h,,BetOnline.ag,Lanus,1.7800
+2026-11-08T18:35:41+00:00,a0bd5663efc354e1a58ea639f6f3d572,Central Córdoba vs Lanus,h2h,,BetOnline.ag,Draw,3.6000
+2026-11-08T18:35:41+00:00,a0bd5663efc354e1a58ea639f6f3d572,Central Córdoba vs Lanus,h2h,,DraftKings,Central Córdoba,5.0000
+2026-11-08T18:35:41+00:00,a0bd5663efc354e1a58ea639f6f3d572,Central Córdoba vs Lanus,h2h,,DraftKings,Lanus,1.7100
+2026-11-08T18:35:41+00:00,a0bd5663efc354e1a58ea639f6f3d572,Central Córdoba vs Lanus,h2h,,DraftKings,Draw,3.5500
+2026-11-08T18:35:41+00:00,a0bd5663efc354e1a58ea639f6f3d572,Central Córdoba vs Lanus,totals,2.5,BetRivers,Over +2.5,2.1600
+2026-11-08T18:35:41+00:00,a0bd5663efc354e1a58ea639f6f3d572,Central Córdoba vs Lanus,totals,2.5,BetRivers,Under +2.5,1.6500
+2026-11-08T18:35:41+00:00,a0bd5663efc354e1a58ea639f6f3d572,Central Córdoba vs Lanus,totals,2.0,Bovada,Over +2,1.6800
+2026-11-08T18:35:41+00:00,a0bd5663efc354e1a58ea639f6f3d572,Central Córdoba vs Lanus,totals,2.0,Bovada,Under +2,2.2200
+2026-11-08T18:35:41+00:00,a0bd5663efc354e1a58ea639f6f3d572,Central Córdoba vs Lanus,totals,2.5,BetMGM,Over +2.5,2.1500
+2026-11-08T18:35:41+00:00,a0bd5663efc354e1a58ea639f6f3d572,Central Córdoba vs Lanus,totals,2.5,BetMGM,Under +2.5,1.6200
+2026-11-08T18:35:41+00:00,a0bd5663efc354e1a58ea639f6f3d572,Central Córdoba vs Lanus,totals,2.5,LowVig.ag,Over +2.5,2.1300
+2026-11-08T18:35:41+00:00,a0bd5663efc354e1a58ea639f6f3d572,Central Córdoba vs Lanus,totals,2.5,LowVig.ag,Under +2.5,1.6700
+2026-11-08T18:35:41+00:00,a0bd5663efc354e1a58ea639f6f3d572,Central Córdoba vs Lanus,totals,2.5,BetOnline.ag,Over +2.5,2.1300
+2026-11-08T18:35:41+00:00,a0bd5663efc354e1a58ea639f6f3d572,Central Córdoba vs Lanus,totals,2.5,BetOnline.ag,Under +2.5,1.6700
+2026-11-08T18:35:41+00:00,a0bd5663efc354e1a58ea639f6f3d572,Central Córdoba vs Lanus,spreads,0.75,Bovada,Central Córdoba +0.75,1.8500
+2026-11-08T18:35:41+00:00,a0bd5663efc354e1a58ea639f6f3d572,Central Córdoba vs Lanus,spreads,-0.75,Bovada,Lanus -0.75,1.9800
+2026-11-08T18:35:41+00:00,a0bd5663efc354e1a58ea639f6f3d572,Central Córdoba vs Lanus,spreads,0.5,LowVig.ag,Central Córdoba +0.5,2.0600
+2026-11-08T18:35:41+00:00,a0bd5663efc354e1a58ea639f6f3d572,Central Córdoba vs Lanus,spreads,-0.5,LowVig.ag,Lanus -0.5,1.7800
+2026-11-08T18:35:41+00:00,a0bd5663efc354e1a58ea639f6f3d572,Central Córdoba vs Lanus,spreads,0.5,BetOnline.ag,Central Córdoba +0.5,2.0600
+2026-11-08T18:35:41+00:00,a0bd5663efc354e1a58ea639f6f3d572,Central Córdoba vs Lanus,spreads,-0.5,BetOnline.ag,Lanus -0.5,1.7800
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,h2h,,BetRivers,Benfica,1.1400
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,h2h,,BetRivers,CF Estrela,12.5000
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,h2h,,BetRivers,Draw,7.0000
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,h2h,,LowVig.ag,Benfica,1.1800
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,h2h,,LowVig.ag,CF Estrela,10.5000
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,h2h,,LowVig.ag,Draw,7.8000
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,h2h,,BetOnline.ag,Benfica,1.1800
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,h2h,,BetOnline.ag,CF Estrela,10.5000
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,h2h,,BetOnline.ag,Draw,7.8000
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,h2h,,FanDuel,Benfica,1.1500
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,h2h,,FanDuel,CF Estrela,11.0000
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,h2h,,FanDuel,Draw,7.5000
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,h2h,,BetMGM,Benfica,1.2200
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,h2h,,BetMGM,CF Estrela,10.5000
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,h2h,,BetMGM,Draw,6.7500
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,h2h,,DraftKings,Benfica,1.1900
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,h2h,,DraftKings,CF Estrela,12.0000
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,h2h,,DraftKings,Draw,7.5000
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,h2h,,Bovada,Benfica,1.1700
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,h2h,,Bovada,CF Estrela,12.0000
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,h2h,,Bovada,Draw,7.7500
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,h2h,,BetUS,Benfica,1.1800
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,h2h,,BetUS,CF Estrela,11.6500
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,h2h,,BetUS,Draw,7.5500
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,totals,3.5,BetRivers,Over +3.5,1.9200
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,totals,3.5,BetRivers,Under +3.5,1.8100
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,totals,3.5,LowVig.ag,Over +3.5,1.9400
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,totals,3.5,LowVig.ag,Under +3.5,1.8500
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,totals,3.5,BetOnline.ag,Over +3.5,1.9400
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,totals,3.5,BetOnline.ag,Under +3.5,1.8500
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,totals,3.5,BetMGM,Over +3.5,1.8700
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,totals,3.5,BetMGM,Under +3.5,1.8300
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,totals,3.5,Bovada,Over +3.5,1.9100
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,totals,3.5,Bovada,Under +3.5,1.9100
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,totals,3.5,BetUS,Over +3.5,1.8700
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,totals,3.5,BetUS,Under +3.5,1.8700
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,spreads,-2.0,LowVig.ag,Benfica -2,1.9300
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,spreads,2.0,LowVig.ag,CF Estrela +2,1.8800
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,spreads,-2.0,BetOnline.ag,Benfica -2,1.9300
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,spreads,2.0,BetOnline.ag,CF Estrela +2,1.8800
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,spreads,-2.0,Bovada,Benfica -2,1.9300
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,spreads,2.0,Bovada,CF Estrela +2,1.8900
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,spreads,-2.0,BetUS,Benfica -2,1.9100
+2026-11-08T18:35:41+00:00,c02a3d0a40d536e48bb60dffe0e3cd1e,CF Estrela vs Benfica,spreads,2.0,BetUS,CF Estrela +2,1.8300
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,h2h,,BetRivers,Braga,1.4800
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,h2h,,BetRivers,Rio Ave FC,5.7500
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,h2h,,BetRivers,Draw,4.0000
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,h2h,,Bovada,Braga,1.4800
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,h2h,,Bovada,Rio Ave FC,6.0000
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,h2h,,Bovada,Draw,4.4500
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,h2h,,LowVig.ag,Braga,1.5000
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,h2h,,LowVig.ag,Rio Ave FC,5.9000
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,h2h,,LowVig.ag,Draw,4.5000
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,h2h,,BetOnline.ag,Braga,1.5000
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,h2h,,BetOnline.ag,Rio Ave FC,5.9000
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,h2h,,BetOnline.ag,Draw,4.5000
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,h2h,,BetMGM,Braga,1.4800
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,h2h,,BetMGM,Rio Ave FC,5.7500
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,h2h,,BetMGM,Draw,4.4000
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,h2h,,DraftKings,Braga,1.5000
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,h2h,,DraftKings,Rio Ave FC,6.0000
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,h2h,,DraftKings,Draw,4.5000
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,h2h,,FanDuel,Braga,1.4800
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,h2h,,FanDuel,Rio Ave FC,6.0000
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,h2h,,FanDuel,Draw,4.4000
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,h2h,,BetUS,Braga,1.4500
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,h2h,,BetUS,Rio Ave FC,6.5000
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,h2h,,BetUS,Draw,4.2000
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,totals,2.5,BetRivers,Over +2.5,1.7100
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,totals,2.5,BetRivers,Under +2.5,2.0400
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,totals,2.75,Bovada,Over +2.75,1.8300
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,totals,2.75,Bovada,Under +2.75,2.0000
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,totals,2.75,LowVig.ag,Over +2.75,1.7900
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,totals,2.75,LowVig.ag,Under +2.75,2.0000
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,totals,2.75,BetOnline.ag,Over +2.75,1.7900
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,totals,2.75,BetOnline.ag,Under +2.75,2.0000
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,totals,2.5,BetMGM,Over +2.5,1.6200
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,totals,2.5,BetMGM,Under +2.5,2.1000
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,totals,2.5,BetUS,Over +2.5,1.6500
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,totals,2.5,BetUS,Under +2.5,2.2400
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,spreads,-1.0,Bovada,Braga -1,1.8000
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,spreads,1.0,Bovada,Rio Ave FC +1,2.0500
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,spreads,-1.0,LowVig.ag,Braga -1,1.8000
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,spreads,1.0,LowVig.ag,Rio Ave FC +1,2.0300
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,spreads,-1.0,BetOnline.ag,Braga -1,1.8000
+2026-11-08T18:35:41+00:00,3642cddab8c2e0da43a419cdd01d1db0,Rio Ave FC vs Braga,spreads,1.0,BetOnline.ag,Rio Ave FC +1,2.0300
