@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-09T23:13:36.772598+00:00",
+  "generado": "2026-11-10T20:39:48.303667+00:00",
   "resumen": {
     "n": 0,
     "ev_promedio": 0.0,
@@ -7,9 +7,10 @@
     "por_deporte": {}
   },
   "avisos": [
-    "créditos: 114/500 del mes (esta corrida gastó 3)"
+    "ningún partido en ventana: esta corrida no gastó créditos",
+    "créditos: 114/500 del mes (esta corrida gastó 0)"
   ],
-  "eventos": 1,
+  "eventos": 0,
   "jugadas": [],
   "movimientos": [],
   "arbitrajes": [],
