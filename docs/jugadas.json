@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-11T20:59:50.488226+00:00",
+  "generado": "2026-11-12T21:15:08.315762+00:00",
   "resumen": {
     "n": 0,
     "ev_promedio": 0.0,
@@ -7,10 +7,11 @@
     "por_deporte": {}
   },
   "avisos": [
-    "modelo futbol: 502 Server Error: Bad Gateway for url: http://api.clubelo.com/2026-11-11 (sigue el detector de mercado)",
-    "créditos: 117/500 del mes (esta corrida gastó 3)"
+    "momios americanfootball_nfl: Cuota agotada en The Odds API. Espera al proximo ciclo o sube de plan.",
+    "momios soccer_brazil_serie_b: Cuota agotada en The Odds API. Espera al proximo ciclo o sube de plan.",
+    "créditos: 117/500 del mes (esta corrida gastó 6)"
   ],
-  "eventos": 1,
+  "eventos": 0,
   "jugadas": [],
   "movimientos": [],
   "arbitrajes": [],
