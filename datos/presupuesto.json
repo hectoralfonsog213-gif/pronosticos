@@ -1,6 +1,6 @@
 {
   "mes": "2026-11",
-  "gastado": 117,
+  "gastado": 126,
   "ultimas": {
     "americanfootball_nfl": "2026-11-12T21:15:08+00:00",
     "soccer_mexico_ligamx": "2026-11-08T18:35:41+00:00",
@@ -14,7 +14,10 @@
     "soccer_chile_campeonato": "2026-11-02T22:31:21+00:00",
     "soccer_australia_aleague": "2026-11-05T20:53:46+00:00",
     "soccer_epl": "2026-11-06T20:10:24+00:00",
-    "soccer_portugal_primeira_liga": "2026-11-08T18:35:41+00:00"
+    "soccer_portugal_primeira_liga": "2026-11-08T18:35:41+00:00",
+    "soccer_uefa_nations_league": "2026-11-13T20:42:24+00:00",
+    "soccer_spain_segunda_division": "2026-11-13T20:42:24+00:00",
+    "soccer_england_league2": "2026-11-13T20:42:24+00:00"
   },
   "por_dia": {
     "2026-11-01": 21,
@@ -27,6 +30,7 @@
     "2026-11-08": 21,
     "2026-11-09": 3,
     "2026-11-11": 3,
-    "2026-11-12": 6
+    "2026-11-12": 6,
+    "2026-11-13": 9
   }
 }

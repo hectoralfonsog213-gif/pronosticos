@@ -1,0 +1,123 @@
+ts,evento_id,evento,mercado,punto,casa,seleccion,decimal
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,h2h,,Bovada,Israel,4.3000
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,h2h,,Bovada,Kosovo,1.8100
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,h2h,,Bovada,Draw,3.6000
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,h2h,,BetRivers,Israel,4.1000
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,h2h,,BetRivers,Kosovo,1.8700
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,h2h,,BetRivers,Draw,3.6000
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,h2h,,BetMGM,Israel,4.2000
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,h2h,,BetMGM,Kosovo,1.8300
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,h2h,,BetMGM,Draw,3.6000
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,h2h,,DraftKings,Israel,4.2000
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,h2h,,DraftKings,Kosovo,1.8000
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,h2h,,DraftKings,Draw,3.5000
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,h2h,,MyBookie.ag,Israel,4.2000
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,h2h,,MyBookie.ag,Kosovo,1.8200
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,h2h,,MyBookie.ag,Draw,3.4400
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,h2h,,BetUS,Israel,4.2000
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,h2h,,BetUS,Kosovo,1.8000
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,h2h,,BetUS,Draw,3.7000
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,h2h,,FanDuel,Israel,4.2000
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,h2h,,FanDuel,Kosovo,1.8000
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,h2h,,FanDuel,Draw,3.6000
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,h2h,,BetOnline.ag,Israel,4.3800
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,h2h,,BetOnline.ag,Kosovo,1.8100
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,h2h,,BetOnline.ag,Draw,3.7000
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,h2h,,LowVig.ag,Israel,4.3800
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,h2h,,LowVig.ag,Kosovo,1.8100
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,h2h,,LowVig.ag,Draw,3.7000
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,spreads,0.5,Bovada,Israel +0.5,2.0200
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,spreads,-0.5,Bovada,Kosovo -0.5,1.8200
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,spreads,0.5,MyBookie.ag,Israel +0.5,1.9100
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,spreads,-0.5,MyBookie.ag,Kosovo -0.5,1.8000
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,spreads,0.5,BetOnline.ag,Israel +0.5,2.0300
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,spreads,-0.5,BetOnline.ag,Kosovo -0.5,1.8100
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,spreads,0.5,LowVig.ag,Israel +0.5,2.0300
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,spreads,-0.5,LowVig.ag,Kosovo -0.5,1.8100
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,totals,2.5,Bovada,Over +2.5,1.8900
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,totals,2.5,Bovada,Under +2.5,1.9300
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,totals,2.5,BetRivers,Over +2.5,1.8500
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,totals,2.5,BetRivers,Under +2.5,1.8900
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,totals,2.5,BetMGM,Over +2.5,1.8500
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,totals,2.5,BetMGM,Under +2.5,1.8300
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,totals,2.5,MyBookie.ag,Over +2.5,1.8500
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,totals,2.5,MyBookie.ag,Under +2.5,1.8500
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,totals,2.5,BetUS,Over +2.5,1.9300
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,totals,2.5,BetUS,Under +2.5,1.8700
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,totals,2.5,BetOnline.ag,Over +2.5,1.8600
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,totals,2.5,BetOnline.ag,Under +2.5,1.9600
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,totals,2.5,LowVig.ag,Over +2.5,1.8600
+2026-11-13T20:42:24+00:00,244d7d2e6f3f8529af59270040b7ec7a,Kosovo vs Israel,totals,2.5,LowVig.ag,Under +2.5,1.9600
+2026-11-13T20:42:24+00:00,908247d5d5cd714de37956edf865668b,Real Valladolid CF vs CD Castellón,h2h,,LowVig.ag,CD Castellón,2.2600
+2026-11-13T20:42:24+00:00,908247d5d5cd714de37956edf865668b,Real Valladolid CF vs CD Castellón,h2h,,LowVig.ag,Real Valladolid CF,2.9000
+2026-11-13T20:42:24+00:00,908247d5d5cd714de37956edf865668b,Real Valladolid CF vs CD Castellón,h2h,,LowVig.ag,Draw,3.6500
+2026-11-13T20:42:24+00:00,908247d5d5cd714de37956edf865668b,Real Valladolid CF vs CD Castellón,h2h,,BetOnline.ag,CD Castellón,2.2600
+2026-11-13T20:42:24+00:00,908247d5d5cd714de37956edf865668b,Real Valladolid CF vs CD Castellón,h2h,,BetOnline.ag,Real Valladolid CF,2.9000
+2026-11-13T20:42:24+00:00,908247d5d5cd714de37956edf865668b,Real Valladolid CF vs CD Castellón,h2h,,BetOnline.ag,Draw,3.6500
+2026-11-13T20:42:24+00:00,908247d5d5cd714de37956edf865668b,Real Valladolid CF vs CD Castellón,h2h,,FanDuel,CD Castellón,2.2000
+2026-11-13T20:42:24+00:00,908247d5d5cd714de37956edf865668b,Real Valladolid CF vs CD Castellón,h2h,,FanDuel,Real Valladolid CF,2.9000
+2026-11-13T20:42:24+00:00,908247d5d5cd714de37956edf865668b,Real Valladolid CF vs CD Castellón,h2h,,FanDuel,Draw,3.6000
+2026-11-13T20:42:24+00:00,908247d5d5cd714de37956edf865668b,Real Valladolid CF vs CD Castellón,h2h,,BetMGM,CD Castellón,2.1500
+2026-11-13T20:42:24+00:00,908247d5d5cd714de37956edf865668b,Real Valladolid CF vs CD Castellón,h2h,,BetMGM,Real Valladolid CF,2.8800
+2026-11-13T20:42:24+00:00,908247d5d5cd714de37956edf865668b,Real Valladolid CF vs CD Castellón,h2h,,BetMGM,Draw,3.5000
+2026-11-13T20:42:24+00:00,908247d5d5cd714de37956edf865668b,Real Valladolid CF vs CD Castellón,h2h,,DraftKings,CD Castellón,2.2500
+2026-11-13T20:42:24+00:00,908247d5d5cd714de37956edf865668b,Real Valladolid CF vs CD Castellón,h2h,,DraftKings,Real Valladolid CF,2.9000
+2026-11-13T20:42:24+00:00,908247d5d5cd714de37956edf865668b,Real Valladolid CF vs CD Castellón,h2h,,DraftKings,Draw,3.6500
+2026-11-13T20:42:24+00:00,908247d5d5cd714de37956edf865668b,Real Valladolid CF vs CD Castellón,h2h,,Bovada,CD Castellón,2.2000
+2026-11-13T20:42:24+00:00,908247d5d5cd714de37956edf865668b,Real Valladolid CF vs CD Castellón,h2h,,Bovada,Real Valladolid CF,2.8500
+2026-11-13T20:42:24+00:00,908247d5d5cd714de37956edf865668b,Real Valladolid CF vs CD Castellón,h2h,,Bovada,Draw,3.6000
+2026-11-13T20:42:24+00:00,908247d5d5cd714de37956edf865668b,Real Valladolid CF vs CD Castellón,spreads,-0.25,LowVig.ag,CD Castellón -0.25,1.9500
+2026-11-13T20:42:24+00:00,908247d5d5cd714de37956edf865668b,Real Valladolid CF vs CD Castellón,spreads,0.25,LowVig.ag,Real Valladolid CF +0.25,1.8300
+2026-11-13T20:42:24+00:00,908247d5d5cd714de37956edf865668b,Real Valladolid CF vs CD Castellón,spreads,-0.25,BetOnline.ag,CD Castellón -0.25,1.9500
+2026-11-13T20:42:24+00:00,908247d5d5cd714de37956edf865668b,Real Valladolid CF vs CD Castellón,spreads,0.25,BetOnline.ag,Real Valladolid CF +0.25,1.8300
+2026-11-13T20:42:24+00:00,908247d5d5cd714de37956edf865668b,Real Valladolid CF vs CD Castellón,spreads,-0.25,Bovada,CD Castellón -0.25,1.9800
+2026-11-13T20:42:24+00:00,908247d5d5cd714de37956edf865668b,Real Valladolid CF vs CD Castellón,spreads,0.25,Bovada,Real Valladolid CF +0.25,1.8500
+2026-11-13T20:42:24+00:00,908247d5d5cd714de37956edf865668b,Real Valladolid CF vs CD Castellón,totals,2.75,LowVig.ag,Over +2.75,1.8600
+2026-11-13T20:42:24+00:00,908247d5d5cd714de37956edf865668b,Real Valladolid CF vs CD Castellón,totals,2.75,LowVig.ag,Under +2.75,1.8900
+2026-11-13T20:42:24+00:00,908247d5d5cd714de37956edf865668b,Real Valladolid CF vs CD Castellón,totals,2.75,BetOnline.ag,Over +2.75,1.8600
+2026-11-13T20:42:24+00:00,908247d5d5cd714de37956edf865668b,Real Valladolid CF vs CD Castellón,totals,2.75,BetOnline.ag,Under +2.75,1.8900
+2026-11-13T20:42:24+00:00,908247d5d5cd714de37956edf865668b,Real Valladolid CF vs CD Castellón,totals,2.5,BetMGM,Over +2.5,1.6700
+2026-11-13T20:42:24+00:00,908247d5d5cd714de37956edf865668b,Real Valladolid CF vs CD Castellón,totals,2.5,BetMGM,Under +2.5,2.0500
+2026-11-13T20:42:24+00:00,908247d5d5cd714de37956edf865668b,Real Valladolid CF vs CD Castellón,totals,2.75,Bovada,Over +2.75,1.8900
+2026-11-13T20:42:24+00:00,908247d5d5cd714de37956edf865668b,Real Valladolid CF vs CD Castellón,totals,2.75,Bovada,Under +2.75,1.9300
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,h2h,,Bovada,Cheltenham Town,3.8000
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,h2h,,Bovada,Exeter City,1.8800
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,h2h,,Bovada,Draw,3.4500
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,h2h,,DraftKings,Cheltenham Town,3.9000
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,h2h,,DraftKings,Exeter City,1.9100
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,h2h,,DraftKings,Draw,3.6500
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,h2h,,BetMGM,Cheltenham Town,3.6000
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,h2h,,BetMGM,Exeter City,1.8300
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,h2h,,BetMGM,Draw,3.3000
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,h2h,,BetRivers,Cheltenham Town,3.8000
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,h2h,,BetRivers,Exeter City,1.8100
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,h2h,,BetRivers,Draw,3.4500
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,h2h,,LowVig.ag,Cheltenham Town,4.0000
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,h2h,,LowVig.ag,Exeter City,1.7400
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,h2h,,LowVig.ag,Draw,3.7000
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,h2h,,BetOnline.ag,Cheltenham Town,4.0000
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,h2h,,BetOnline.ag,Exeter City,1.7400
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,h2h,,BetOnline.ag,Draw,3.7000
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,h2h,,BetUS,Cheltenham Town,4.0000
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,h2h,,BetUS,Exeter City,1.8100
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,h2h,,BetUS,Draw,3.5000
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,spreads,0.5,Bovada,Cheltenham Town +0.5,1.9300
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,spreads,-0.5,Bovada,Exeter City -0.5,1.8200
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,spreads,0.5,LowVig.ag,Cheltenham Town +0.5,1.9900
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,spreads,-0.5,LowVig.ag,Exeter City -0.5,1.7400
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,spreads,0.5,BetOnline.ag,Cheltenham Town +0.5,1.9900
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,spreads,-0.5,BetOnline.ag,Exeter City -0.5,1.7400
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,spreads,0.5,BetUS,Cheltenham Town +0.5,1.8700
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,spreads,-0.5,BetUS,Exeter City -0.5,1.8800
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,totals,2.5,Bovada,Over +2.5,1.8900
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,totals,2.5,Bovada,Under +2.5,1.8500
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,totals,2.5,BetMGM,Over +2.5,1.8900
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,totals,2.5,BetMGM,Under +2.5,1.8000
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,totals,2.5,BetRivers,Over +2.5,1.7600
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,totals,2.5,BetRivers,Under +2.5,1.9400
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,totals,2.5,LowVig.ag,Over +2.5,1.9100
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,totals,2.5,LowVig.ag,Under +2.5,1.8300
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,totals,2.5,BetOnline.ag,Over +2.5,1.9100
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,totals,2.5,BetOnline.ag,Under +2.5,1.8300
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,totals,2.5,BetUS,Over +2.5,1.9100
+2026-11-13T20:42:24+00:00,7bf0d1f95bb9b2b6003386c82ba96b6a,Exeter City vs Cheltenham Town,totals,2.5,BetUS,Under +2.5,1.8300

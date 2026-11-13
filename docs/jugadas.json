@@ -1,18 +1,41 @@
 {
-  "generado": "2026-11-12T21:15:08.315762+00:00",
+  "generado": "2026-11-13T20:42:24.751494+00:00",
   "resumen": {
-    "n": 0,
-    "ev_promedio": 0.0,
-    "exposicion": 0.0,
-    "por_deporte": {}
+    "n": 1,
+    "ev_promedio": 0.022418715033189818,
+    "exposicion": 0.00615898764648072,
+    "por_deporte": {
+      "futbol": 1
+    }
   },
   "avisos": [
-    "momios americanfootball_nfl: Cuota agotada en The Odds API. Espera al proximo ciclo o sube de plan.",
-    "momios soccer_brazil_serie_b: Cuota agotada en The Odds API. Espera al proximo ciclo o sube de plan.",
-    "créditos: 117/500 del mes (esta corrida gastó 6)"
+    "modelo futbol: 502 Server Error: Bad Gateway for url: http://api.clubelo.com/2026-11-13 (sigue el detector de mercado)",
+    "créditos: 126/500 del mes (esta corrida gastó 9)"
   ],
-  "eventos": 0,
-  "jugadas": [],
+  "eventos": 3,
+  "jugadas": [
+    {
+      "deporte": "futbol",
+      "liga": "League 2",
+      "evento": "Exeter City vs Cheltenham Town",
+      "inicio": "2026-11-14T12:30:00Z",
+      "mercado": "Ganador",
+      "seleccion": "Exeter City",
+      "casa": "DraftKings",
+      "momio_dec": 1.91,
+      "momio_am": "-110",
+      "p_justa": 0.5353,
+      "p_modelo": null,
+      "ev": 0.0224,
+      "ev_modelo": null,
+      "stake_pct": 0.616,
+      "n_casas": 5,
+      "fuente": "mercado",
+      "momio_minimo_dec": 1.905,
+      "momio_minimo_am": "-110",
+      "momio_empate_am": "-115"
+    }
+  ],
   "movimientos": [],
   "arbitrajes": [],
   "middles": []

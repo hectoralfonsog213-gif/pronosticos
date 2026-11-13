@@ -1,1 +1,21 @@
-{}
+{
+  "Exeter City vs Cheltenham Town|Ganador|Exeter City|DraftKings": {
+    "visto": "2026-11-13T20:42:24+00:00",
+    "deporte": "futbol",
+    "liga": "League 2",
+    "evento": "Exeter City vs Cheltenham Town",
+    "inicio": "2026-11-14T12:30:00Z",
+    "mercado": "Ganador",
+    "seleccion": "Exeter City",
+    "casa": "DraftKings",
+    "momio_dec": 1.91,
+    "p_justa": 0.5352977565618795,
+    "p_modelo": null,
+    "ev": 0.022418715033189818,
+    "ev_modelo": null,
+    "stake": 0.00615898764648072,
+    "n_casas": 5,
+    "fuente": "mercado",
+    "ev_minimo": 0.02
+  }
+}
