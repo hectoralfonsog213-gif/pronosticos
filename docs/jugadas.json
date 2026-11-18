@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-17T21:57:39.585418+00:00",
+  "generado": "2026-11-18T21:39:58.352971+00:00",
   "resumen": {
     "n": 0,
     "ev_promedio": 0.0,
@@ -7,10 +7,10 @@
     "por_deporte": {}
   },
   "avisos": [
-    "ningún partido en ventana: esta corrida no gastó créditos",
-    "créditos: 147/500 del mes (esta corrida gastó 0)"
+    "modelo futbol: 502 Server Error: Bad Gateway for url: http://api.clubelo.com/2026-11-18 (sigue el detector de mercado)",
+    "créditos: 150/500 del mes (esta corrida gastó 3)"
   ],
-  "eventos": 0,
+  "eventos": 6,
   "jugadas": [],
   "movimientos": [],
   "arbitrajes": [],
