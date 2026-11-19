@@ -1,0 +1,334 @@
+ts,evento_id,evento,mercado,punto,casa,seleccion,decimal
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,h2h,,DraftKings,Houston Texans,1.1400
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,h2h,,DraftKings,Indianapolis Colts,6.0200
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,h2h,,FanDuel,Houston Texans,1.1200
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,h2h,,FanDuel,Indianapolis Colts,6.7000
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,h2h,,BetUS,Houston Texans,1.1400
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,h2h,,BetUS,Indianapolis Colts,6.2500
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,h2h,,BetOnline.ag,Houston Texans,1.1400
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,h2h,,BetOnline.ag,Indianapolis Colts,6.2600
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,h2h,,LowVig.ag,Houston Texans,1.1400
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,h2h,,LowVig.ag,Indianapolis Colts,6.2600
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,h2h,,BetRivers,Houston Texans,1.1300
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,h2h,,BetRivers,Indianapolis Colts,6.1000
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,h2h,,MyBookie.ag,Houston Texans,1.1400
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,h2h,,MyBookie.ag,Indianapolis Colts,6.0000
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,h2h,,BetMGM,Houston Texans,1.1400
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,h2h,,BetMGM,Indianapolis Colts,6.2500
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,h2h,,Bovada,Houston Texans,1.1400
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,h2h,,Bovada,Indianapolis Colts,6.0000
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,spreads,-12.5,DraftKings,Houston Texans -12.5,1.9400
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,spreads,12.5,DraftKings,Indianapolis Colts +12.5,1.8800
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,spreads,-12.5,FanDuel,Houston Texans -12.5,1.9500
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,spreads,12.5,FanDuel,Indianapolis Colts +12.5,1.8700
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,spreads,-12.5,BetUS,Houston Texans -12.5,1.9100
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,spreads,12.5,BetUS,Indianapolis Colts +12.5,1.9100
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,spreads,-12.5,BetOnline.ag,Houston Texans -12.5,1.9100
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,spreads,12.5,BetOnline.ag,Indianapolis Colts +12.5,1.9100
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,spreads,-12.5,LowVig.ag,Houston Texans -12.5,1.9500
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,spreads,12.5,LowVig.ag,Indianapolis Colts +12.5,1.9500
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,spreads,-12.0,BetRivers,Houston Texans -12,1.8800
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,spreads,12.0,BetRivers,Indianapolis Colts +12,1.9300
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,spreads,-12.5,MyBookie.ag,Houston Texans -12.5,1.9100
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,spreads,12.5,MyBookie.ag,Indianapolis Colts +12.5,1.9100
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,spreads,-12.5,BetMGM,Houston Texans -12.5,1.9500
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,spreads,12.5,BetMGM,Indianapolis Colts +12.5,1.9500
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,spreads,-12.5,Bovada,Houston Texans -12.5,1.9100
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,spreads,12.5,Bovada,Indianapolis Colts +12.5,1.9100
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,totals,44.5,DraftKings,Over +44.5,1.9600
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,totals,44.5,DraftKings,Under +44.5,1.8600
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,totals,43.5,FanDuel,Over +43.5,1.8300
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,totals,43.5,FanDuel,Under +43.5,2.0000
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,totals,44.0,BetUS,Over +44,1.9100
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,totals,44.0,BetUS,Under +44,1.9100
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,totals,44.0,BetOnline.ag,Over +44,1.8600
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,totals,44.0,BetOnline.ag,Under +44,1.9600
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,totals,44.0,LowVig.ag,Over +44,1.9300
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,totals,44.0,LowVig.ag,Under +44,1.9300
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,totals,44.0,BetRivers,Over +44,1.8800
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,totals,44.0,BetRivers,Under +44,1.9300
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,totals,44.0,MyBookie.ag,Over +44,1.9100
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,totals,44.0,MyBookie.ag,Under +44,1.9100
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,totals,44.0,BetMGM,Over +44,1.9100
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,totals,44.0,BetMGM,Under +44,1.9300
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,totals,44.0,Bovada,Over +44,1.8900
+2026-11-19T21:55:49+00:00,66f9e83cf025d58acee12bce18661fb3,Houston Texans vs Indianapolis Colts,totals,44.0,Bovada,Under +44,1.9300
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,h2h,,BetMGM,FC Cincinnati,2.4500
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,h2h,,BetMGM,Orlando City SC,2.4000
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,h2h,,BetMGM,Draw,4.0000
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,h2h,,Bovada,FC Cincinnati,2.5500
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,h2h,,Bovada,Orlando City SC,2.3900
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,h2h,,Bovada,Draw,3.9500
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,h2h,,FanDuel,FC Cincinnati,2.5500
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,h2h,,FanDuel,Orlando City SC,2.4000
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,h2h,,FanDuel,Draw,4.0000
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,h2h,,MyBookie.ag,FC Cincinnati,2.6100
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,h2h,,MyBookie.ag,Orlando City SC,2.3300
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,h2h,,MyBookie.ag,Draw,4.0000
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,h2h,,DraftKings,FC Cincinnati,2.5500
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,h2h,,DraftKings,Orlando City SC,2.3500
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,h2h,,DraftKings,Draw,3.9000
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,h2h,,BetRivers,FC Cincinnati,2.5500
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,h2h,,BetRivers,Orlando City SC,2.3200
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,h2h,,BetRivers,Draw,3.9500
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,h2h,,BetUS,FC Cincinnati,2.5000
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,h2h,,BetUS,Orlando City SC,2.5000
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,h2h,,BetUS,Draw,3.9500
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,totals,3.5,BetMGM,Over +3.5,1.6900
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,totals,3.5,BetMGM,Under +3.5,2.0000
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,totals,3.75,LowVig.ag,Over +3.75,1.9500
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,totals,3.75,LowVig.ag,Under +3.75,1.8300
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,totals,3.75,BetOnline.ag,Over +3.75,1.9500
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,totals,3.75,BetOnline.ag,Under +3.75,1.8300
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,totals,3.75,Bovada,Over +3.75,1.9100
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,totals,3.75,Bovada,Under +3.75,1.9100
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,totals,3.5,MyBookie.ag,Over +3.5,1.7000
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,totals,3.5,MyBookie.ag,Under +3.5,2.0800
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,totals,3.5,BetRivers,Over +3.5,1.7500
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,totals,3.5,BetRivers,Under +3.5,2.0400
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,totals,3.5,BetUS,Over +3.5,1.7700
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,totals,3.5,BetUS,Under +3.5,2.0000
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,spreads,0.25,LowVig.ag,FC Cincinnati +0.25,1.7400
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,spreads,-0.25,LowVig.ag,Orlando City SC -0.25,2.0900
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,spreads,0.25,BetOnline.ag,FC Cincinnati +0.25,1.7400
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,spreads,-0.25,BetOnline.ag,Orlando City SC -0.25,2.0900
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,spreads,0.0,Bovada,FC Cincinnati +0,1.9800
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,spreads,0.0,Bovada,Orlando City SC +0,1.8500
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,spreads,0.5,MyBookie.ag,FC Cincinnati +0.5,1.5900
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,spreads,-0.5,MyBookie.ag,Orlando City SC -0.5,2.2700
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,spreads,0.0,BetUS,FC Cincinnati +0,1.8700
+2026-11-19T21:55:49+00:00,ec0a3056ce896bd73059bffab79fc261,Orlando City SC vs FC Cincinnati,spreads,0.0,BetUS,Orlando City SC +0,1.8700
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,h2h,,BetMGM,Real Salt Lake,3.6000
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,h2h,,BetMGM,Seattle Sounders FC,1.9300
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,h2h,,BetMGM,Draw,3.6000
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,h2h,,FanDuel,Real Salt Lake,3.4000
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,h2h,,FanDuel,Seattle Sounders FC,2.0500
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,h2h,,FanDuel,Draw,3.7000
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,h2h,,Bovada,Real Salt Lake,3.4000
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,h2h,,Bovada,Seattle Sounders FC,2.0000
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,h2h,,Bovada,Draw,3.7000
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,h2h,,MyBookie.ag,Real Salt Lake,3.2400
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,h2h,,MyBookie.ag,Seattle Sounders FC,2.0900
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,h2h,,MyBookie.ag,Draw,3.6500
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,h2h,,DraftKings,Real Salt Lake,3.2500
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,h2h,,DraftKings,Seattle Sounders FC,2.0000
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,h2h,,DraftKings,Draw,3.6000
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,h2h,,BetRivers,Real Salt Lake,3.5500
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,h2h,,BetRivers,Seattle Sounders FC,1.8900
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,h2h,,BetRivers,Draw,3.8000
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,h2h,,BetUS,Real Salt Lake,3.4000
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,h2h,,BetUS,Seattle Sounders FC,2.0000
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,h2h,,BetUS,Draw,3.7000
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,totals,2.5,BetMGM,Over +2.5,1.5700
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,totals,2.5,BetMGM,Under +2.5,2.2500
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,totals,3.25,LowVig.ag,Over +3.25,2.0300
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,totals,3.25,LowVig.ag,Under +3.25,1.7600
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,totals,3.25,BetOnline.ag,Over +3.25,2.0300
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,totals,3.25,BetOnline.ag,Under +3.25,1.7600
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,totals,3.0,Bovada,Over +3,1.9500
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,totals,3.0,Bovada,Under +3,1.8700
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,totals,2.5,MyBookie.ag,Over +2.5,1.5700
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,totals,2.5,MyBookie.ag,Under +2.5,2.3000
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,totals,3.5,BetRivers,Over +3.5,2.2800
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,totals,3.5,BetRivers,Under +3.5,1.6000
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,totals,3.0,BetUS,Over +3,1.8700
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,totals,3.0,BetUS,Under +3,1.8700
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,spreads,0.25,LowVig.ag,Real Salt Lake +0.25,2.1300
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,spreads,-0.25,LowVig.ag,Seattle Sounders FC -0.25,1.7100
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,spreads,0.25,BetOnline.ag,Real Salt Lake +0.25,2.1300
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,spreads,-0.25,BetOnline.ag,Seattle Sounders FC -0.25,1.7100
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,spreads,0.5,Bovada,Real Salt Lake +0.5,1.8300
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,spreads,-0.5,Bovada,Seattle Sounders FC -0.5,2.0000
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,spreads,0.5,MyBookie.ag,Real Salt Lake +0.5,1.7200
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,spreads,-0.5,MyBookie.ag,Seattle Sounders FC -0.5,2.0500
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,spreads,0.5,BetUS,Real Salt Lake +0.5,1.7700
+2026-11-19T21:55:49+00:00,d8eca71d848497deda0c022c1c27e3bc,Seattle Sounders FC vs Real Salt Lake,spreads,-0.5,BetUS,Seattle Sounders FC -0.5,2.0000
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,h2h,,MyBookie.ag,Bragantino-SP,2.6900
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,h2h,,MyBookie.ag,Vitoria,2.5600
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,h2h,,MyBookie.ag,Draw,3.3600
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,h2h,,FanDuel,Bragantino-SP,2.5500
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,h2h,,FanDuel,Vitoria,2.7000
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,h2h,,FanDuel,Draw,3.3000
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,h2h,,Bovada,Bragantino-SP,2.6500
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,h2h,,Bovada,Vitoria,2.5500
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,h2h,,Bovada,Draw,3.3000
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,h2h,,BetMGM,Bragantino-SP,2.6500
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,h2h,,BetMGM,Vitoria,2.5500
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,h2h,,BetMGM,Draw,3.4000
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,h2h,,BetRivers,Bragantino-SP,2.4500
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,h2h,,BetRivers,Vitoria,2.6000
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,h2h,,BetRivers,Draw,3.2500
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,h2h,,DraftKings,Bragantino-SP,2.6000
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,h2h,,DraftKings,Vitoria,2.6500
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,h2h,,DraftKings,Draw,3.4000
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,h2h,,BetOnline.ag,Bragantino-SP,2.5800
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,h2h,,BetOnline.ag,Vitoria,2.7500
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,h2h,,BetOnline.ag,Draw,3.5300
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,h2h,,LowVig.ag,Bragantino-SP,2.5800
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,h2h,,LowVig.ag,Vitoria,2.7500
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,h2h,,LowVig.ag,Draw,3.5300
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,h2h,,BetUS,Bragantino-SP,2.6500
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,h2h,,BetUS,Vitoria,2.5500
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,h2h,,BetUS,Draw,3.3000
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,spreads,0.5,MyBookie.ag,Bragantino-SP +0.5,1.5000
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,spreads,-0.5,MyBookie.ag,Vitoria -0.5,2.4800
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,spreads,0.0,Bovada,Bragantino-SP +0,1.8900
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,spreads,0.0,Bovada,Vitoria +0,1.9300
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,spreads,0.0,BetOnline.ag,Bragantino-SP +0,1.8500
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,spreads,0.0,BetOnline.ag,Vitoria +0,1.9900
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,spreads,0.0,LowVig.ag,Bragantino-SP +0,1.8500
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,spreads,0.0,LowVig.ag,Vitoria +0,1.9900
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,spreads,0.0,BetUS,Bragantino-SP +0,1.8300
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,spreads,0.0,BetUS,Vitoria +0,1.9100
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,totals,2.5,MyBookie.ag,Over +2.5,1.8700
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,totals,2.5,MyBookie.ag,Under +2.5,1.8700
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,totals,2.5,Bovada,Over +2.5,1.8700
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,totals,2.5,Bovada,Under +2.5,1.9500
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,totals,2.5,BetMGM,Over +2.5,1.7700
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,totals,2.5,BetMGM,Under +2.5,1.9100
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,totals,2.5,BetRivers,Over +2.5,1.7700
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,totals,2.5,BetRivers,Under +2.5,1.9700
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,totals,2.5,BetOnline.ag,Over +2.5,1.9300
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,totals,2.5,BetOnline.ag,Under +2.5,1.8800
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,totals,2.5,LowVig.ag,Over +2.5,1.9300
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,totals,2.5,LowVig.ag,Under +2.5,1.8800
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,totals,2.5,BetUS,Over +2.5,1.8700
+2026-11-19T21:55:49+00:00,fa3ad7ccd23c6fe47c3062a2b69d3ddd,Vitoria vs Bragantino-SP,totals,2.5,BetUS,Under +2.5,1.8700
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,h2h,,MyBookie.ag,Internacional,5.6000
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,h2h,,MyBookie.ag,Vasco da Gama,1.5400
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,h2h,,MyBookie.ag,Draw,4.3000
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,h2h,,FanDuel,Internacional,6.0000
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,h2h,,FanDuel,Vasco da Gama,1.4800
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,h2h,,FanDuel,Draw,4.3000
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,h2h,,Bovada,Internacional,5.7500
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,h2h,,Bovada,Vasco da Gama,1.5200
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,h2h,,Bovada,Draw,4.3000
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,h2h,,BetMGM,Internacional,5.7500
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,h2h,,BetMGM,Vasco da Gama,1.5300
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,h2h,,BetMGM,Draw,4.4000
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,h2h,,BetRivers,Internacional,5.3000
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,h2h,,BetRivers,Vasco da Gama,1.5100
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,h2h,,BetRivers,Draw,3.9500
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,h2h,,DraftKings,Internacional,5.7500
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,h2h,,DraftKings,Vasco da Gama,1.5300
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,h2h,,DraftKings,Draw,4.4000
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,h2h,,LowVig.ag,Internacional,6.1000
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,h2h,,LowVig.ag,Vasco da Gama,1.5400
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,h2h,,LowVig.ag,Draw,4.5100
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,h2h,,BetOnline.ag,Internacional,6.1000
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,h2h,,BetOnline.ag,Vasco da Gama,1.5400
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,h2h,,BetOnline.ag,Draw,4.5100
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,h2h,,BetUS,Internacional,5.7500
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,h2h,,BetUS,Vasco da Gama,1.5200
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,h2h,,BetUS,Draw,4.3000
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,spreads,1.5,MyBookie.ag,Internacional +1.5,1.5300
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,spreads,-1.5,MyBookie.ag,Vasco da Gama -1.5,2.3900
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,spreads,1.0,Bovada,Internacional +1,1.9300
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,spreads,-1.0,Bovada,Vasco da Gama -1,1.8900
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,spreads,1.0,LowVig.ag,Internacional +1,1.9300
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,spreads,-1.0,LowVig.ag,Vasco da Gama -1,1.8900
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,spreads,1.0,BetOnline.ag,Internacional +1,1.9300
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,spreads,-1.0,BetOnline.ag,Vasco da Gama -1,1.8900
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,spreads,1.0,BetUS,Internacional +1,1.8700
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,spreads,-1.0,BetUS,Vasco da Gama -1,1.8700
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,totals,2.5,MyBookie.ag,Over +2.5,1.6900
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,totals,2.5,MyBookie.ag,Under +2.5,2.0900
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,totals,2.5,Bovada,Over +2.5,1.7100
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,totals,2.5,Bovada,Under +2.5,2.1500
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,totals,2.5,BetMGM,Over +2.5,1.6700
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,totals,2.5,BetMGM,Under +2.5,2.0500
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,totals,2.5,BetRivers,Over +2.5,1.7200
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,totals,2.5,BetRivers,Under +2.5,2.0500
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,totals,2.5,LowVig.ag,Over +2.5,1.7200
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,totals,2.5,LowVig.ag,Under +2.5,2.0700
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,totals,2.5,BetOnline.ag,Over +2.5,1.7200
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,totals,2.5,BetOnline.ag,Under +2.5,2.0700
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,totals,2.5,BetUS,Over +2.5,1.7100
+2026-11-19T21:55:49+00:00,2a054ad1a9985edb5db37136cf40a382,Vasco da Gama vs Internacional,totals,2.5,BetUS,Under +2.5,2.1000
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,h2h,,Bovada,Fluminense,2.9000
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,h2h,,Bovada,Sao Paulo,2.4500
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,h2h,,Bovada,Draw,3.1500
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,h2h,,MyBookie.ag,Fluminense,2.9500
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,h2h,,MyBookie.ag,Sao Paulo,2.4400
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,h2h,,MyBookie.ag,Draw,3.2000
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,h2h,,FanDuel,Fluminense,2.9000
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,h2h,,FanDuel,Sao Paulo,2.4500
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,h2h,,FanDuel,Draw,3.2000
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,h2h,,BetMGM,Fluminense,2.9500
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,h2h,,BetMGM,Sao Paulo,2.4500
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,h2h,,BetMGM,Draw,3.2000
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,h2h,,BetRivers,Fluminense,2.9000
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,h2h,,BetRivers,Sao Paulo,2.3000
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,h2h,,BetRivers,Draw,3.1000
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,h2h,,DraftKings,Fluminense,2.9000
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,h2h,,DraftKings,Sao Paulo,2.5000
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,h2h,,DraftKings,Draw,3.1500
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,h2h,,LowVig.ag,Fluminense,3.0800
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,h2h,,LowVig.ag,Sao Paulo,2.4700
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,h2h,,LowVig.ag,Draw,3.2800
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,h2h,,BetOnline.ag,Fluminense,3.0800
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,h2h,,BetOnline.ag,Sao Paulo,2.4700
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,h2h,,BetOnline.ag,Draw,3.2800
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,h2h,,BetUS,Fluminense,2.9000
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,h2h,,BetUS,Sao Paulo,2.4500
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,h2h,,BetUS,Draw,3.1500
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,spreads,0.0,Bovada,Fluminense +0,2.1000
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,spreads,0.0,Bovada,Sao Paulo +0,1.7700
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,spreads,0.5,MyBookie.ag,Fluminense +0.5,1.5400
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,spreads,-0.5,MyBookie.ag,Sao Paulo -0.5,2.3700
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,spreads,0.0,LowVig.ag,Fluminense +0,2.1200
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,spreads,0.0,LowVig.ag,Sao Paulo +0,1.6900
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,spreads,0.0,BetOnline.ag,Fluminense +0,2.1200
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,spreads,0.0,BetOnline.ag,Sao Paulo +0,1.6900
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,spreads,0.0,BetUS,Fluminense +0,2.1500
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,spreads,0.0,BetUS,Sao Paulo +0,1.6900
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,totals,2.5,Bovada,Over +2.5,2.1500
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,totals,2.5,Bovada,Under +2.5,1.7100
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,totals,2.5,MyBookie.ag,Over +2.5,2.1200
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,totals,2.5,MyBookie.ag,Under +2.5,1.6700
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,totals,2.5,BetMGM,Over +2.5,2.1000
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,totals,2.5,BetMGM,Under +2.5,1.6500
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,totals,2.5,BetRivers,Over +2.5,2.1200
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,totals,2.5,BetRivers,Under +2.5,1.6800
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,totals,2.5,LowVig.ag,Over +2.5,2.0600
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,totals,2.5,LowVig.ag,Under +2.5,1.7100
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,totals,2.5,BetOnline.ag,Over +2.5,2.0600
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,totals,2.5,BetOnline.ag,Under +2.5,1.7100
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,totals,2.5,BetUS,Over +2.5,2.1000
+2026-11-19T21:55:49+00:00,659d55886f2f0170609b4f02bec960c5,Sao Paulo vs Fluminense,totals,2.5,BetUS,Under +2.5,1.7100
+2026-11-19T21:55:49+00:00,68cfa1aec1d5f4115ca07e6237dfa6fd,Western Sydney Wanderers vs Adelaide United,h2h,,Bovada,Adelaide United,4.2500
+2026-11-19T21:55:49+00:00,68cfa1aec1d5f4115ca07e6237dfa6fd,Western Sydney Wanderers vs Adelaide United,h2h,,Bovada,Western Sydney Wanderers,1.6800
+2026-11-19T21:55:49+00:00,68cfa1aec1d5f4115ca07e6237dfa6fd,Western Sydney Wanderers vs Adelaide United,h2h,,Bovada,Draw,4.3000
+2026-11-19T21:55:49+00:00,68cfa1aec1d5f4115ca07e6237dfa6fd,Western Sydney Wanderers vs Adelaide United,h2h,,BetMGM,Adelaide United,4.4000
+2026-11-19T21:55:49+00:00,68cfa1aec1d5f4115ca07e6237dfa6fd,Western Sydney Wanderers vs Adelaide United,h2h,,BetMGM,Western Sydney Wanderers,1.6500
+2026-11-19T21:55:49+00:00,68cfa1aec1d5f4115ca07e6237dfa6fd,Western Sydney Wanderers vs Adelaide United,h2h,,BetMGM,Draw,4.2000
+2026-11-19T21:55:49+00:00,68cfa1aec1d5f4115ca07e6237dfa6fd,Western Sydney Wanderers vs Adelaide United,h2h,,DraftKings,Adelaide United,4.3000
+2026-11-19T21:55:49+00:00,68cfa1aec1d5f4115ca07e6237dfa6fd,Western Sydney Wanderers vs Adelaide United,h2h,,DraftKings,Western Sydney Wanderers,1.6900
+2026-11-19T21:55:49+00:00,68cfa1aec1d5f4115ca07e6237dfa6fd,Western Sydney Wanderers vs Adelaide United,h2h,,DraftKings,Draw,4.3000
+2026-11-19T21:55:49+00:00,68cfa1aec1d5f4115ca07e6237dfa6fd,Western Sydney Wanderers vs Adelaide United,h2h,,BetOnline.ag,Adelaide United,4.5500
+2026-11-19T21:55:49+00:00,68cfa1aec1d5f4115ca07e6237dfa6fd,Western Sydney Wanderers vs Adelaide United,h2h,,BetOnline.ag,Western Sydney Wanderers,1.6700
+2026-11-19T21:55:49+00:00,68cfa1aec1d5f4115ca07e6237dfa6fd,Western Sydney Wanderers vs Adelaide United,h2h,,BetOnline.ag,Draw,4.3400
+2026-11-19T21:55:49+00:00,68cfa1aec1d5f4115ca07e6237dfa6fd,Western Sydney Wanderers vs Adelaide United,h2h,,LowVig.ag,Adelaide United,4.5500
+2026-11-19T21:55:49+00:00,68cfa1aec1d5f4115ca07e6237dfa6fd,Western Sydney Wanderers vs Adelaide United,h2h,,LowVig.ag,Western Sydney Wanderers,1.6700
+2026-11-19T21:55:49+00:00,68cfa1aec1d5f4115ca07e6237dfa6fd,Western Sydney Wanderers vs Adelaide United,h2h,,LowVig.ag,Draw,4.3400
+2026-11-19T21:55:49+00:00,68cfa1aec1d5f4115ca07e6237dfa6fd,Western Sydney Wanderers vs Adelaide United,h2h,,BetUS,Adelaide United,4.5000
+2026-11-19T21:55:49+00:00,68cfa1aec1d5f4115ca07e6237dfa6fd,Western Sydney Wanderers vs Adelaide United,h2h,,BetUS,Western Sydney Wanderers,1.5700
+2026-11-19T21:55:49+00:00,68cfa1aec1d5f4115ca07e6237dfa6fd,Western Sydney Wanderers vs Adelaide United,h2h,,BetUS,Draw,4.3300
+2026-11-19T21:55:49+00:00,68cfa1aec1d5f4115ca07e6237dfa6fd,Western Sydney Wanderers vs Adelaide United,spreads,0.75,Bovada,Adelaide United +0.75,1.9500
+2026-11-19T21:55:49+00:00,68cfa1aec1d5f4115ca07e6237dfa6fd,Western Sydney Wanderers vs Adelaide United,spreads,-0.75,Bovada,Western Sydney Wanderers -0.75,1.8700
+2026-11-19T21:55:49+00:00,68cfa1aec1d5f4115ca07e6237dfa6fd,Western Sydney Wanderers vs Adelaide United,spreads,1.0,BetOnline.ag,Adelaide United +1,1.7300
+2026-11-19T21:55:49+00:00,68cfa1aec1d5f4115ca07e6237dfa6fd,Western Sydney Wanderers vs Adelaide United,spreads,-1.0,BetOnline.ag,Western Sydney Wanderers -1,2.0600
+2026-11-19T21:55:49+00:00,68cfa1aec1d5f4115ca07e6237dfa6fd,Western Sydney Wanderers vs Adelaide United,spreads,1.0,LowVig.ag,Adelaide United +1,1.7300
+2026-11-19T21:55:49+00:00,68cfa1aec1d5f4115ca07e6237dfa6fd,Western Sydney Wanderers vs Adelaide United,spreads,-1.0,LowVig.ag,Western Sydney Wanderers -1,2.0600
+2026-11-19T21:55:49+00:00,68cfa1aec1d5f4115ca07e6237dfa6fd,Western Sydney Wanderers vs Adelaide United,spreads,1.0,BetUS,Adelaide United +1,1.7400
+2026-11-19T21:55:49+00:00,68cfa1aec1d5f4115ca07e6237dfa6fd,Western Sydney Wanderers vs Adelaide United,spreads,-1.0,BetUS,Western Sydney Wanderers -1,2.0500
+2026-11-19T21:55:49+00:00,68cfa1aec1d5f4115ca07e6237dfa6fd,Western Sydney Wanderers vs Adelaide United,totals,3.25,Bovada,Over +3.25,1.9300
+2026-11-19T21:55:49+00:00,68cfa1aec1d5f4115ca07e6237dfa6fd,Western Sydney Wanderers vs Adelaide United,totals,3.25,Bovada,Under +3.25,1.8900
+2026-11-19T21:55:49+00:00,68cfa1aec1d5f4115ca07e6237dfa6fd,Western Sydney Wanderers vs Adelaide United,totals,3.5,BetMGM,Over +3.5,2.1000
+2026-11-19T21:55:49+00:00,68cfa1aec1d5f4115ca07e6237dfa6fd,Western Sydney Wanderers vs Adelaide United,totals,3.5,BetMGM,Under +3.5,1.6500
+2026-11-19T21:55:49+00:00,68cfa1aec1d5f4115ca07e6237dfa6fd,Western Sydney Wanderers vs Adelaide United,totals,3.0,BetOnline.ag,Over +3,1.7000
+2026-11-19T21:55:49+00:00,68cfa1aec1d5f4115ca07e6237dfa6fd,Western Sydney Wanderers vs Adelaide United,totals,3.0,BetOnline.ag,Under +3,2.0800
+2026-11-19T21:55:49+00:00,68cfa1aec1d5f4115ca07e6237dfa6fd,Western Sydney Wanderers vs Adelaide United,totals,3.0,LowVig.ag,Over +3,1.7000
+2026-11-19T21:55:49+00:00,68cfa1aec1d5f4115ca07e6237dfa6fd,Western Sydney Wanderers vs Adelaide United,totals,3.0,LowVig.ag,Under +3,2.0800
+2026-11-19T21:55:49+00:00,68cfa1aec1d5f4115ca07e6237dfa6fd,Western Sydney Wanderers vs Adelaide United,totals,3.0,BetUS,Over +3,1.6900
+2026-11-19T21:55:49+00:00,68cfa1aec1d5f4115ca07e6237dfa6fd,Western Sydney Wanderers vs Adelaide United,totals,3.0,BetUS,Under +3,2.1500
