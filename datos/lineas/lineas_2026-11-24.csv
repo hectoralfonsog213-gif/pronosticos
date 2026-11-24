@@ -357,3 +357,54 @@ ts,evento_id,evento,mercado,punto,casa,seleccion,decimal
 2026-11-24T01:25:02+00:00,83a913029df6521a5822f1a77e619b78,Palermo vs Südtirol,spreads,1.25,BetOnline.ag,Südtirol +1.25,1.8000
 2026-11-24T01:25:02+00:00,83a913029df6521a5822f1a77e619b78,Palermo vs Südtirol,spreads,-1.25,Bovada,Palermo -1.25,1.9800
 2026-11-24T01:25:02+00:00,83a913029df6521a5822f1a77e619b78,Palermo vs Südtirol,spreads,1.25,Bovada,Südtirol +1.25,1.8500
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,h2h,,MyBookie.ag,Houston Dynamo,3.7500
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,h2h,,MyBookie.ag,San Jose Earthquakes,1.9100
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,h2h,,MyBookie.ag,Draw,3.7500
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,h2h,,FanDuel,Houston Dynamo,3.8000
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,h2h,,FanDuel,San Jose Earthquakes,1.8300
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,h2h,,FanDuel,Draw,3.7000
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,h2h,,Bovada,Houston Dynamo,3.8000
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,h2h,,Bovada,San Jose Earthquakes,1.8900
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,h2h,,Bovada,Draw,3.7000
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,h2h,,BetOnline.ag,Houston Dynamo,3.9500
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,h2h,,BetOnline.ag,San Jose Earthquakes,1.9000
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,h2h,,BetOnline.ag,Draw,3.9000
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,h2h,,LowVig.ag,Houston Dynamo,3.9500
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,h2h,,LowVig.ag,San Jose Earthquakes,1.9000
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,h2h,,LowVig.ag,Draw,3.9000
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,h2h,,DraftKings,Houston Dynamo,3.7000
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,h2h,,DraftKings,San Jose Earthquakes,1.8300
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,h2h,,DraftKings,Draw,3.7000
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,h2h,,BetMGM,Houston Dynamo,3.7000
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,h2h,,BetMGM,San Jose Earthquakes,1.9100
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,h2h,,BetMGM,Draw,3.6000
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,h2h,,BetRivers,Houston Dynamo,3.6500
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,h2h,,BetRivers,San Jose Earthquakes,1.8900
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,h2h,,BetRivers,Draw,3.6000
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,h2h,,BetUS,Houston Dynamo,3.7900
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,h2h,,BetUS,San Jose Earthquakes,1.8700
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,h2h,,BetUS,Draw,3.6800
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,spreads,0.5,MyBookie.ag,Houston Dynamo +0.5,1.8700
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,spreads,-0.5,MyBookie.ag,San Jose Earthquakes -0.5,1.8700
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,spreads,0.5,Bovada,Houston Dynamo +0.5,1.9300
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,spreads,-0.5,Bovada,San Jose Earthquakes -0.5,1.8900
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,spreads,0.5,BetOnline.ag,Houston Dynamo +0.5,1.9200
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,spreads,-0.5,BetOnline.ag,San Jose Earthquakes -0.5,1.9000
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,spreads,0.5,LowVig.ag,Houston Dynamo +0.5,1.9200
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,spreads,-0.5,LowVig.ag,San Jose Earthquakes -0.5,1.9000
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,spreads,0.5,BetUS,Houston Dynamo +0.5,1.8800
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,spreads,-0.5,BetUS,San Jose Earthquakes -0.5,1.8500
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,totals,2.5,MyBookie.ag,Over +2.5,1.6500
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,totals,2.5,MyBookie.ag,Under +2.5,2.1500
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,totals,2.75,Bovada,Over +2.75,1.8700
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,totals,2.75,Bovada,Under +2.75,1.9500
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,totals,2.5,BetOnline.ag,Over +2.5,1.6900
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,totals,2.5,BetOnline.ag,Under +2.5,2.1200
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,totals,2.5,LowVig.ag,Over +2.5,1.6900
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,totals,2.5,LowVig.ag,Under +2.5,2.1200
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,totals,2.5,BetMGM,Over +2.5,1.6200
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,totals,2.5,BetMGM,Under +2.5,2.1000
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,totals,2.5,BetRivers,Over +2.5,1.6800
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,totals,2.5,BetRivers,Under +2.5,2.1200
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,totals,2.5,BetUS,Over +2.5,1.6700
+2026-11-24T23:19:50+00:00,8149dd94fc35019447c45a6a00b246f0,San Jose Earthquakes vs Houston Dynamo,totals,2.5,BetUS,Under +2.5,2.1900
