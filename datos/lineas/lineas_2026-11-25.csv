@@ -1,0 +1,249 @@
+ts,evento_id,evento,mercado,punto,casa,seleccion,decimal
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,h2h,,DraftKings,Green Bay Packers,2.1600
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,h2h,,DraftKings,Los Angeles Rams,1.7300
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,h2h,,FanDuel,Green Bay Packers,2.2000
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,h2h,,FanDuel,Los Angeles Rams,1.7000
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,h2h,,BetMGM,Green Bay Packers,2.2000
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,h2h,,BetMGM,Los Angeles Rams,1.6900
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,h2h,,BetUS,Green Bay Packers,2.2000
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,h2h,,BetUS,Los Angeles Rams,1.7100
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,h2h,,MyBookie.ag,Green Bay Packers,2.2000
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,h2h,,MyBookie.ag,Los Angeles Rams,1.7100
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,h2h,,BetRivers,Green Bay Packers,2.1500
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,h2h,,BetRivers,Los Angeles Rams,1.7100
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,h2h,,LowVig.ag,Green Bay Packers,2.2000
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,h2h,,LowVig.ag,Los Angeles Rams,1.7100
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,h2h,,BetOnline.ag,Green Bay Packers,2.2000
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,h2h,,BetOnline.ag,Los Angeles Rams,1.7100
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,h2h,,Bovada,Green Bay Packers,2.1700
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,h2h,,Bovada,Los Angeles Rams,1.7300
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,spreads,2.5,DraftKings,Green Bay Packers +2.5,1.9600
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,spreads,-2.5,DraftKings,Los Angeles Rams -2.5,1.8700
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,spreads,2.5,FanDuel,Green Bay Packers +2.5,1.9500
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,spreads,-2.5,FanDuel,Los Angeles Rams -2.5,1.8700
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,spreads,2.5,BetMGM,Green Bay Packers +2.5,2.0000
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,spreads,-2.5,BetMGM,Los Angeles Rams -2.5,1.9100
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,spreads,2.0,BetUS,Green Bay Packers +2,2.0000
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,spreads,-2.0,BetUS,Los Angeles Rams -2,1.8300
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,spreads,2.5,MyBookie.ag,Green Bay Packers +2.5,1.9100
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,spreads,-2.5,MyBookie.ag,Los Angeles Rams -2.5,1.9100
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,spreads,2.5,BetRivers,Green Bay Packers +2.5,1.9400
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,spreads,-2.5,BetRivers,Los Angeles Rams -2.5,1.8700
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,spreads,2.5,LowVig.ag,Green Bay Packers +2.5,1.9900
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,spreads,-2.5,LowVig.ag,Los Angeles Rams -2.5,1.9200
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,spreads,2.5,BetOnline.ag,Green Bay Packers +2.5,1.9400
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,spreads,-2.5,BetOnline.ag,Los Angeles Rams -2.5,1.8800
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,spreads,2.5,Bovada,Green Bay Packers +2.5,1.9300
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,spreads,-2.5,Bovada,Los Angeles Rams -2.5,1.8900
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,totals,43.5,DraftKings,Over +43.5,1.8900
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,totals,43.5,DraftKings,Under +43.5,1.9300
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,totals,43.5,FanDuel,Over +43.5,1.9500
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,totals,43.5,FanDuel,Under +43.5,1.8700
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,totals,43.5,BetMGM,Over +43.5,1.9300
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,totals,43.5,BetMGM,Under +43.5,1.9100
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,totals,43.0,BetUS,Over +43,1.9100
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,totals,43.0,BetUS,Under +43,1.9100
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,totals,43.5,MyBookie.ag,Over +43.5,1.9100
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,totals,43.5,MyBookie.ag,Under +43.5,1.9100
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,totals,43.5,BetRivers,Over +43.5,1.9100
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,totals,43.5,BetRivers,Under +43.5,1.9100
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,totals,43.0,LowVig.ag,Over +43,1.9300
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,totals,43.0,LowVig.ag,Under +43,1.9300
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,totals,43.0,BetOnline.ag,Over +43,1.9100
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,totals,43.0,BetOnline.ag,Under +43,1.9100
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,totals,43.5,Bovada,Over +43.5,1.9300
+2026-11-25T22:52:10+00:00,5b612899d6dcdf998107f2c6c6e49a58,Los Angeles Rams vs Green Bay Packers,totals,43.5,Bovada,Under +43.5,1.8900
+2026-11-25T22:52:10+00:00,200e4a0ac803d6e2b62e56245eb81336,Toluca vs Atlas,h2h,,BetRivers,Atlas,6.2500
+2026-11-25T22:52:10+00:00,200e4a0ac803d6e2b62e56245eb81336,Toluca vs Atlas,h2h,,BetRivers,Toluca,1.4200
+2026-11-25T22:52:10+00:00,200e4a0ac803d6e2b62e56245eb81336,Toluca vs Atlas,h2h,,BetRivers,Draw,4.5000
+2026-11-25T22:52:10+00:00,200e4a0ac803d6e2b62e56245eb81336,Toluca vs Atlas,h2h,,FanDuel,Atlas,6.0000
+2026-11-25T22:52:10+00:00,200e4a0ac803d6e2b62e56245eb81336,Toluca vs Atlas,h2h,,FanDuel,Toluca,1.4000
+2026-11-25T22:52:10+00:00,200e4a0ac803d6e2b62e56245eb81336,Toluca vs Atlas,h2h,,FanDuel,Draw,4.9000
+2026-11-25T22:52:10+00:00,200e4a0ac803d6e2b62e56245eb81336,Toluca vs Atlas,h2h,,BetUS,Atlas,6.2500
+2026-11-25T22:52:10+00:00,200e4a0ac803d6e2b62e56245eb81336,Toluca vs Atlas,h2h,,BetUS,Toluca,1.4200
+2026-11-25T22:52:10+00:00,200e4a0ac803d6e2b62e56245eb81336,Toluca vs Atlas,h2h,,BetUS,Draw,4.7500
+2026-11-25T22:52:10+00:00,200e4a0ac803d6e2b62e56245eb81336,Toluca vs Atlas,h2h,,LowVig.ag,Atlas,6.6200
+2026-11-25T22:52:10+00:00,200e4a0ac803d6e2b62e56245eb81336,Toluca vs Atlas,h2h,,LowVig.ag,Toluca,1.4500
+2026-11-25T22:52:10+00:00,200e4a0ac803d6e2b62e56245eb81336,Toluca vs Atlas,h2h,,LowVig.ag,Draw,5.1100
+2026-11-25T22:52:10+00:00,200e4a0ac803d6e2b62e56245eb81336,Toluca vs Atlas,h2h,,BetOnline.ag,Atlas,6.6200
+2026-11-25T22:52:10+00:00,200e4a0ac803d6e2b62e56245eb81336,Toluca vs Atlas,h2h,,BetOnline.ag,Toluca,1.4500
+2026-11-25T22:52:10+00:00,200e4a0ac803d6e2b62e56245eb81336,Toluca vs Atlas,h2h,,BetOnline.ag,Draw,5.1100
+2026-11-25T22:52:10+00:00,200e4a0ac803d6e2b62e56245eb81336,Toluca vs Atlas,h2h,,DraftKings,Atlas,6.5000
+2026-11-25T22:52:10+00:00,200e4a0ac803d6e2b62e56245eb81336,Toluca vs Atlas,h2h,,DraftKings,Toluca,1.4300
+2026-11-25T22:52:10+00:00,200e4a0ac803d6e2b62e56245eb81336,Toluca vs Atlas,h2h,,DraftKings,Draw,5.0000
+2026-11-25T22:52:10+00:00,200e4a0ac803d6e2b62e56245eb81336,Toluca vs Atlas,h2h,,BetMGM,Atlas,6.2500
+2026-11-25T22:52:10+00:00,200e4a0ac803d6e2b62e56245eb81336,Toluca vs Atlas,h2h,,BetMGM,Toluca,1.4400
+2026-11-25T22:52:10+00:00,200e4a0ac803d6e2b62e56245eb81336,Toluca vs Atlas,h2h,,BetMGM,Draw,4.7500
+2026-11-25T22:52:10+00:00,200e4a0ac803d6e2b62e56245eb81336,Toluca vs Atlas,totals,3.5,BetRivers,Over +3.5,2.1000
+2026-11-25T22:52:10+00:00,200e4a0ac803d6e2b62e56245eb81336,Toluca vs Atlas,totals,3.5,BetRivers,Under +3.5,1.6500
+2026-11-25T22:52:10+00:00,200e4a0ac803d6e2b62e56245eb81336,Toluca vs Atlas,totals,3.0,BetUS,Over +3,1.8000
+2026-11-25T22:52:10+00:00,200e4a0ac803d6e2b62e56245eb81336,Toluca vs Atlas,totals,3.0,BetUS,Under +3,1.9500
+2026-11-25T22:52:10+00:00,200e4a0ac803d6e2b62e56245eb81336,Toluca vs Atlas,totals,3.0,LowVig.ag,Over +3,1.8000
+2026-11-25T22:52:10+00:00,200e4a0ac803d6e2b62e56245eb81336,Toluca vs Atlas,totals,3.0,LowVig.ag,Under +3,1.9800
+2026-11-25T22:52:10+00:00,200e4a0ac803d6e2b62e56245eb81336,Toluca vs Atlas,totals,3.0,BetOnline.ag,Over +3,1.8000
+2026-11-25T22:52:10+00:00,200e4a0ac803d6e2b62e56245eb81336,Toluca vs Atlas,totals,3.0,BetOnline.ag,Under +3,1.9800
+2026-11-25T22:52:10+00:00,200e4a0ac803d6e2b62e56245eb81336,Toluca vs Atlas,totals,3.5,BetMGM,Over +3.5,2.2000
+2026-11-25T22:52:10+00:00,200e4a0ac803d6e2b62e56245eb81336,Toluca vs Atlas,totals,3.5,BetMGM,Under +3.5,1.5700
+2026-11-25T22:52:10+00:00,200e4a0ac803d6e2b62e56245eb81336,Toluca vs Atlas,spreads,1.5,BetUS,Atlas +1.5,1.7100
+2026-11-25T22:52:10+00:00,200e4a0ac803d6e2b62e56245eb81336,Toluca vs Atlas,spreads,-1.5,BetUS,Toluca -1.5,2.1000
+2026-11-25T22:52:10+00:00,200e4a0ac803d6e2b62e56245eb81336,Toluca vs Atlas,spreads,1.5,LowVig.ag,Atlas +1.5,1.7100
+2026-11-25T22:52:10+00:00,200e4a0ac803d6e2b62e56245eb81336,Toluca vs Atlas,spreads,-1.5,LowVig.ag,Toluca -1.5,2.1300
+2026-11-25T22:52:10+00:00,200e4a0ac803d6e2b62e56245eb81336,Toluca vs Atlas,spreads,1.5,BetOnline.ag,Atlas +1.5,1.7100
+2026-11-25T22:52:10+00:00,200e4a0ac803d6e2b62e56245eb81336,Toluca vs Atlas,spreads,-1.5,BetOnline.ag,Toluca -1.5,2.1300
+2026-11-25T22:52:10+00:00,62616fc8a07a92e905749968501d260d,Monterrey vs América,h2h,,BetRivers,América,2.9500
+2026-11-25T22:52:10+00:00,62616fc8a07a92e905749968501d260d,Monterrey vs América,h2h,,BetRivers,Monterrey,2.2300
+2026-11-25T22:52:10+00:00,62616fc8a07a92e905749968501d260d,Monterrey vs América,h2h,,BetRivers,Draw,3.3500
+2026-11-25T22:52:10+00:00,62616fc8a07a92e905749968501d260d,Monterrey vs América,h2h,,FanDuel,América,3.2000
+2026-11-25T22:52:10+00:00,62616fc8a07a92e905749968501d260d,Monterrey vs América,h2h,,FanDuel,Monterrey,2.2000
+2026-11-25T22:52:10+00:00,62616fc8a07a92e905749968501d260d,Monterrey vs América,h2h,,FanDuel,Draw,3.4000
+2026-11-25T22:52:10+00:00,62616fc8a07a92e905749968501d260d,Monterrey vs América,h2h,,BetUS,América,3.1000
+2026-11-25T22:52:10+00:00,62616fc8a07a92e905749968501d260d,Monterrey vs América,h2h,,BetUS,Monterrey,2.2000
+2026-11-25T22:52:10+00:00,62616fc8a07a92e905749968501d260d,Monterrey vs América,h2h,,BetUS,Draw,3.4000
+2026-11-25T22:52:10+00:00,62616fc8a07a92e905749968501d260d,Monterrey vs América,h2h,,LowVig.ag,América,3.4000
+2026-11-25T22:52:10+00:00,62616fc8a07a92e905749968501d260d,Monterrey vs América,h2h,,LowVig.ag,Monterrey,2.2500
+2026-11-25T22:52:10+00:00,62616fc8a07a92e905749968501d260d,Monterrey vs América,h2h,,LowVig.ag,Draw,3.3700
+2026-11-25T22:52:10+00:00,62616fc8a07a92e905749968501d260d,Monterrey vs América,h2h,,BetOnline.ag,América,3.4000
+2026-11-25T22:52:10+00:00,62616fc8a07a92e905749968501d260d,Monterrey vs América,h2h,,BetOnline.ag,Monterrey,2.2500
+2026-11-25T22:52:10+00:00,62616fc8a07a92e905749968501d260d,Monterrey vs América,h2h,,BetOnline.ag,Draw,3.3700
+2026-11-25T22:52:10+00:00,62616fc8a07a92e905749968501d260d,Monterrey vs América,h2h,,DraftKings,América,3.1500
+2026-11-25T22:52:10+00:00,62616fc8a07a92e905749968501d260d,Monterrey vs América,h2h,,DraftKings,Monterrey,2.2500
+2026-11-25T22:52:10+00:00,62616fc8a07a92e905749968501d260d,Monterrey vs América,h2h,,DraftKings,Draw,3.3000
+2026-11-25T22:52:10+00:00,62616fc8a07a92e905749968501d260d,Monterrey vs América,h2h,,BetMGM,América,3.1000
+2026-11-25T22:52:10+00:00,62616fc8a07a92e905749968501d260d,Monterrey vs América,h2h,,BetMGM,Monterrey,2.2500
+2026-11-25T22:52:10+00:00,62616fc8a07a92e905749968501d260d,Monterrey vs América,h2h,,BetMGM,Draw,3.3000
+2026-11-25T22:52:10+00:00,62616fc8a07a92e905749968501d260d,Monterrey vs América,totals,2.5,BetRivers,Over +2.5,1.7800
+2026-11-25T22:52:10+00:00,62616fc8a07a92e905749968501d260d,Monterrey vs América,totals,2.5,BetRivers,Under +2.5,1.9300
+2026-11-25T22:52:10+00:00,62616fc8a07a92e905749968501d260d,Monterrey vs América,totals,2.5,BetUS,Over +2.5,1.9100
+2026-11-25T22:52:10+00:00,62616fc8a07a92e905749968501d260d,Monterrey vs América,totals,2.5,BetUS,Under +2.5,1.8300
+2026-11-25T22:52:10+00:00,62616fc8a07a92e905749968501d260d,Monterrey vs América,totals,2.5,LowVig.ag,Over +2.5,1.9200
+2026-11-25T22:52:10+00:00,62616fc8a07a92e905749968501d260d,Monterrey vs América,totals,2.5,LowVig.ag,Under +2.5,1.8700
+2026-11-25T22:52:10+00:00,62616fc8a07a92e905749968501d260d,Monterrey vs América,totals,2.5,BetOnline.ag,Over +2.5,1.9200
+2026-11-25T22:52:10+00:00,62616fc8a07a92e905749968501d260d,Monterrey vs América,totals,2.5,BetOnline.ag,Under +2.5,1.8700
+2026-11-25T22:52:10+00:00,62616fc8a07a92e905749968501d260d,Monterrey vs América,totals,2.5,BetMGM,Over +2.5,1.8500
+2026-11-25T22:52:10+00:00,62616fc8a07a92e905749968501d260d,Monterrey vs América,totals,2.5,BetMGM,Under +2.5,1.8300
+2026-11-25T22:52:10+00:00,62616fc8a07a92e905749968501d260d,Monterrey vs América,spreads,0.5,BetUS,América +0.5,1.6300
+2026-11-25T22:52:10+00:00,62616fc8a07a92e905749968501d260d,Monterrey vs América,spreads,-0.5,BetUS,Monterrey -0.5,2.2800
+2026-11-25T22:52:10+00:00,62616fc8a07a92e905749968501d260d,Monterrey vs América,spreads,0.5,LowVig.ag,América +0.5,1.6300
+2026-11-25T22:52:10+00:00,62616fc8a07a92e905749968501d260d,Monterrey vs América,spreads,-0.5,LowVig.ag,Monterrey -0.5,2.2500
+2026-11-25T22:52:10+00:00,62616fc8a07a92e905749968501d260d,Monterrey vs América,spreads,0.5,BetOnline.ag,América +0.5,1.6300
+2026-11-25T22:52:10+00:00,62616fc8a07a92e905749968501d260d,Monterrey vs América,spreads,-0.5,BetOnline.ag,Monterrey -0.5,2.2500
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,h2h,,BetRivers,Atletico Mineiro,2.3800
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,h2h,,BetRivers,Corinthians,2.7500
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,h2h,,BetRivers,Draw,3.1500
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,h2h,,MyBookie.ag,Atletico Mineiro,2.6700
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,h2h,,MyBookie.ag,Corinthians,2.6800
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,h2h,,MyBookie.ag,Draw,3.2000
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,h2h,,BetMGM,Atletico Mineiro,2.6500
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,h2h,,BetMGM,Corinthians,2.6500
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,h2h,,BetMGM,Draw,3.2500
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,h2h,,FanDuel,Atletico Mineiro,2.6500
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,h2h,,FanDuel,Corinthians,2.6500
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,h2h,,FanDuel,Draw,3.2000
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,h2h,,Bovada,Atletico Mineiro,2.6500
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,h2h,,Bovada,Corinthians,2.6500
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,h2h,,Bovada,Draw,3.2000
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,h2h,,DraftKings,Atletico Mineiro,2.6500
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,h2h,,DraftKings,Corinthians,2.7000
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,h2h,,DraftKings,Draw,3.2500
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,h2h,,LowVig.ag,Atletico Mineiro,2.7700
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,h2h,,LowVig.ag,Corinthians,2.6900
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,h2h,,LowVig.ag,Draw,3.3100
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,h2h,,BetOnline.ag,Atletico Mineiro,2.7400
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,h2h,,BetOnline.ag,Corinthians,2.6900
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,h2h,,BetOnline.ag,Draw,3.3600
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,h2h,,BetUS,Atletico Mineiro,2.7700
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,h2h,,BetUS,Corinthians,2.6900
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,h2h,,BetUS,Draw,3.3100
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,totals,2.5,BetRivers,Over +2.5,2.0200
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,totals,2.5,BetRivers,Under +2.5,1.7400
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,totals,2.5,MyBookie.ag,Over +2.5,2.1100
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,totals,2.5,MyBookie.ag,Under +2.5,1.6800
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,totals,2.5,BetMGM,Over +2.5,2.1000
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,totals,2.5,BetMGM,Under +2.5,1.6200
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,totals,2.5,Bovada,Over +2.5,2.1800
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,totals,2.5,Bovada,Under +2.5,1.7000
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,totals,2.5,LowVig.ag,Over +2.5,2.1100
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,totals,2.5,LowVig.ag,Under +2.5,1.7300
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,totals,2.5,BetOnline.ag,Over +2.5,2.1100
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,totals,2.5,BetOnline.ag,Under +2.5,1.7300
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,totals,2.5,BetUS,Over +2.5,2.0500
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,totals,2.5,BetUS,Under +2.5,1.7400
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,spreads,-0.5,MyBookie.ag,Atletico Mineiro -0.5,2.5700
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,spreads,0.5,MyBookie.ag,Corinthians +0.5,1.4700
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,spreads,0.0,Bovada,Atletico Mineiro +0,1.9500
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,spreads,0.0,Bovada,Corinthians +0,1.8700
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,spreads,0.0,LowVig.ag,Atletico Mineiro +0,1.9300
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,spreads,0.0,LowVig.ag,Corinthians +0,1.9000
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,spreads,0.0,BetOnline.ag,Atletico Mineiro +0,1.9300
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,spreads,0.0,BetOnline.ag,Corinthians +0,1.9100
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,spreads,0.0,BetUS,Atletico Mineiro +0,1.8700
+2026-11-25T22:52:10+00:00,786625491d1c7b42ec2eb6bb5f903f4f,Atletico Mineiro vs Corinthians,spreads,0.0,BetUS,Corinthians +0,1.9100
+2026-11-25T22:52:10+00:00,7279ffbe34b0e6508621ddd96ee9f58f,Boca Juniors vs Independiente Rivadavia,h2h,,BetRivers,Boca Juniors,1.4100
+2026-11-25T22:52:10+00:00,7279ffbe34b0e6508621ddd96ee9f58f,Boca Juniors vs Independiente Rivadavia,h2h,,BetRivers,Independiente Rivadavia,7.5000
+2026-11-25T22:52:10+00:00,7279ffbe34b0e6508621ddd96ee9f58f,Boca Juniors vs Independiente Rivadavia,h2h,,BetRivers,Draw,4.1000
+2026-11-25T22:52:10+00:00,7279ffbe34b0e6508621ddd96ee9f58f,Boca Juniors vs Independiente Rivadavia,h2h,,DraftKings,Boca Juniors,1.4300
+2026-11-25T22:52:10+00:00,7279ffbe34b0e6508621ddd96ee9f58f,Boca Juniors vs Independiente Rivadavia,h2h,,DraftKings,Independiente Rivadavia,7.5000
+2026-11-25T22:52:10+00:00,7279ffbe34b0e6508621ddd96ee9f58f,Boca Juniors vs Independiente Rivadavia,h2h,,DraftKings,Draw,4.4000
+2026-11-25T22:52:10+00:00,7279ffbe34b0e6508621ddd96ee9f58f,Boca Juniors vs Independiente Rivadavia,h2h,,FanDuel,Boca Juniors,1.3200
+2026-11-25T22:52:10+00:00,7279ffbe34b0e6508621ddd96ee9f58f,Boca Juniors vs Independiente Rivadavia,h2h,,FanDuel,Independiente Rivadavia,8.0000
+2026-11-25T22:52:10+00:00,7279ffbe34b0e6508621ddd96ee9f58f,Boca Juniors vs Independiente Rivadavia,h2h,,FanDuel,Draw,4.5000
+2026-11-25T22:52:10+00:00,7279ffbe34b0e6508621ddd96ee9f58f,Boca Juniors vs Independiente Rivadavia,h2h,,BetOnline.ag,Boca Juniors,1.4200
+2026-11-25T22:52:10+00:00,7279ffbe34b0e6508621ddd96ee9f58f,Boca Juniors vs Independiente Rivadavia,h2h,,BetOnline.ag,Independiente Rivadavia,8.5000
+2026-11-25T22:52:10+00:00,7279ffbe34b0e6508621ddd96ee9f58f,Boca Juniors vs Independiente Rivadavia,h2h,,BetOnline.ag,Draw,4.7000
+2026-11-25T22:52:10+00:00,7279ffbe34b0e6508621ddd96ee9f58f,Boca Juniors vs Independiente Rivadavia,h2h,,LowVig.ag,Boca Juniors,1.4200
+2026-11-25T22:52:10+00:00,7279ffbe34b0e6508621ddd96ee9f58f,Boca Juniors vs Independiente Rivadavia,h2h,,LowVig.ag,Independiente Rivadavia,8.5000
+2026-11-25T22:52:10+00:00,7279ffbe34b0e6508621ddd96ee9f58f,Boca Juniors vs Independiente Rivadavia,h2h,,LowVig.ag,Draw,4.7000
+2026-11-25T22:52:10+00:00,7279ffbe34b0e6508621ddd96ee9f58f,Boca Juniors vs Independiente Rivadavia,h2h,,Bovada,Boca Juniors,1.4200
+2026-11-25T22:52:10+00:00,7279ffbe34b0e6508621ddd96ee9f58f,Boca Juniors vs Independiente Rivadavia,h2h,,Bovada,Independiente Rivadavia,7.2500
+2026-11-25T22:52:10+00:00,7279ffbe34b0e6508621ddd96ee9f58f,Boca Juniors vs Independiente Rivadavia,h2h,,Bovada,Draw,4.3000
+2026-11-25T22:52:10+00:00,7279ffbe34b0e6508621ddd96ee9f58f,Boca Juniors vs Independiente Rivadavia,h2h,,BetMGM,Boca Juniors,1.4300
+2026-11-25T22:52:10+00:00,7279ffbe34b0e6508621ddd96ee9f58f,Boca Juniors vs Independiente Rivadavia,h2h,,BetMGM,Independiente Rivadavia,7.2500
+2026-11-25T22:52:10+00:00,7279ffbe34b0e6508621ddd96ee9f58f,Boca Juniors vs Independiente Rivadavia,h2h,,BetMGM,Draw,4.4000
+2026-11-25T22:52:10+00:00,7279ffbe34b0e6508621ddd96ee9f58f,Boca Juniors vs Independiente Rivadavia,totals,2.5,BetRivers,Over +2.5,2.0000
+2026-11-25T22:52:10+00:00,7279ffbe34b0e6508621ddd96ee9f58f,Boca Juniors vs Independiente Rivadavia,totals,2.5,BetRivers,Under +2.5,1.7600
+2026-11-25T22:52:10+00:00,7279ffbe34b0e6508621ddd96ee9f58f,Boca Juniors vs Independiente Rivadavia,totals,2.5,BetOnline.ag,Over +2.5,2.0200
+2026-11-25T22:52:10+00:00,7279ffbe34b0e6508621ddd96ee9f58f,Boca Juniors vs Independiente Rivadavia,totals,2.5,BetOnline.ag,Under +2.5,1.8000
+2026-11-25T22:52:10+00:00,7279ffbe34b0e6508621ddd96ee9f58f,Boca Juniors vs Independiente Rivadavia,totals,2.5,LowVig.ag,Over +2.5,2.0200
+2026-11-25T22:52:10+00:00,7279ffbe34b0e6508621ddd96ee9f58f,Boca Juniors vs Independiente Rivadavia,totals,2.5,LowVig.ag,Under +2.5,1.8000
+2026-11-25T22:52:10+00:00,7279ffbe34b0e6508621ddd96ee9f58f,Boca Juniors vs Independiente Rivadavia,totals,2.5,Bovada,Over +2.5,2.0500
+2026-11-25T22:52:10+00:00,7279ffbe34b0e6508621ddd96ee9f58f,Boca Juniors vs Independiente Rivadavia,totals,2.5,Bovada,Under +2.5,1.8000
+2026-11-25T22:52:10+00:00,7279ffbe34b0e6508621ddd96ee9f58f,Boca Juniors vs Independiente Rivadavia,totals,2.5,BetMGM,Over +2.5,1.9500
+2026-11-25T22:52:10+00:00,7279ffbe34b0e6508621ddd96ee9f58f,Boca Juniors vs Independiente Rivadavia,totals,2.5,BetMGM,Under +2.5,1.7400
+2026-11-25T22:52:10+00:00,7279ffbe34b0e6508621ddd96ee9f58f,Boca Juniors vs Independiente Rivadavia,spreads,-1.0,BetOnline.ag,Boca Juniors -1,1.6900
+2026-11-25T22:52:10+00:00,7279ffbe34b0e6508621ddd96ee9f58f,Boca Juniors vs Independiente Rivadavia,spreads,1.0,BetOnline.ag,Independiente Rivadavia +1,2.1800
+2026-11-25T22:52:10+00:00,7279ffbe34b0e6508621ddd96ee9f58f,Boca Juniors vs Independiente Rivadavia,spreads,-1.0,LowVig.ag,Boca Juniors -1,1.6900
+2026-11-25T22:52:10+00:00,7279ffbe34b0e6508621ddd96ee9f58f,Boca Juniors vs Independiente Rivadavia,spreads,1.0,LowVig.ag,Independiente Rivadavia +1,2.1800
+2026-11-25T22:52:10+00:00,7279ffbe34b0e6508621ddd96ee9f58f,Boca Juniors vs Independiente Rivadavia,spreads,-1.25,Bovada,Boca Juniors -1.25,2.0000
+2026-11-25T22:52:10+00:00,7279ffbe34b0e6508621ddd96ee9f58f,Boca Juniors vs Independiente Rivadavia,spreads,1.25,Bovada,Independiente Rivadavia +1.25,1.8300
+2026-11-25T22:52:10+00:00,b11e430b1d8052d0c718bcee69145f7a,FC Kairat vs Mjällby AIF,h2h,,BetMGM,FC Kairat,2.1000
+2026-11-25T22:52:10+00:00,b11e430b1d8052d0c718bcee69145f7a,FC Kairat vs Mjällby AIF,h2h,,BetMGM,Mjällby AIF,3.1000
+2026-11-25T22:52:10+00:00,b11e430b1d8052d0c718bcee69145f7a,FC Kairat vs Mjällby AIF,h2h,,BetMGM,Draw,3.3000
+2026-11-25T22:52:10+00:00,b11e430b1d8052d0c718bcee69145f7a,FC Kairat vs Mjällby AIF,h2h,,FanDuel,FC Kairat,2.1000
+2026-11-25T22:52:10+00:00,b11e430b1d8052d0c718bcee69145f7a,FC Kairat vs Mjällby AIF,h2h,,FanDuel,Mjällby AIF,3.3000
+2026-11-25T22:52:10+00:00,b11e430b1d8052d0c718bcee69145f7a,FC Kairat vs Mjällby AIF,h2h,,FanDuel,Draw,3.4000
+2026-11-25T22:52:10+00:00,b11e430b1d8052d0c718bcee69145f7a,FC Kairat vs Mjällby AIF,h2h,,Bovada,FC Kairat,2.1000
+2026-11-25T22:52:10+00:00,b11e430b1d8052d0c718bcee69145f7a,FC Kairat vs Mjällby AIF,h2h,,Bovada,Mjällby AIF,3.2500
+2026-11-25T22:52:10+00:00,b11e430b1d8052d0c718bcee69145f7a,FC Kairat vs Mjällby AIF,h2h,,Bovada,Draw,3.4500
+2026-11-25T22:52:10+00:00,b11e430b1d8052d0c718bcee69145f7a,FC Kairat vs Mjällby AIF,h2h,,DraftKings,FC Kairat,2.1500
+2026-11-25T22:52:10+00:00,b11e430b1d8052d0c718bcee69145f7a,FC Kairat vs Mjällby AIF,h2h,,DraftKings,Mjällby AIF,3.3500
+2026-11-25T22:52:10+00:00,b11e430b1d8052d0c718bcee69145f7a,FC Kairat vs Mjällby AIF,h2h,,DraftKings,Draw,3.5000
+2026-11-25T22:52:10+00:00,b11e430b1d8052d0c718bcee69145f7a,FC Kairat vs Mjällby AIF,h2h,,BetOnline.ag,FC Kairat,2.1600
+2026-11-25T22:52:10+00:00,b11e430b1d8052d0c718bcee69145f7a,FC Kairat vs Mjällby AIF,h2h,,BetOnline.ag,Mjällby AIF,3.3500
+2026-11-25T22:52:10+00:00,b11e430b1d8052d0c718bcee69145f7a,FC Kairat vs Mjällby AIF,h2h,,BetOnline.ag,Draw,3.4600
+2026-11-25T22:52:10+00:00,b11e430b1d8052d0c718bcee69145f7a,FC Kairat vs Mjällby AIF,h2h,,LowVig.ag,FC Kairat,2.1600
+2026-11-25T22:52:10+00:00,b11e430b1d8052d0c718bcee69145f7a,FC Kairat vs Mjällby AIF,h2h,,LowVig.ag,Mjällby AIF,3.3500
+2026-11-25T22:52:10+00:00,b11e430b1d8052d0c718bcee69145f7a,FC Kairat vs Mjällby AIF,h2h,,LowVig.ag,Draw,3.4600
+2026-11-25T22:52:10+00:00,b11e430b1d8052d0c718bcee69145f7a,FC Kairat vs Mjällby AIF,totals,2.5,BetMGM,Over +2.5,1.8500
+2026-11-25T22:52:10+00:00,b11e430b1d8052d0c718bcee69145f7a,FC Kairat vs Mjällby AIF,totals,2.5,BetMGM,Under +2.5,1.8300
+2026-11-25T22:52:10+00:00,b11e430b1d8052d0c718bcee69145f7a,FC Kairat vs Mjällby AIF,totals,2.5,Bovada,Over +2.5,1.8900
+2026-11-25T22:52:10+00:00,b11e430b1d8052d0c718bcee69145f7a,FC Kairat vs Mjällby AIF,totals,2.5,Bovada,Under +2.5,1.8500
+2026-11-25T22:52:10+00:00,b11e430b1d8052d0c718bcee69145f7a,FC Kairat vs Mjällby AIF,totals,2.5,BetOnline.ag,Over +2.5,1.9100
+2026-11-25T22:52:10+00:00,b11e430b1d8052d0c718bcee69145f7a,FC Kairat vs Mjällby AIF,totals,2.5,BetOnline.ag,Under +2.5,1.8500
+2026-11-25T22:52:10+00:00,b11e430b1d8052d0c718bcee69145f7a,FC Kairat vs Mjällby AIF,totals,2.5,LowVig.ag,Over +2.5,1.9100
+2026-11-25T22:52:10+00:00,b11e430b1d8052d0c718bcee69145f7a,FC Kairat vs Mjällby AIF,totals,2.5,LowVig.ag,Under +2.5,1.8500
+2026-11-25T22:52:10+00:00,b11e430b1d8052d0c718bcee69145f7a,FC Kairat vs Mjällby AIF,spreads,-0.25,Bovada,FC Kairat -0.25,1.8200
+2026-11-25T22:52:10+00:00,b11e430b1d8052d0c718bcee69145f7a,FC Kairat vs Mjällby AIF,spreads,0.25,Bovada,Mjällby AIF +0.25,1.9300
+2026-11-25T22:52:10+00:00,b11e430b1d8052d0c718bcee69145f7a,FC Kairat vs Mjällby AIF,spreads,-0.5,BetOnline.ag,FC Kairat -0.5,2.1600
+2026-11-25T22:52:10+00:00,b11e430b1d8052d0c718bcee69145f7a,FC Kairat vs Mjällby AIF,spreads,0.5,BetOnline.ag,Mjällby AIF +0.5,1.6900
+2026-11-25T22:52:10+00:00,b11e430b1d8052d0c718bcee69145f7a,FC Kairat vs Mjällby AIF,spreads,-0.5,LowVig.ag,FC Kairat -0.5,2.1600
+2026-11-25T22:52:10+00:00,b11e430b1d8052d0c718bcee69145f7a,FC Kairat vs Mjällby AIF,spreads,0.5,LowVig.ag,Mjällby AIF +0.5,1.6900
