@@ -1,0 +1,205 @@
+ts,evento_id,evento,mercado,punto,casa,seleccion,decimal
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,h2h,,DraftKings,Buffalo Bills,1.6500
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,h2h,,DraftKings,Kansas City Chiefs,2.3000
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,h2h,,FanDuel,Buffalo Bills,1.6300
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,h2h,,FanDuel,Kansas City Chiefs,2.3400
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,h2h,,BetMGM,Buffalo Bills,1.6200
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,h2h,,BetMGM,Kansas City Chiefs,2.3500
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,h2h,,MyBookie.ag,Buffalo Bills,1.6400
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,h2h,,MyBookie.ag,Kansas City Chiefs,2.3300
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,h2h,,BetRivers,Buffalo Bills,1.6300
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,h2h,,BetRivers,Kansas City Chiefs,2.3000
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,h2h,,BetOnline.ag,Buffalo Bills,1.6200
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,h2h,,BetOnline.ag,Kansas City Chiefs,2.4100
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,h2h,,LowVig.ag,Buffalo Bills,1.6200
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,h2h,,LowVig.ag,Kansas City Chiefs,2.4100
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,h2h,,BetUS,Buffalo Bills,1.6500
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,h2h,,BetUS,Kansas City Chiefs,2.3400
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,h2h,,Bovada,Buffalo Bills,1.5900
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,h2h,,Bovada,Kansas City Chiefs,2.4500
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,spreads,-3.0,DraftKings,Buffalo Bills -3,1.9900
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,spreads,3.0,DraftKings,Kansas City Chiefs +3,1.8400
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,spreads,-3.0,FanDuel,Buffalo Bills -3,1.9300
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,spreads,3.0,FanDuel,Kansas City Chiefs +3,1.8900
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,spreads,-3.0,BetMGM,Buffalo Bills -3,2.0000
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,spreads,3.0,BetMGM,Kansas City Chiefs +3,1.9100
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,spreads,-3.0,MyBookie.ag,Buffalo Bills -3,2.0000
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,spreads,3.0,MyBookie.ag,Kansas City Chiefs +3,1.8300
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,spreads,-3.0,BetRivers,Buffalo Bills -3,1.9200
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,spreads,3.0,BetRivers,Kansas City Chiefs +3,1.8900
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,spreads,-3.0,BetOnline.ag,Buffalo Bills -3,1.9700
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,spreads,3.0,BetOnline.ag,Kansas City Chiefs +3,1.8500
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,spreads,-3.0,LowVig.ag,Buffalo Bills -3,2.0200
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,spreads,3.0,LowVig.ag,Kansas City Chiefs +3,1.8800
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,spreads,-3.0,BetUS,Buffalo Bills -3,2.0000
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,spreads,3.0,BetUS,Kansas City Chiefs +3,1.8300
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,spreads,-3.0,Bovada,Buffalo Bills -3,1.9100
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,spreads,3.0,Bovada,Kansas City Chiefs +3,1.9100
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,totals,45.5,DraftKings,Over +45.5,1.8800
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,totals,45.5,DraftKings,Under +45.5,1.9300
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,totals,45.5,FanDuel,Over +45.5,1.8600
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,totals,45.5,FanDuel,Under +45.5,1.9600
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,totals,46.0,BetMGM,Over +46,1.9100
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,totals,46.0,BetMGM,Under +46,1.9300
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,totals,46.0,MyBookie.ag,Over +46,1.9100
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,totals,46.0,MyBookie.ag,Under +46,1.9100
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,totals,45.5,BetRivers,Over +45.5,1.8800
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,totals,45.5,BetRivers,Under +45.5,1.9300
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,totals,46.0,BetOnline.ag,Over +46,1.9300
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,totals,46.0,BetOnline.ag,Under +46,1.8900
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,totals,46.0,LowVig.ag,Over +46,1.9500
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,totals,46.0,LowVig.ag,Under +46,1.9200
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,totals,46.0,BetUS,Over +46,1.9100
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,totals,46.0,BetUS,Under +46,1.9100
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,totals,46.0,Bovada,Over +46,1.9100
+2026-11-26T22:41:41+00:00,f36f518585aec40e8cb40e071c0844aa,Buffalo Bills vs Kansas City Chiefs,totals,46.0,Bovada,Under +46,1.9100
+2026-11-26T22:41:41+00:00,a648e84f07617a98535305954fc21467,Pachuca vs Guadalajara,h2h,,BetRivers,Guadalajara,2.4000
+2026-11-26T22:41:41+00:00,a648e84f07617a98535305954fc21467,Pachuca vs Guadalajara,h2h,,BetRivers,Pachuca,2.7000
+2026-11-26T22:41:41+00:00,a648e84f07617a98535305954fc21467,Pachuca vs Guadalajara,h2h,,BetRivers,Draw,3.3000
+2026-11-26T22:41:41+00:00,a648e84f07617a98535305954fc21467,Pachuca vs Guadalajara,h2h,,LowVig.ag,Guadalajara,2.5000
+2026-11-26T22:41:41+00:00,a648e84f07617a98535305954fc21467,Pachuca vs Guadalajara,h2h,,LowVig.ag,Pachuca,3.0900
+2026-11-26T22:41:41+00:00,a648e84f07617a98535305954fc21467,Pachuca vs Guadalajara,h2h,,LowVig.ag,Draw,3.2200
+2026-11-26T22:41:41+00:00,a648e84f07617a98535305954fc21467,Pachuca vs Guadalajara,h2h,,BetMGM,Guadalajara,2.3800
+2026-11-26T22:41:41+00:00,a648e84f07617a98535305954fc21467,Pachuca vs Guadalajara,h2h,,BetMGM,Pachuca,2.9000
+2026-11-26T22:41:41+00:00,a648e84f07617a98535305954fc21467,Pachuca vs Guadalajara,h2h,,BetMGM,Draw,3.2500
+2026-11-26T22:41:41+00:00,a648e84f07617a98535305954fc21467,Pachuca vs Guadalajara,h2h,,BetOnline.ag,Guadalajara,2.5000
+2026-11-26T22:41:41+00:00,a648e84f07617a98535305954fc21467,Pachuca vs Guadalajara,h2h,,BetOnline.ag,Pachuca,3.0900
+2026-11-26T22:41:41+00:00,a648e84f07617a98535305954fc21467,Pachuca vs Guadalajara,h2h,,BetOnline.ag,Draw,3.2200
+2026-11-26T22:41:41+00:00,a648e84f07617a98535305954fc21467,Pachuca vs Guadalajara,h2h,,FanDuel,Guadalajara,2.4500
+2026-11-26T22:41:41+00:00,a648e84f07617a98535305954fc21467,Pachuca vs Guadalajara,h2h,,FanDuel,Pachuca,2.9500
+2026-11-26T22:41:41+00:00,a648e84f07617a98535305954fc21467,Pachuca vs Guadalajara,h2h,,FanDuel,Draw,3.1000
+2026-11-26T22:41:41+00:00,a648e84f07617a98535305954fc21467,Pachuca vs Guadalajara,h2h,,BetUS,Guadalajara,2.4000
+2026-11-26T22:41:41+00:00,a648e84f07617a98535305954fc21467,Pachuca vs Guadalajara,h2h,,BetUS,Pachuca,3.1000
+2026-11-26T22:41:41+00:00,a648e84f07617a98535305954fc21467,Pachuca vs Guadalajara,h2h,,BetUS,Draw,3.1000
+2026-11-26T22:41:41+00:00,a648e84f07617a98535305954fc21467,Pachuca vs Guadalajara,h2h,,DraftKings,Guadalajara,2.4500
+2026-11-26T22:41:41+00:00,a648e84f07617a98535305954fc21467,Pachuca vs Guadalajara,h2h,,DraftKings,Pachuca,2.9500
+2026-11-26T22:41:41+00:00,a648e84f07617a98535305954fc21467,Pachuca vs Guadalajara,h2h,,DraftKings,Draw,3.2000
+2026-11-26T22:41:41+00:00,a648e84f07617a98535305954fc21467,Pachuca vs Guadalajara,totals,2.5,BetRivers,Over +2.5,1.7900
+2026-11-26T22:41:41+00:00,a648e84f07617a98535305954fc21467,Pachuca vs Guadalajara,totals,2.5,BetRivers,Under +2.5,1.9200
+2026-11-26T22:41:41+00:00,a648e84f07617a98535305954fc21467,Pachuca vs Guadalajara,totals,2.5,LowVig.ag,Over +2.5,1.9800
+2026-11-26T22:41:41+00:00,a648e84f07617a98535305954fc21467,Pachuca vs Guadalajara,totals,2.5,LowVig.ag,Under +2.5,1.8300
+2026-11-26T22:41:41+00:00,a648e84f07617a98535305954fc21467,Pachuca vs Guadalajara,totals,2.5,BetMGM,Over +2.5,1.9100
+2026-11-26T22:41:41+00:00,a648e84f07617a98535305954fc21467,Pachuca vs Guadalajara,totals,2.5,BetMGM,Under +2.5,1.7700
+2026-11-26T22:41:41+00:00,a648e84f07617a98535305954fc21467,Pachuca vs Guadalajara,totals,2.5,BetOnline.ag,Over +2.5,1.9800
+2026-11-26T22:41:41+00:00,a648e84f07617a98535305954fc21467,Pachuca vs Guadalajara,totals,2.5,BetOnline.ag,Under +2.5,1.8300
+2026-11-26T22:41:41+00:00,a648e84f07617a98535305954fc21467,Pachuca vs Guadalajara,totals,2.5,BetUS,Over +2.5,2.0300
+2026-11-26T22:41:41+00:00,a648e84f07617a98535305954fc21467,Pachuca vs Guadalajara,totals,2.5,BetUS,Under +2.5,1.7500
+2026-11-26T22:41:41+00:00,a648e84f07617a98535305954fc21467,Pachuca vs Guadalajara,spreads,0.0,LowVig.ag,Guadalajara +0,1.7400
+2026-11-26T22:41:41+00:00,a648e84f07617a98535305954fc21467,Pachuca vs Guadalajara,spreads,0.0,LowVig.ag,Pachuca +0,2.1200
+2026-11-26T22:41:41+00:00,a648e84f07617a98535305954fc21467,Pachuca vs Guadalajara,spreads,0.0,BetOnline.ag,Guadalajara +0,1.7400
+2026-11-26T22:41:41+00:00,a648e84f07617a98535305954fc21467,Pachuca vs Guadalajara,spreads,0.0,BetOnline.ag,Pachuca +0,2.1200
+2026-11-26T22:41:41+00:00,6a6e4753173f8db212cb4b448a892c6f,León vs Cruz Azul,h2h,,BetRivers,Cruz Azul,2.0400
+2026-11-26T22:41:41+00:00,6a6e4753173f8db212cb4b448a892c6f,León vs Cruz Azul,h2h,,BetRivers,León,3.2000
+2026-11-26T22:41:41+00:00,6a6e4753173f8db212cb4b448a892c6f,León vs Cruz Azul,h2h,,BetRivers,Draw,3.5000
+2026-11-26T22:41:41+00:00,6a6e4753173f8db212cb4b448a892c6f,León vs Cruz Azul,h2h,,BetMGM,Cruz Azul,2.1000
+2026-11-26T22:41:41+00:00,6a6e4753173f8db212cb4b448a892c6f,León vs Cruz Azul,h2h,,BetMGM,León,3.2000
+2026-11-26T22:41:41+00:00,6a6e4753173f8db212cb4b448a892c6f,León vs Cruz Azul,h2h,,BetMGM,Draw,3.5000
+2026-11-26T22:41:41+00:00,6a6e4753173f8db212cb4b448a892c6f,León vs Cruz Azul,h2h,,FanDuel,Cruz Azul,2.1000
+2026-11-26T22:41:41+00:00,6a6e4753173f8db212cb4b448a892c6f,León vs Cruz Azul,h2h,,FanDuel,León,3.3000
+2026-11-26T22:41:41+00:00,6a6e4753173f8db212cb4b448a892c6f,León vs Cruz Azul,h2h,,FanDuel,Draw,3.5000
+2026-11-26T22:41:41+00:00,6a6e4753173f8db212cb4b448a892c6f,León vs Cruz Azul,h2h,,LowVig.ag,Cruz Azul,2.1800
+2026-11-26T22:41:41+00:00,6a6e4753173f8db212cb4b448a892c6f,León vs Cruz Azul,h2h,,LowVig.ag,León,3.2800
+2026-11-26T22:41:41+00:00,6a6e4753173f8db212cb4b448a892c6f,León vs Cruz Azul,h2h,,LowVig.ag,Draw,3.6900
+2026-11-26T22:41:41+00:00,6a6e4753173f8db212cb4b448a892c6f,León vs Cruz Azul,h2h,,BetOnline.ag,Cruz Azul,2.1800
+2026-11-26T22:41:41+00:00,6a6e4753173f8db212cb4b448a892c6f,León vs Cruz Azul,h2h,,BetOnline.ag,León,3.2800
+2026-11-26T22:41:41+00:00,6a6e4753173f8db212cb4b448a892c6f,León vs Cruz Azul,h2h,,BetOnline.ag,Draw,3.6900
+2026-11-26T22:41:41+00:00,6a6e4753173f8db212cb4b448a892c6f,León vs Cruz Azul,h2h,,BetUS,Cruz Azul,2.1000
+2026-11-26T22:41:41+00:00,6a6e4753173f8db212cb4b448a892c6f,León vs Cruz Azul,h2h,,BetUS,León,3.3000
+2026-11-26T22:41:41+00:00,6a6e4753173f8db212cb4b448a892c6f,León vs Cruz Azul,h2h,,BetUS,Draw,3.5000
+2026-11-26T22:41:41+00:00,6a6e4753173f8db212cb4b448a892c6f,León vs Cruz Azul,h2h,,DraftKings,Cruz Azul,2.1500
+2026-11-26T22:41:41+00:00,6a6e4753173f8db212cb4b448a892c6f,León vs Cruz Azul,h2h,,DraftKings,León,3.2000
+2026-11-26T22:41:41+00:00,6a6e4753173f8db212cb4b448a892c6f,León vs Cruz Azul,h2h,,DraftKings,Draw,3.6000
+2026-11-26T22:41:41+00:00,6a6e4753173f8db212cb4b448a892c6f,León vs Cruz Azul,totals,2.5,BetRivers,Over +2.5,1.6200
+2026-11-26T22:41:41+00:00,6a6e4753173f8db212cb4b448a892c6f,León vs Cruz Azul,totals,2.5,BetRivers,Under +2.5,2.1500
+2026-11-26T22:41:41+00:00,6a6e4753173f8db212cb4b448a892c6f,León vs Cruz Azul,totals,2.5,BetMGM,Over +2.5,1.6900
+2026-11-26T22:41:41+00:00,6a6e4753173f8db212cb4b448a892c6f,León vs Cruz Azul,totals,2.5,BetMGM,Under +2.5,2.0500
+2026-11-26T22:41:41+00:00,6a6e4753173f8db212cb4b448a892c6f,León vs Cruz Azul,totals,2.5,LowVig.ag,Over +2.5,1.7400
+2026-11-26T22:41:41+00:00,6a6e4753173f8db212cb4b448a892c6f,León vs Cruz Azul,totals,2.5,LowVig.ag,Under +2.5,2.0400
+2026-11-26T22:41:41+00:00,6a6e4753173f8db212cb4b448a892c6f,León vs Cruz Azul,totals,2.5,BetOnline.ag,Over +2.5,1.7400
+2026-11-26T22:41:41+00:00,6a6e4753173f8db212cb4b448a892c6f,León vs Cruz Azul,totals,2.5,BetOnline.ag,Under +2.5,2.0400
+2026-11-26T22:41:41+00:00,6a6e4753173f8db212cb4b448a892c6f,León vs Cruz Azul,totals,2.5,BetUS,Over +2.5,1.7400
+2026-11-26T22:41:41+00:00,6a6e4753173f8db212cb4b448a892c6f,León vs Cruz Azul,totals,2.5,BetUS,Under +2.5,2.0500
+2026-11-26T22:41:41+00:00,6a6e4753173f8db212cb4b448a892c6f,León vs Cruz Azul,spreads,-0.5,LowVig.ag,Cruz Azul -0.5,2.1800
+2026-11-26T22:41:41+00:00,6a6e4753173f8db212cb4b448a892c6f,León vs Cruz Azul,spreads,0.5,LowVig.ag,León +0.5,1.6800
+2026-11-26T22:41:41+00:00,6a6e4753173f8db212cb4b448a892c6f,León vs Cruz Azul,spreads,-0.5,BetOnline.ag,Cruz Azul -0.5,2.1800
+2026-11-26T22:41:41+00:00,6a6e4753173f8db212cb4b448a892c6f,León vs Cruz Azul,spreads,0.5,BetOnline.ag,León +0.5,1.6800
+2026-11-26T22:41:41+00:00,6a6e4753173f8db212cb4b448a892c6f,León vs Cruz Azul,spreads,-0.5,BetUS,Cruz Azul -0.5,2.0800
+2026-11-26T22:41:41+00:00,6a6e4753173f8db212cb4b448a892c6f,León vs Cruz Azul,spreads,0.5,BetUS,León +0.5,1.7200
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,h2h,,BetRivers,Remo,8.0000
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,h2h,,BetRivers,Sao Paulo,1.3500
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,h2h,,BetRivers,Draw,4.3500
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,h2h,,FanDuel,Remo,8.0000
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,h2h,,FanDuel,Sao Paulo,1.3300
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,h2h,,FanDuel,Draw,4.8000
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,h2h,,BetMGM,Remo,8.5000
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,h2h,,BetMGM,Sao Paulo,1.3600
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,h2h,,BetMGM,Draw,4.8000
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,h2h,,MyBookie.ag,Remo,9.1000
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,h2h,,MyBookie.ag,Sao Paulo,1.3500
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,h2h,,MyBookie.ag,Draw,4.8000
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,h2h,,LowVig.ag,Remo,9.0000
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,h2h,,LowVig.ag,Sao Paulo,1.3900
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,h2h,,LowVig.ag,Draw,4.8000
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,h2h,,BetOnline.ag,Remo,10.0000
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,h2h,,BetOnline.ag,Sao Paulo,1.3300
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,h2h,,BetOnline.ag,Draw,5.4000
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,h2h,,DraftKings,Remo,8.5000
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,h2h,,DraftKings,Sao Paulo,1.3700
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,h2h,,DraftKings,Draw,4.8000
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,h2h,,Bovada,Remo,8.0000
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,h2h,,Bovada,Sao Paulo,1.3600
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,h2h,,Bovada,Draw,4.7000
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,h2h,,BetUS,Remo,8.7500
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,h2h,,BetUS,Sao Paulo,1.3400
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,h2h,,BetUS,Draw,4.7000
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,totals,2.5,BetRivers,Over +2.5,1.8800
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,totals,2.5,BetRivers,Under +2.5,1.8500
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,totals,2.5,BetMGM,Over +2.5,1.8000
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,totals,2.5,BetMGM,Under +2.5,1.8900
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,totals,2.5,MyBookie.ag,Over +2.5,1.8400
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,totals,2.5,MyBookie.ag,Under +2.5,1.9000
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,totals,2.5,LowVig.ag,Over +2.5,1.8600
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,totals,2.5,LowVig.ag,Under +2.5,1.9500
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,totals,2.5,BetOnline.ag,Over +2.5,1.8600
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,totals,2.5,BetOnline.ag,Under +2.5,1.9500
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,totals,2.5,Bovada,Over +2.5,1.8900
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,totals,2.5,Bovada,Under +2.5,1.9300
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,totals,2.5,BetUS,Over +2.5,1.8700
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,totals,2.5,BetUS,Under +2.5,1.8700
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,spreads,1.5,MyBookie.ag,Remo +1.5,1.7500
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,spreads,-1.5,MyBookie.ag,Sao Paulo -1.5,2.0000
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,spreads,1.5,LowVig.ag,Remo +1.5,1.8100
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,spreads,-1.5,LowVig.ag,Sao Paulo -1.5,2.0200
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,spreads,1.5,BetOnline.ag,Remo +1.5,1.8100
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,spreads,-1.5,BetOnline.ag,Sao Paulo -1.5,2.0200
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,spreads,1.25,Bovada,Remo +1.25,1.9500
+2026-11-26T22:41:41+00:00,908ac2d3341c0dd5d86e300affa06f15,Sao Paulo vs Remo,spreads,-1.25,Bovada,Sao Paulo -1.25,1.8700
+2026-11-26T22:41:41+00:00,acbf7c0545986cd60dd4e4cb0152bd41,Macarthur FC vs Melbourne City,h2h,,BetMGM,Macarthur FC,3.2500
+2026-11-26T22:41:41+00:00,acbf7c0545986cd60dd4e4cb0152bd41,Macarthur FC vs Melbourne City,h2h,,BetMGM,Melbourne City,2.0500
+2026-11-26T22:41:41+00:00,acbf7c0545986cd60dd4e4cb0152bd41,Macarthur FC vs Melbourne City,h2h,,BetMGM,Draw,3.6000
+2026-11-26T22:41:41+00:00,acbf7c0545986cd60dd4e4cb0152bd41,Macarthur FC vs Melbourne City,h2h,,BetOnline.ag,Macarthur FC,3.4100
+2026-11-26T22:41:41+00:00,acbf7c0545986cd60dd4e4cb0152bd41,Macarthur FC vs Melbourne City,h2h,,BetOnline.ag,Melbourne City,2.1200
+2026-11-26T22:41:41+00:00,acbf7c0545986cd60dd4e4cb0152bd41,Macarthur FC vs Melbourne City,h2h,,BetOnline.ag,Draw,3.7000
+2026-11-26T22:41:41+00:00,acbf7c0545986cd60dd4e4cb0152bd41,Macarthur FC vs Melbourne City,h2h,,LowVig.ag,Macarthur FC,3.4100
+2026-11-26T22:41:41+00:00,acbf7c0545986cd60dd4e4cb0152bd41,Macarthur FC vs Melbourne City,h2h,,LowVig.ag,Melbourne City,2.1200
+2026-11-26T22:41:41+00:00,acbf7c0545986cd60dd4e4cb0152bd41,Macarthur FC vs Melbourne City,h2h,,LowVig.ag,Draw,3.7000
+2026-11-26T22:41:41+00:00,acbf7c0545986cd60dd4e4cb0152bd41,Macarthur FC vs Melbourne City,h2h,,Bovada,Macarthur FC,3.2500
+2026-11-26T22:41:41+00:00,acbf7c0545986cd60dd4e4cb0152bd41,Macarthur FC vs Melbourne City,h2h,,Bovada,Melbourne City,2.0900
+2026-11-26T22:41:41+00:00,acbf7c0545986cd60dd4e4cb0152bd41,Macarthur FC vs Melbourne City,h2h,,Bovada,Draw,3.5500
+2026-11-26T22:41:41+00:00,acbf7c0545986cd60dd4e4cb0152bd41,Macarthur FC vs Melbourne City,h2h,,DraftKings,Macarthur FC,3.3000
+2026-11-26T22:41:41+00:00,acbf7c0545986cd60dd4e4cb0152bd41,Macarthur FC vs Melbourne City,h2h,,DraftKings,Melbourne City,2.1000
+2026-11-26T22:41:41+00:00,acbf7c0545986cd60dd4e4cb0152bd41,Macarthur FC vs Melbourne City,h2h,,DraftKings,Draw,3.6000
+2026-11-26T22:41:41+00:00,acbf7c0545986cd60dd4e4cb0152bd41,Macarthur FC vs Melbourne City,totals,2.5,BetMGM,Over +2.5,1.6700
+2026-11-26T22:41:41+00:00,acbf7c0545986cd60dd4e4cb0152bd41,Macarthur FC vs Melbourne City,totals,2.5,BetMGM,Under +2.5,2.0500
+2026-11-26T22:41:41+00:00,acbf7c0545986cd60dd4e4cb0152bd41,Macarthur FC vs Melbourne City,totals,2.5,BetOnline.ag,Over +2.5,1.7100
+2026-11-26T22:41:41+00:00,acbf7c0545986cd60dd4e4cb0152bd41,Macarthur FC vs Melbourne City,totals,2.5,BetOnline.ag,Under +2.5,2.0800
+2026-11-26T22:41:41+00:00,acbf7c0545986cd60dd4e4cb0152bd41,Macarthur FC vs Melbourne City,totals,2.5,LowVig.ag,Over +2.5,1.7100
+2026-11-26T22:41:41+00:00,acbf7c0545986cd60dd4e4cb0152bd41,Macarthur FC vs Melbourne City,totals,2.5,LowVig.ag,Under +2.5,2.0800
+2026-11-26T22:41:41+00:00,acbf7c0545986cd60dd4e4cb0152bd41,Macarthur FC vs Melbourne City,totals,2.75,Bovada,Over +2.75,1.9100
+2026-11-26T22:41:41+00:00,acbf7c0545986cd60dd4e4cb0152bd41,Macarthur FC vs Melbourne City,totals,2.75,Bovada,Under +2.75,1.9100
+2026-11-26T22:41:41+00:00,acbf7c0545986cd60dd4e4cb0152bd41,Macarthur FC vs Melbourne City,spreads,0.5,BetOnline.ag,Macarthur FC +0.5,1.7200
+2026-11-26T22:41:41+00:00,acbf7c0545986cd60dd4e4cb0152bd41,Macarthur FC vs Melbourne City,spreads,-0.5,BetOnline.ag,Melbourne City -0.5,2.1200
+2026-11-26T22:41:41+00:00,acbf7c0545986cd60dd4e4cb0152bd41,Macarthur FC vs Melbourne City,spreads,0.5,LowVig.ag,Macarthur FC +0.5,1.7200
+2026-11-26T22:41:41+00:00,acbf7c0545986cd60dd4e4cb0152bd41,Macarthur FC vs Melbourne City,spreads,-0.5,LowVig.ag,Melbourne City -0.5,2.1200
+2026-11-26T22:41:41+00:00,acbf7c0545986cd60dd4e4cb0152bd41,Macarthur FC vs Melbourne City,spreads,0.25,Bovada,Macarthur FC +0.25,2.0000
+2026-11-26T22:41:41+00:00,acbf7c0545986cd60dd4e4cb0152bd41,Macarthur FC vs Melbourne City,spreads,-0.25,Bovada,Melbourne City -0.25,1.8300
